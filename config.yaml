@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "PKUcoldkeyboard"
+user_name: "Gs-ygc"
 repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,37 +22,15 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Brain Simulation":
-        filters: 
-            ["Brain Simulation", "Neural Network Simulation", "Neuroscience Simulation"]
-    "Spiking Neural Networks":
-        filters: 
-            ["Spiking Neural Networks", "SNN", "Neuromorphic Computing"]
-    "Neuromorphic Computing":
-        filters:
-            ["Neuromorphic Computing", "Neuromorphic Systems", "Neuromorphic Engineering", "Neuromorphic Hardware"]
-    "Neural Coding":
-        filters:
-            ["Neural Coding", "Neural Code", "Coding in Neural Networks", "Neural Representation"]
-    "Brain Modelling and Simulation":
-        filters:
-            ["Computational Brain Modelling", "Brain Simulation", "Neural Circuit Modelling", "Multiscale Brain Modelling"]
-    "High Performance Computing for Neuroscience":
-        filters:
-            ["High Performance Computing in Neuroscience", "Supercomputing for Brain Simulation", "Parallel Computing for Neural Modelling", "Big Data in Neuroscience"]
-    "MPI Communication": 
-        filters: 
-            ["MPI Communication", "Message Passing Interface", "MPI Protocols", "MPI Performance", "MPI Topologies"]
-    "MPI": 
-        filters: 
-            ["MPI", "Message Passing Interface", "MPI Library", "MPI API", "MPI Programming"]
-    "RDMA": 
-        filters: 
-            ["RDMA", "Remote Direct Memory Access", "RDMA Communication", "RDMA Protocols", "RDMA Performance"]
-    "MPI Collectives": 
-        filters: 
-            ["MPI Collectives", "Collective Communication", "MPI Collective Operations", "MPI Collective Algorithms", "MPI Collective Performance"]
-    "Asynchronous Progress":
-        filters:
-            ["Asynchronous Progress"]
+        "LLM":
+        filters: ["LLM", "MLsys"]
+    "Machine Learning":
+        filters: ["Machine Learning", "Deep Learning", "Neural Networks", 
+                  "Supervised Learning", "Unsupervised Learning"]
+    "Computer Architecture":
+        filters: ["Computer Architecture", "Processor Design", 
+                  "Memory Systems", "Parallel Processing"]
+    "MLOps":
+        filters: ["MLOps", "Machine Learning Operations", 
+                  "Model Deployment", "Data Pipeline"]
     
