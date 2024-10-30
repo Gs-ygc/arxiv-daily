@@ -25,7 +25,7 @@ keywords:
         "LLM":
                 filters: ["LLM", "MLsys"]
         "Machine Learning":
-                filters: ["Machine Learning", "Deep Learning", "Neural Networks", 
+                filters: ["LLM", "MLsys", "Machine Learning", "Deep Learning", "Neural Networks", 
                           "Supervised Learning", "Unsupervised Learning"]
         "Computer Architecture":
                 filters: ["Computer Architecture", "Processor Design", 
