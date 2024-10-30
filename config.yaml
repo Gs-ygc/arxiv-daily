@@ -23,14 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
         "LLM":
-        filters: ["LLM", "MLsys"]
-    "Machine Learning":
-        filters: ["Machine Learning", "Deep Learning", "Neural Networks", 
-                  "Supervised Learning", "Unsupervised Learning"]
-    "Computer Architecture":
-        filters: ["Computer Architecture", "Processor Design", 
-                  "Memory Systems", "Parallel Processing"]
-    "MLOps":
-        filters: ["MLOps", "Machine Learning Operations", 
-                  "Model Deployment", "Data Pipeline"]
+                filters: ["LLM", "MLsys"]
+        "Machine Learning":
+                filters: ["Machine Learning", "Deep Learning", "Neural Networks", 
+                          "Supervised Learning", "Unsupervised Learning"]
+        "Computer Architecture":
+                filters: ["Computer Architecture", "Processor Design", 
+                          "Memory Systems", "Parallel Processing"]
+        "MLOps":
+                filters: ["MLOps", "Machine Learning Operations", 
+                          "Model Deployment", "Data Pipeline"]
     
