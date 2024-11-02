@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -13,7 +13,7 @@ layout: default
 |**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222](http://arxiv.org/abs/2410.24222)|null|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
-|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|**[link](https://github.com/remigenet/Caadam)**|
 |**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
 |**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
 |**2024-10-31**|**TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**|Yury Gorishniy et.al.|[2410.24210](http://arxiv.org/abs/2410.24210)|**[link](https://github.com/yandex-research/tabm)**|
@@ -55,7 +55,7 @@ layout: default
 |**2024-10-29**|**osl-ephys: A Python toolbox for the analysis of electrophysiology data**|Mats W. J. van Es et.al.|[2410.22051](http://arxiv.org/abs/2410.22051)|null|
 |**2024-10-28**|**Asynchronous Tool Usage for Real-Time Agents**|Antonio A. Ginart et.al.|[2410.21620](http://arxiv.org/abs/2410.21620)|null|
 |**2024-10-28**|**Standalone mobile quantum memory system**|Martin Jutisz et.al.|[2410.21209](http://arxiv.org/abs/2410.21209)|null|
-|**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|null|
+|**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|**[link](https://github.com/lrse-uba/covoxslam)**|
 |**2024-10-26**|**Efficient Frequency Allocation for Superconducting Quantum Processors Using Improved Optimization Techniques**|Zewen Zhang et.al.|[2410.20283](http://arxiv.org/abs/2410.20283)|null|
 |**2024-10-24**|**DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis**|Mahtab Ranjbar et.al.|[2410.19166](http://arxiv.org/abs/2410.19166)|null|
 |**2024-10-23**|**FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling**|Qijun Zhang et.al.|[2410.17789](http://arxiv.org/abs/2410.17789)|**[link](https://github.com/hkust-zhiyao/FirePower)**|
