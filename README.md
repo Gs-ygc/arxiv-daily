@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
+|**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
+|**2024-11-04**|**Linear Causal Bandits: Unknown Graph and Soft Interventions**|Zirui Yan et.al.|[2411.02383](http://arxiv.org/abs/2411.02383)|null|
+|**2024-11-04**|**Whack-a-mole Online Learning: Physics-Informed Neural Network for Intraday Implied Volatility Surface**|Kentaro Hoshisashi et.al.|[2411.02375](http://arxiv.org/abs/2411.02375)|null|
+|**2024-11-04**|**Learning General-Purpose Biomedical Volume Representations using Randomized Synthesis**|Neel Dey et.al.|[2411.02372](http://arxiv.org/abs/2411.02372)|**[link](https://github.com/neel-dey/anatomix)**|
+|**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
+|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
+|**2024-11-04**|**Machine learning identification of maternal inflammatory response and histologic choroamnionitis from placental membrane whole slide images**|Abhishek Sharma et.al.|[2411.02354](http://arxiv.org/abs/2411.02354)|null|
+|**2024-11-04**|**Physically Based Neural Bidirectional Reflectance Distribution Function**|Chenliang Zhou et.al.|[2411.02347](http://arxiv.org/abs/2411.02347)|null|
+|**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
 |**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222](http://arxiv.org/abs/2410.24222)|null|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
@@ -44,6 +54,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|null|
+|**2024-11-04**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|null|
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|null|
+|**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
+|**2024-11-01**|**Human-inspired Perspectives: A Survey on AI Long-term Memory**|Zihong He et.al.|[2411.00489](http://arxiv.org/abs/2411.00489)|null|
+|**2024-10-31**|**A Universal Quantum Computer From Relativistic Motion**|Philip A. LeMaitre et.al.|[2411.00105](http://arxiv.org/abs/2411.00105)|null|
 |**2024-10-31**|**SUANPAN: Scalable Photonic Linear Vector Machine**|Ziyue Yang et.al.|[2410.23659](http://arxiv.org/abs/2410.23659)|null|
 |**2024-10-30**|**Hybrid cat-transmon architecture for scalable, hardware-efficient quantum error correction**|Connor T. Hann et.al.|[2410.23363](http://arxiv.org/abs/2410.23363)|null|
 |**2024-10-30**|**Self-optimization in distributed manufacturing systems using Modular State-based Stackelberg Games**|Steve Yuwono et.al.|[2410.22912](http://arxiv.org/abs/2410.22912)|null|
@@ -66,6 +82,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-03**|**Leveraging Microservices Architecture for Dynamic Pricing in the Travel Industry: Algorithms, Scalability, and Impact on Revenue and Customer Satisfaction**|Biman Barua et.al.|[2411.01636](http://arxiv.org/abs/2411.01636)|null|
 |**2024-10-30**|**Nanoscale Connectomics Annotation Standards Framework**|Nicole K. Guittari et.al.|[2410.22320](http://arxiv.org/abs/2410.22320)|null|
 |**2024-10-28**|**Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach**|Firas Bayram et.al.|[2410.21346](http://arxiv.org/abs/2410.21346)|null|
 |**2024-10-29**|**AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions**|Ziming Li et.al.|[2410.20424](http://arxiv.org/abs/2410.20424)|**[link](https://github.com/multimodal-art-projection/AutoKaggle)**|
