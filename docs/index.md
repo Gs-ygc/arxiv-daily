@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**Extreme events at the onset of epileptic-like chimeras in small-world networks of FitzHugh-Nagumo neurons**|Javier Cubillos Cornejo et.al.|[2411.03311](http://arxiv.org/abs/2411.03311)|null|
+|**2024-11-05**|**Automatic solid form classification in pharmaceutical drug development**|Julius Lange et.al.|[2411.03308](http://arxiv.org/abs/2411.03308)|null|
+|**2024-11-05**|**Quantum One-Time Protection of any Randomized Algorithm**|Sam Gunn et.al.|[2411.03305](http://arxiv.org/abs/2411.03305)|null|
+|**2024-11-05**|**ShadowGPT: Learning to Solve Quantum Many-Body Problems from Randomized Measurements**|Jian Yao et.al.|[2411.03285](http://arxiv.org/abs/2411.03285)|null|
+|**2024-11-05**|**Oblivious Defense in ML Models: Backdoor Removal without Detection**|Shafi Goldwasser et.al.|[2411.03279](http://arxiv.org/abs/2411.03279)|null|
+|**2024-11-05**|**Graph-Based Semi-Supervised Segregated Lipschitz Learning**|Farid Bozorgnia et.al.|[2411.03273](http://arxiv.org/abs/2411.03273)|null|
+|**2024-11-05**|**Stable Matching with Ties: Approximation Ratios and Learning**|Shiyun Lin et.al.|[2411.03270](http://arxiv.org/abs/2411.03270)|null|
+|**2024-11-05**|**Proxy-informed Bayesian transfer learning with unknown sources**|Sabina J. Sloman et.al.|[2411.03263](http://arxiv.org/abs/2411.03263)|null|
+|**2024-11-05**|**Discovering Data Structures: Nearest Neighbor Search and Beyond**|Omar Salemohamed et.al.|[2411.03253](http://arxiv.org/abs/2411.03253)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
 |**2024-11-04**|**Linear Causal Bandits: Unknown Graph and Soft Interventions**|Zirui Yan et.al.|[2411.02383](http://arxiv.org/abs/2411.02383)|null|
@@ -58,9 +68,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-04**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|null|
+|**2024-11-05**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|null|
 |**2024-11-04**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|null|
-|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|null|
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|**[link](https://github.com/btfrontier/polygon_mapping)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-01**|**Human-inspired Perspectives: A Survey on AI Long-term Memory**|Zihong He et.al.|[2411.00489](http://arxiv.org/abs/2411.00489)|null|
 |**2024-10-31**|**A Universal Quantum Computer From Relativistic Motion**|Philip A. LeMaitre et.al.|[2411.00105](http://arxiv.org/abs/2411.00105)|null|
