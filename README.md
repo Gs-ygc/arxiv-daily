@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
+|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002](http://arxiv.org/abs/2411.05002)|null|
+|**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001](http://arxiv.org/abs/2411.05001)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
+|**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
+|**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992](http://arxiv.org/abs/2411.04992)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
@@ -74,6 +84,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
+|**2024-11-06**|**Optimizing Multi-level Magic State Factories for Fault-Tolerant Quantum Architectures**|Allyson Silva et.al.|[2411.04270](http://arxiv.org/abs/2411.04270)|null|
 |**2024-11-06**|**WiP: Towards a Secure SECP256K1 for Crypto Wallets: Hardware Architecture and Implementation**|Joel Poncha Lemayian et.al.|[2411.03910](http://arxiv.org/abs/2411.03910)|null|
 |**2024-11-05**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|null|
 |**2024-11-06**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|null|
