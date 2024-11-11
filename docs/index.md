@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -91,8 +91,8 @@ layout: default
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
 |**2024-11-06**|**Optimizing Multi-level Magic State Factories for Fault-Tolerant Quantum Architectures**|Allyson Silva et.al.|[2411.04270](http://arxiv.org/abs/2411.04270)|null|
 |**2024-11-06**|**WiP: Towards a Secure SECP256K1 for Crypto Wallets: Hardware Architecture and Implementation**|Joel Poncha Lemayian et.al.|[2411.03910](http://arxiv.org/abs/2411.03910)|null|
-|**2024-11-05**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|null|
-|**2024-11-06**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|null|
+|**2024-11-05**|**A Comprehensive Simulation Framework for CXL Disaggregated Memory**|Wentao Hong et.al.|[2411.02282](http://arxiv.org/abs/2411.02282)|**[link](https://github.com/ferry-hhh/CXL-DMSim)**|
+|**2024-11-06**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|**[link](https://github.com/puzzlef/louvain-lowmem-communities-openmp)**|
 |**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|**[link](https://github.com/btfrontier/polygon_mapping)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-01**|**Human-inspired Perspectives: A Survey on AI Long-term Memory**|Zihong He et.al.|[2411.00489](http://arxiv.org/abs/2411.00489)|null|
