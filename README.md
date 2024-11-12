@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
+|**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
+|**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
+|**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223](http://arxiv.org/abs/2411.07223)|null|
+|**2024-11-11**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
+|**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
 |**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
 |**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780](http://arxiv.org/abs/2411.05780)|null|
 |**2024-11-08**|**Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway Tree Segmentation**|Maxime Jacovella et.al.|[2411.05779](http://arxiv.org/abs/2411.05779)|null|
@@ -94,6 +104,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
+|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|null|
+|**2024-11-11**|**Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**|Lu Yu et.al.|[2411.06773](http://arxiv.org/abs/2411.06773)|null|
+|**2024-11-11**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
+|**2024-11-10**|**Low bit-flip rate probabilistic error cancellation**|Mathys Rennela et.al.|[2411.06422](http://arxiv.org/abs/2411.06422)|null|
+|**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
 |**2024-11-08**|**Large problems are not necessarily hard: A case study on distributed NMPC paying off**|Gösta Stomberg et.al.|[2411.05627](http://arxiv.org/abs/2411.05627)|null|
 |**2024-11-08**|**GPUVM: GPU-driven Unified Virtual Memory**|Nurlan Nazaraliyev et.al.|[2411.05309](http://arxiv.org/abs/2411.05309)|null|
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
@@ -127,6 +143,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-09**|**Towards an Efficient Synthetic Image Data Pipeline for Training Vision-Based Robot Systems**|Peter Gavriel et.al.|[2411.06166](http://arxiv.org/abs/2411.06166)|null|
 |**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
 |**2024-11-06**|**ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks**|Ziji Shi et.al.|[2411.03999](http://arxiv.org/abs/2411.03999)|null|
 |**2024-11-06**|**RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**|Ian Poey et.al.|[2411.03920](http://arxiv.org/abs/2411.03920)|null|
