@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702](http://arxiv.org/abs/2411.09702)|null|
+|**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687](http://arxiv.org/abs/2411.09687)|null|
+|**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686](http://arxiv.org/abs/2411.09686)|null|
+|**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683](http://arxiv.org/abs/2411.09683)|null|
+|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**How to implement the Bayes' formula in the age of ML?**|Amirhossein Taghvaei et.al.|[2411.09653](http://arxiv.org/abs/2411.09653)|null|
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
+|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
+|**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
@@ -128,6 +138,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Architectural Exploration of Application-Specific Resonant SRAM Compute-in-Memory (rCiM)**|Dhandeep Challagundla et.al.|[2411.09546](http://arxiv.org/abs/2411.09546)|null|
+|**2024-11-14**|**Enhancing Scalability and Performance in Influence Maximization with Optimized Parallel Processing**|Hanjiang Wu et.al.|[2411.09473](http://arxiv.org/abs/2411.09473)|null|
+|**2024-11-14**|**Parallel in time partially explicit splitting scheme for high contrast multiscale problems**|Zhengya Yang et.al.|[2411.09244](http://arxiv.org/abs/2411.09244)|null|
 |**2024-11-13**|**Robust Divergence Learning for Missing-Modality Segmentation**|Runze Cheng et.al.|[2411.08305](http://arxiv.org/abs/2411.08305)|null|
 |**2024-11-12**|**Web-Based Simulator of Superscalar RISC-V Processors**|Jiri Jaros et.al.|[2411.07721](http://arxiv.org/abs/2411.07721)|**[link](https://github.com/Sekky61/riscv-sim)**|
 |**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
