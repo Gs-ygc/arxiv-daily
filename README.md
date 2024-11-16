@@ -1,4 +1,4 @@
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -10,7 +10,7 @@
 |**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687](http://arxiv.org/abs/2411.09687)|null|
 |**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686](http://arxiv.org/abs/2411.09686)|null|
 |**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683](http://arxiv.org/abs/2411.09683)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
 |**2024-11-14**|**How to implement the Bayes' formula in the age of ML?**|Amirhossein Taghvaei et.al.|[2411.09653](http://arxiv.org/abs/2411.09653)|null|
 |**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
