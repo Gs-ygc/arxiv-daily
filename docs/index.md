@@ -21,7 +21,7 @@ layout: default
 |**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
 |**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
-|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
+|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|**[link](https://huggingface.co/wi-lab/lwm)**|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
-|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
 |**2024-11-12**|**Artistic Neural Style Transfer Algorithms with Activation Smoothing**|Xiangtian Li et.al.|[2411.08014](http://arxiv.org/abs/2411.08014)|null|
 |**2024-11-12**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
 |**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
 |**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
-|**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
+|**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|**[link](https://github.com/facebookresearch/watermark-anything)**|
 |**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
 |**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223](http://arxiv.org/abs/2411.07223)|null|
 |**2024-11-11**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
@@ -149,7 +149,7 @@ layout: default
 |**2024-11-12**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
 |**2024-11-10**|**Low bit-flip rate probabilistic error cancellation**|Mathys Rennela et.al.|[2411.06422](http://arxiv.org/abs/2411.06422)|null|
 |**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
-|**2024-11-08**|**Large problems are not necessarily hard: A case study on distributed NMPC paying off**|Gösta Stomberg et.al.|[2411.05627](http://arxiv.org/abs/2411.05627)|null|
+|**2024-11-08**|**Large problems are not necessarily hard: A case study on distributed NMPC paying off**|Gösta Stomberg et.al.|[2411.05627](http://arxiv.org/abs/2411.05627)|**[link](https://github.com/optcon/dmpc_scalability)**|
 |**2024-11-08**|**GPUVM: GPU-driven Unified Virtual Memory**|Nurlan Nazaraliyev et.al.|[2411.05309](http://arxiv.org/abs/2411.05309)|null|
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
 |**2024-11-06**|**Optimizing Multi-level Magic State Factories for Fault-Tolerant Quantum Architectures**|Allyson Silva et.al.|[2411.04270](http://arxiv.org/abs/2411.04270)|null|
