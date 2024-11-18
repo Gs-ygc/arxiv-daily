@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Inverse Melting of Polar Order in a Ferroelectric Oxide**|Yang Zhang et.al.|[2411.10445](http://arxiv.org/abs/2411.10445)|null|
+|**2024-11-15**|**MARS: Unleashing the Power of Variance Reduction for Training Large Models**|Huizhuo Yuan et.al.|[2411.10438](http://arxiv.org/abs/2411.10438)|null|
+|**2024-11-15**|**The Spatial Complexity of Optical Computing and How to Reduce It**|Yandong Li et.al.|[2411.10435](http://arxiv.org/abs/2411.10435)|null|
+|**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
+|**2024-11-15**|**Simulating the two-dimensional $t-J$ model at finite doping with neural quantum states**|Hannah Lange et.al.|[2411.10430](http://arxiv.org/abs/2411.10430)|null|
+|**2024-11-15**|**Private Counterfactual Retrieval With Immutable Features**|Shreya Meel et.al.|[2411.10429](http://arxiv.org/abs/2411.10429)|null|
+|**2024-11-15**|**Back to Supervision: Boosting Word Boundary Detection through Frame Classification**|Simone Carnemolla et.al.|[2411.10423](http://arxiv.org/abs/2411.10423)|null|
+|**2024-11-15**|**Multiscale Dubuc: A New Similarity Measure for Time Series**|Mahsa Khazaei et.al.|[2411.10418](http://arxiv.org/abs/2411.10418)|null|
+|**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
+|**2024-11-15**|**On the Foundation Model for Cardiac MRI Reconstruction**|Chi Zhang et.al.|[2411.10403](http://arxiv.org/abs/2411.10403)|null|
 |**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702](http://arxiv.org/abs/2411.09702)|null|
 |**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687](http://arxiv.org/abs/2411.09687)|null|
 |**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686](http://arxiv.org/abs/2411.09686)|null|
@@ -138,6 +148,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
 |**2024-11-14**|**Architectural Exploration of Application-Specific Resonant SRAM Compute-in-Memory (rCiM)**|Dhandeep Challagundla et.al.|[2411.09546](http://arxiv.org/abs/2411.09546)|null|
 |**2024-11-14**|**Enhancing Scalability and Performance in Influence Maximization with Optimized Parallel Processing**|Hanjiang Wu et.al.|[2411.09473](http://arxiv.org/abs/2411.09473)|null|
 |**2024-11-14**|**Parallel in time partially explicit splitting scheme for high contrast multiscale problems**|Zhengya Yang et.al.|[2411.09244](http://arxiv.org/abs/2411.09244)|null|
@@ -182,6 +193,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Environmental Burden of United States Data Centers in the Artificial Intelligence Era**|Gianluca Guidi et.al.|[2411.09786](http://arxiv.org/abs/2411.09786)|null|
 |**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
 |**2024-11-09**|**Towards an Efficient Synthetic Image Data Pipeline for Training Vision-Based Robot Systems**|Peter Gavriel et.al.|[2411.06166](http://arxiv.org/abs/2411.06166)|null|
