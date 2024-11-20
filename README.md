@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|null|
+|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732](http://arxiv.org/abs/2411.12732)|null|
+|**2024-11-19**|**Testing classical properties from quantum data**|Matthias C. Caro et.al.|[2411.12730](http://arxiv.org/abs/2411.12730)|null|
+|**2024-11-19**|**LazyDINO: Fast, scalable, and efficiently amortized Bayesian inversion via structure-exploiting and surrogate-driven measure transport**|Lianghao Cao et.al.|[2411.12726](http://arxiv.org/abs/2411.12726)|null|
+|**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
+|**2024-11-19**|**Heuristic-Free Multi-Teacher Learning**|Huy Thong Nguyen et.al.|[2411.12724](http://arxiv.org/abs/2411.12724)|null|
+|**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
+|**2024-11-19**|**Travel Time Based Task Mapping for NoC-Based DNN Accelerator**|Yizhi Chen et.al.|[2411.12710](http://arxiv.org/abs/2411.12710)|null|
+|**2024-11-19**|**Barttender: An approachable & interpretable way to compare medical imaging and non-imaging data**|Ayush Singla et.al.|[2411.12707](http://arxiv.org/abs/2411.12707)|null|
+|**2024-11-19**|**Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**|Ahmed Akib Jawad Karim et.al.|[2411.12703](http://arxiv.org/abs/2411.12703)|null|
 |**2024-11-18**|**Pairwise Markov Chains for Volatility Forecasting**|Elie Azeraf et.al.|[2411.11838](http://arxiv.org/abs/2411.11838)|null|
 |**2024-11-18**|**Absorbing state dynamics of stochastic gradient descent**|Guanming Zhang et.al.|[2411.11834](http://arxiv.org/abs/2411.11834)|null|
 |**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
@@ -154,6 +164,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-16**|**Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems**|Ashwin Poduval et.al.|[2411.12583](http://arxiv.org/abs/2411.12583)|null|
+|**2024-11-19**|**CMBAnalysis: A Modern Framework for High-Precision Cosmic Microwave Background Analysis**|Srikrishna S Kashyap et.al.|[2411.12207](http://arxiv.org/abs/2411.12207)|null|
 |**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|null|
 |**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|null|
 |**2024-11-15**|**Breaking the mold: overcoming the time constraints of molecular dynamics on general-purpose hardware**|Danny Perez et.al.|[2411.10532](http://arxiv.org/abs/2411.10532)|null|
@@ -202,6 +214,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Acquire Precise and Comparable Fundus Image Quality Score: FTHNet and FQS Dataset**|Zheng Gong et.al.|[2411.12273](http://arxiv.org/abs/2411.12273)|null|
 |**2024-11-18**|**LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models**|Yungi Kim et.al.|[2411.11289](http://arxiv.org/abs/2411.11289)|null|
 |**2024-11-18**|**Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning**|Yunze Luo et.al.|[2411.11225](http://arxiv.org/abs/2411.11225)|null|
 |**2024-11-16**|**An Empirical Investigation on the Challenges in Scientific Workflow Systems Development**|Khairul Alam et.al.|[2411.10890](http://arxiv.org/abs/2411.10890)|null|
