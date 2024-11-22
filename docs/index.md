@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Transformer-based Heuristic for Advanced Air Mobility Planning**|Jun Xiang et.al.|[2411.14427](http://arxiv.org/abs/2411.14427)|null|
+|**2024-11-21**|**Whack-a-Chip: The Futility of Hardware-Centric Export Controls**|Ritwik Gupta et.al.|[2411.14425](http://arxiv.org/abs/2411.14425)|null|
+|**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
+|**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
+|**2024-11-21**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
+|**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407](http://arxiv.org/abs/2411.14407)|null|
+|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403](http://arxiv.org/abs/2411.14403)|null|
 |**2024-11-20**|**AI-generated Image Detection: Passive or Watermark?**|Moyang Guo et.al.|[2411.13553](http://arxiv.org/abs/2411.13553)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
 |**2024-11-20**|**Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm**|Rushabh Solanki et.al.|[2411.13546](http://arxiv.org/abs/2411.13546)|null|
@@ -178,11 +188,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Static Reuse Profile Estimation for Array Applications**|Abdur Razzak et.al.|[2411.13854](http://arxiv.org/abs/2411.13854)|null|
 |**2024-11-20**|**Demonstration of OpenMC as a framework for atomic transport and plasma interaction**|George J. Wilkie et.al.|[2411.12937](http://arxiv.org/abs/2411.12937)|null|
 |**2024-11-16**|**Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems**|Ashwin Poduval et.al.|[2411.12583](http://arxiv.org/abs/2411.12583)|null|
 |**2024-11-19**|**CMBAnalysis: A Modern Framework for High-Precision Cosmic Microwave Background Analysis**|Srikrishna S Kashyap et.al.|[2411.12207](http://arxiv.org/abs/2411.12207)|null|
-|**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|null|
-|**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|null|
+|**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|**[link](https://github.com/ucla-vast/zac)**|
+|**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|**[link](https://github.com/asbschmidt/gpupairhmm)**|
 |**2024-11-15**|**Breaking the mold: overcoming the time constraints of molecular dynamics on general-purpose hardware**|Danny Perez et.al.|[2411.10532](http://arxiv.org/abs/2411.10532)|null|
 |**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
 |**2024-11-14**|**Architectural Exploration of Application-Specific Resonant SRAM Compute-in-Memory (rCiM)**|Dhandeep Challagundla et.al.|[2411.09546](http://arxiv.org/abs/2411.09546)|null|
@@ -229,6 +240,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems**|Javier Conde et.al.|[2411.13583](http://arxiv.org/abs/2411.13583)|null|
 |**2024-11-19**|**Acquire Precise and Comparable Fundus Image Quality Score: FTHNet and FQS Dataset**|Zheng Gong et.al.|[2411.12273](http://arxiv.org/abs/2411.12273)|null|
 |**2024-11-18**|**LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models**|Yungi Kim et.al.|[2411.11289](http://arxiv.org/abs/2411.11289)|null|
 |**2024-11-18**|**Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning**|Yunze Luo et.al.|[2411.11225](http://arxiv.org/abs/2411.11225)|null|
