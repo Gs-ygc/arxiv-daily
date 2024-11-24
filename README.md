@@ -1,4 +1,4 @@
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -187,7 +187,7 @@
 |**2024-11-21**|**Static Reuse Profile Estimation for Array Applications**|Abdur Razzak et.al.|[2411.13854](http://arxiv.org/abs/2411.13854)|null|
 |**2024-11-20**|**Demonstration of OpenMC as a framework for atomic transport and plasma interaction**|George J. Wilkie et.al.|[2411.12937](http://arxiv.org/abs/2411.12937)|null|
 |**2024-11-16**|**Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems**|Ashwin Poduval et.al.|[2411.12583](http://arxiv.org/abs/2411.12583)|null|
-|**2024-11-19**|**CMBAnalysis: A Modern Framework for High-Precision Cosmic Microwave Background Analysis**|Srikrishna S Kashyap et.al.|[2411.12207](http://arxiv.org/abs/2411.12207)|null|
+|**2024-11-19**|**CMBAnalysis: A Modern Framework for High-Precision Cosmic Microwave Background Analysis**|Srikrishna S Kashyap et.al.|[2411.12207](http://arxiv.org/abs/2411.12207)|**[link](https://github.com/skashyapsri/cmbanalysis)**|
 |**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|**[link](https://github.com/ucla-vast/zac)**|
 |**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|**[link](https://github.com/asbschmidt/gpupairhmm)**|
 |**2024-11-15**|**Breaking the mold: overcoming the time constraints of molecular dynamics on general-purpose hardware**|Danny Perez et.al.|[2411.10532](http://arxiv.org/abs/2411.10532)|null|
