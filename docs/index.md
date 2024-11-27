@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692](http://arxiv.org/abs/2411.17692)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Linguistic Laws Meet Protein Sequences: A Comparative Analysis of Subword Tokenization Methods**|Burak Suyunu et.al.|[2411.17669](http://arxiv.org/abs/2411.17669)|**[link](https://github.com/boun-tabi-lifelu/linguistics-meet-proteins)**|
+|**2024-11-26**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
+|**2024-11-26**|**Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions**|Curtis McDonald et.al.|[2411.17667](http://arxiv.org/abs/2411.17667)|null|
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
 |**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
@@ -266,6 +276,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
+|**2024-11-25**|**A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**|Cooper Jacobus et.al.|[2411.16920](http://arxiv.org/abs/2411.16920)|null|
 |**2024-11-21**|**Memory Backdoor Attacks on Neural Networks**|Eden Luzon et.al.|[2411.14516](http://arxiv.org/abs/2411.14516)|null|
 |**2024-11-16**|**Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems**|Javier Conde et.al.|[2411.13583](http://arxiv.org/abs/2411.13583)|null|
 |**2024-11-19**|**Acquire Precise and Comparable Fundus Image Quality Score: FTHNet and FQS Dataset**|Zheng Gong et.al.|[2411.12273](http://arxiv.org/abs/2411.12273)|null|
