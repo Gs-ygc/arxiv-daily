@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**|Aoran Shen et.al.|[2411.18622](http://arxiv.org/abs/2411.18622)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
+|**2024-11-27**|**Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse Training Perspective**|Zhi Zhang et.al.|[2411.18615](http://arxiv.org/abs/2411.18615)|null|
+|**2024-11-27**|**Robust Offline Reinforcement Learning with Linearly Structured $f$ -Divergence Regularization**|Cheng Tang et.al.|[2411.18612](http://arxiv.org/abs/2411.18612)|null|
+|**2024-11-27**|**Novel Class Discovery for Open Set Raga Classification**|Parampreet Singh et.al.|[2411.18611](http://arxiv.org/abs/2411.18611)|null|
+|**2024-11-27**|**Variability of hot sub-luminous stars and binaries: Machine learning analysis of Gaia DR3 multi-epoch photometry**|P. Ranaivomanana et.al.|[2411.18609](http://arxiv.org/abs/2411.18609)|null|
+|**2024-11-27**|**Task Arithmetic Through The Lens Of One-Shot Federated Learning**|Zhixu Tao et.al.|[2411.18607](http://arxiv.org/abs/2411.18607)|null|
+|**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602](http://arxiv.org/abs/2411.18602)|null|
+|**2024-11-27**|**Biomolecular Analysis of Soil Samples and Rock Imagery for Tracing Evidence of Life Using a Mobile Robot**|Shah Md Ahasan Siddique et.al.|[2411.18594](http://arxiv.org/abs/2411.18594)|null|
+|**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591](http://arxiv.org/abs/2411.18591)|null|
 |**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692](http://arxiv.org/abs/2411.17692)|null|
 |**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
@@ -218,6 +228,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**PHOENIX -- Paderborn highly optimized and energy efficient solver for two-dimensional nonlinear Schrödinger equations with integrated extensions**|Jan Wingenbach et.al.|[2411.18341](http://arxiv.org/abs/2411.18341)|null|
+|**2024-11-27**|**FlexiBit: Fully Flexible Precision Bit-parallel Accelerator Architecture for Arbitrary Mixed Precision AI**|Faraz Tahmasebi et.al.|[2411.18065](http://arxiv.org/abs/2411.18065)|null|
+|**2024-11-27**|**Calibrating DRAMPower Model: A Runtime Perspective from Real-System HPC Measurements**|Xinyu Shi et.al.|[2411.17960](http://arxiv.org/abs/2411.17960)|null|
 |**2024-11-25**|**Jaya R Package -- A Parameter-Free Solution for Advanced Single and Multi-Objective Optimization**|Neeraj Dhanraj Bokde et.al.|[2411.16509](http://arxiv.org/abs/2411.16509)|null|
 |**2024-11-24**|**Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format**|Chao Fang et.al.|[2411.15982](http://arxiv.org/abs/2411.15982)|null|
 |**2024-11-24**|**Learning Algorithm Hyperparameters for Fast Parametric Convex Optimization**|Rajiv Sambharya et.al.|[2411.15717](http://arxiv.org/abs/2411.15717)|null|
@@ -276,6 +289,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
+|**2024-11-22**|**Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis**|Uditha Muthumala et.al.|[2411.17733](http://arxiv.org/abs/2411.17733)|null|
 |**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
 |**2024-11-25**|**A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**|Cooper Jacobus et.al.|[2411.16920](http://arxiv.org/abs/2411.16920)|null|
 |**2024-11-21**|**Memory Backdoor Attacks on Neural Networks**|Eden Luzon et.al.|[2411.14516](http://arxiv.org/abs/2411.14516)|null|
