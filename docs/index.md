@@ -10,10 +10,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
+|**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950](http://arxiv.org/abs/2411.19950)|null|
 |**2024-11-29**|**DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**|Zhiqiang Shen et.al.|[2411.19946](http://arxiv.org/abs/2411.19946)|**[link](https://github.com/vila-lab/delt)**|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**Free-form Generation Enhances Challenging Clothed Human Modeling**|Hang Ye et.al.|[2411.19942](http://arxiv.org/abs/2411.19942)|null|
 |**2024-11-29**|**Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**|Joseph Heyward et.al.|[2411.19941](http://arxiv.org/abs/2411.19941)|null|
 |**2024-11-29**|**Probing quantum critical phase from neural network wavefunction**|Haoxiang Chen et.al.|[2411.19938](http://arxiv.org/abs/2411.19938)|null|
@@ -238,13 +238,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|null|
+|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|**[link](https://github.com/puzzlef/rak-lowmem-communities-cuda)**|
 |**2024-11-29**|**Parametrized multiqubit gate design for neutral-atom based quantum platforms**|Madhav Mohan et.al.|[2411.19785](http://arxiv.org/abs/2411.19785)|null|
 |**2024-11-29**|**Quantum computing architecture with Rydberg gates in trapped ions**|Han Bao et.al.|[2411.19684](http://arxiv.org/abs/2411.19684)|null|
 |**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430](http://arxiv.org/abs/2411.19430)|null|
 |**2024-11-28**|**Stoch-IMC: A Bit-Parallel Stochastic In-Memory Computing Architecture Based on STT-MRAM**|Amir M. Hajisadeghi et.al.|[2411.19344](http://arxiv.org/abs/2411.19344)|null|
 |**2024-11-27**|**Deterministic and Probabilistic Rounding Error Analysis for Mixed-Precision Arithmetic on Modern Computing Units**|Sahil Bhola et.al.|[2411.18747](http://arxiv.org/abs/2411.18747)|null|
-|**2024-11-27**|**PHOENIX -- Paderborn highly optimized and energy efficient solver for two-dimensional nonlinear Schrödinger equations with integrated extensions**|Jan Wingenbach et.al.|[2411.18341](http://arxiv.org/abs/2411.18341)|null|
+|**2024-11-27**|**PHOENIX -- Paderborn highly optimized and energy efficient solver for two-dimensional nonlinear Schrödinger equations with integrated extensions**|Jan Wingenbach et.al.|[2411.18341](http://arxiv.org/abs/2411.18341)|**[link](https://github.com/Schumacher-Group-UPB/PHOENIX)**|
 |**2024-11-27**|**FlexiBit: Fully Flexible Precision Bit-parallel Accelerator Architecture for Arbitrary Mixed Precision AI**|Faraz Tahmasebi et.al.|[2411.18065](http://arxiv.org/abs/2411.18065)|null|
 |**2024-11-27**|**Calibrating DRAMPower Model: A Runtime Perspective from Real-System HPC Measurements**|Xinyu Shi et.al.|[2411.17960](http://arxiv.org/abs/2411.17960)|null|
 |**2024-11-25**|**Jaya R Package -- A Parameter-Free Solution for Advanced Single and Multi-Objective Optimization**|Neeraj Dhanraj Bokde et.al.|[2411.16509](http://arxiv.org/abs/2411.16509)|null|
@@ -305,7 +305,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
+|**2024-12-01**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
 |**2024-11-22**|**Comparison of Tiny Machine Learning Techniques for Embedded Acoustic Emission Analysis**|Uditha Muthumala et.al.|[2411.17733](http://arxiv.org/abs/2411.17733)|null|
 |**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
 |**2024-11-25**|**A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**|Cooper Jacobus et.al.|[2411.16920](http://arxiv.org/abs/2411.16920)|null|
