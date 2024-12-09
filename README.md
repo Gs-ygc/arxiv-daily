@@ -1,4 +1,4 @@
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -12,7 +12,7 @@
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|Enshen Zhou et.al.|[2412.04455](http://arxiv.org/abs/2412.04455)|null|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
-|**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|null|
+|**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426](http://arxiv.org/abs/2412.04426)|null|
 |**2024-12-05**|**CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing**|Yen-Ju Lu et.al.|[2412.04425](http://arxiv.org/abs/2412.04425)|null|
@@ -340,7 +340,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
-|**2024-12-04**|**Tight Lower Bounds and Improved Convergence in Performative Prediction**|Pedram Khorsandi et.al.|[2412.03671](http://arxiv.org/abs/2412.03671)|null|
+|**2024-12-04**|**Tight Lower Bounds and Improved Convergence in Performative Prediction**|Pedram Khorsandi et.al.|[2412.03671](http://arxiv.org/abs/2412.03671)|**[link](https://github.com/pedramkho/bounds_in_performative_prediction)**|
 |**2024-12-04**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
 |**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884](http://arxiv.org/abs/2412.02884)|null|
 |**2024-12-03**|**Improving Sequential Recommender Systems with Online and In-store User Behavior**|Luyi Ma et.al.|[2412.02122](http://arxiv.org/abs/2412.02122)|null|
