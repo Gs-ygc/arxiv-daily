@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
+|**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278](http://arxiv.org/abs/2412.05278)|null|
+|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
+|**2024-12-06**|**Real-space chirality from crystalline topological defects in the Kitaev spin liquid**|Fay Borhani et.al.|[2412.05272](http://arxiv.org/abs/2412.05272)|null|
+|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
+|**2024-12-06**|**Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**|Krzysztof Maziarz et.al.|[2412.05269](http://arxiv.org/abs/2412.05269)|null|
+|**2024-12-06**|**Reinforcement Learning: An Overview**|Kevin Murphy et.al.|[2412.05265](http://arxiv.org/abs/2412.05265)|null|
+|**2024-12-06**|**Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT**|Nicholas J. Boyer et.al.|[2412.05260](http://arxiv.org/abs/2412.05260)|null|
+|**2024-12-06**|**A Machine Learning-Based Approach For Detecting Malicious PyPI Packages**|Haya Samaana et.al.|[2412.05259](http://arxiv.org/abs/2412.05259)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
 |**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
@@ -264,6 +274,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**MC3: Memory Contention based Covert Channel Communication on Shared DRAM System-on-Chips**|Ismet Dagli et.al.|[2412.05228](http://arxiv.org/abs/2412.05228)|null|
+|**2024-12-06**|**Predictive Window Decoding for Fault-Tolerant Quantum Programs**|Joshua Viszlai et.al.|[2412.05115](http://arxiv.org/abs/2412.05115)|null|
 |**2024-12-05**|**LocalSR: Image Super-Resolution in Local Region**|Bo Ji et.al.|[2412.04314](http://arxiv.org/abs/2412.04314)|null|
 |**2024-12-05**|**Clifford-Deformed Compass Codes**|Julie A. Campos et.al.|[2412.03808](http://arxiv.org/abs/2412.03808)|null|
 |**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
