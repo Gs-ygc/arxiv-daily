@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
+|**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
+|**2024-12-12**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602](http://arxiv.org/abs/2412.09602)|**[link](https://github.com/autonomousvision/carla_garage)**|
+|**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
+|**2024-12-12**|**Wait-Less Offline Tuning and Re-solving for Online Decision Making**|Jingruo Sun et.al.|[2412.09594](http://arxiv.org/abs/2412.09594)|null|
+|**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
+|**2024-12-12**|**JuStRank: Benchmarking LLM Judges for System Ranking**|Ariel Gera et.al.|[2412.09569](http://arxiv.org/abs/2412.09569)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
@@ -308,6 +318,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Mercury: QoS-Aware Tiered Memory System**|Jiaheng Lu et.al.|[2412.08938](http://arxiv.org/abs/2412.08938)|null|
 |**2024-12-11**|**Analyzing the Performance Portability of SYCL across CPUs, GPUs, and Hybrid Systems with Protein Database Search**|Manuel Costanzo et.al.|[2412.08308](http://arxiv.org/abs/2412.08308)|null|
 |**2024-12-11**|**SRFS: Parallel Processing Fault-tolerant ROS2-based Flight Software for the Space Ranger Cubesat**|Zebei Zhao et.al.|[2412.08164](http://arxiv.org/abs/2412.08164)|null|
 |**2024-12-09**|**Variational quantum compiling for three-qubit gates design in quantum dots**|Yuanyang Zhou et.al.|[2412.06276](http://arxiv.org/abs/2412.06276)|null|
@@ -389,6 +400,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
 |**2024-12-09**|**Entrywise application of non-linear functions on orthogonally invariant matrices**|Roland Speicher et.al.|[2412.06943](http://arxiv.org/abs/2412.06943)|null|
 |**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
 |**2024-12-04**|**Tight Lower Bounds and Improved Convergence in Performative Prediction**|Pedram Khorsandi et.al.|[2412.03671](http://arxiv.org/abs/2412.03671)|**[link](https://github.com/pedramkho/bounds_in_performative_prediction)**|
