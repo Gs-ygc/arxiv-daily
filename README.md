@@ -1,4 +1,4 @@
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -316,7 +316,7 @@
 |---|---|---|---|---|
 |**2024-12-12**|**Mercury: QoS-Aware Tiered Memory System**|Jiaheng Lu et.al.|[2412.08938](http://arxiv.org/abs/2412.08938)|null|
 |**2024-12-11**|**Analyzing the Performance Portability of SYCL across CPUs, GPUs, and Hybrid Systems with Protein Database Search**|Manuel Costanzo et.al.|[2412.08308](http://arxiv.org/abs/2412.08308)|null|
-|**2024-12-11**|**SRFS: Parallel Processing Fault-tolerant ROS2-based Flight Software for the Space Ranger Cubesat**|Zebei Zhao et.al.|[2412.08164](http://arxiv.org/abs/2412.08164)|null|
+|**2024-12-11**|**SRFS: Parallel Processing Fault-tolerant ROS2-based Flight Software for the Space Ranger Cubesat**|Zebei Zhao et.al.|[2412.08164](http://arxiv.org/abs/2412.08164)|**[link](https://github.com/messixiang/sr-flight-software)**|
 |**2024-12-09**|**Variational quantum compiling for three-qubit gates design in quantum dots**|Yuanyang Zhou et.al.|[2412.06276](http://arxiv.org/abs/2412.06276)|null|
 |**2024-12-04**|**IMPACT:InMemory ComPuting Architecture Based on Y-FlAsh Technology for Coalesced Tsetlin Machine Inference**|Omar Ghazal et.al.|[2412.05327](http://arxiv.org/abs/2412.05327)|null|
 |**2024-12-06**|**MC3: Memory Contention based Covert Channel Communication on Shared DRAM System-on-Chips**|Ismet Dagli et.al.|[2412.05228](http://arxiv.org/abs/2412.05228)|null|
