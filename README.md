@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
+|**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089](http://arxiv.org/abs/2412.12089)|null|
+|**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
+|**2024-12-16**|**Extrapolating Jet Radiation with Autoregressive Transformers**|Anja Butter et.al.|[2412.12074](http://arxiv.org/abs/2412.12074)|null|
+|**2024-12-16**|**Accurate Surrogate Amplitudes with Calibrated Uncertainties**|Henning Bahl et.al.|[2412.12069](http://arxiv.org/abs/2412.12069)|null|
+|**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
+|**2024-12-16**|**Artificial Intelligence in Traffic Systems**|Ritwik Raj Saxena et.al.|[2412.12046](http://arxiv.org/abs/2412.12046)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
@@ -324,6 +334,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Africanus I. Scalable, distributed and efficient radio data processing with Dask-MS and Codex Africanus**|Simon J. Perkins et.al.|[2412.12052](http://arxiv.org/abs/2412.12052)|null|
+|**2024-12-16**|**Broadband Unidirectional Visible Imaging Using Wafer-Scale Nano-Fabrication of Multi-Layer Diffractive Optical Processors**|Che-Yung Shen et.al.|[2412.11374](http://arxiv.org/abs/2412.11374)|null|
+|**2024-12-15**|**MAP-UOT: A Memory-Efficient Approach to Unbalanced Optimal Transport Implementation**|Chengyu Sun et.al.|[2412.11079](http://arxiv.org/abs/2412.11079)|null|
+|**2024-12-15**|**SparseMap: Loop Mapping for Sparse CNNs on Streaming Coarse-grained Reconfigurable Array**|Xiaobing Ni et.al.|[2412.11021](http://arxiv.org/abs/2412.11021)|null|
+|**2024-12-14**|**Vertically Integrated Dual-memtransistor Enabled Reconfigurable Heterosynaptic Sensorimotor Networks and In-memory Neuromorphic Computing**|Srilagna Sahoo et.al.|[2412.10757](http://arxiv.org/abs/2412.10757)|null|
+|**2024-12-14**|**HITgram: A Platform for Experimenting with n-gram Language Models**|Shibaranjani Dasgupta et.al.|[2412.10717](http://arxiv.org/abs/2412.10717)|null|
 |**2024-12-13**|**Virtualization & Microservice Architecture for Software-Defined Vehicles: An Evaluation and Exploration**|Long Wen et.al.|[2412.09995](http://arxiv.org/abs/2412.09995)|null|
 |**2024-12-12**|**DiP: A Scalable, Energy-Efficient Systolic Array for Matrix Multiplication Acceleration**|Ahmed J. Abdelmaksoud et.al.|[2412.09709](http://arxiv.org/abs/2412.09709)|null|
 |**2024-12-12**|**Mercury: QoS-Aware Tiered Memory System**|Jiaheng Lu et.al.|[2412.08938](http://arxiv.org/abs/2412.08938)|null|
