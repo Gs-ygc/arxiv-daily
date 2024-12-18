@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184](http://arxiv.org/abs/2412.13184)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
+|**2024-12-17**|**ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection**|Jui-Che Chiang et.al.|[2412.13174](http://arxiv.org/abs/2412.13174)|null|
+|**2024-12-17**|**BanglishRev: A Large-Scale Bangla-English and Code-mixed Dataset of Product Reviews in E-Commerce**|Mohammad Nazmush Shamael et.al.|[2412.13161](http://arxiv.org/abs/2412.13161)|null|
+|**2024-12-17**|**Quantum community detection via deterministic elimination**|Chukwudubem Umeano et.al.|[2412.13160](http://arxiv.org/abs/2412.13160)|null|
+|**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
+|**2024-12-17**|**On Model Extrapolation in Marginal Shapley Values**|Ilya Rozenfeld et.al.|[2412.13158](http://arxiv.org/abs/2412.13158)|null|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
@@ -338,12 +348,15 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**Africanus I. Scalable, distributed and efficient radio data processing with Dask-MS and Codex Africanus**|Simon J. Perkins et.al.|[2412.12052](http://arxiv.org/abs/2412.12052)|null|
+|**2024-12-17**|**Reservoir Computing for Fast, Simplified Reinforcement Learning on Memory Tasks**|Kevin McKee et.al.|[2412.13093](http://arxiv.org/abs/2412.13093)|null|
+|**2024-12-17**|**Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States**|Nikiforos Paraskevopoulos et.al.|[2412.12874](http://arxiv.org/abs/2412.12874)|null|
+|**2024-12-16**|**Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting**|Tianyi Yin et.al.|[2412.12226](http://arxiv.org/abs/2412.12226)|null|
+|**2024-12-17**|**Africanus I. Scalable, distributed and efficient radio data processing with Dask-MS and Codex Africanus**|Simon J. Perkins et.al.|[2412.12052](http://arxiv.org/abs/2412.12052)|null|
 |**2024-12-16**|**Broadband Unidirectional Visible Imaging Using Wafer-Scale Nano-Fabrication of Multi-Layer Diffractive Optical Processors**|Che-Yung Shen et.al.|[2412.11374](http://arxiv.org/abs/2412.11374)|null|
 |**2024-12-15**|**MAP-UOT: A Memory-Efficient Approach to Unbalanced Optimal Transport Implementation**|Chengyu Sun et.al.|[2412.11079](http://arxiv.org/abs/2412.11079)|null|
 |**2024-12-15**|**SparseMap: Loop Mapping for Sparse CNNs on Streaming Coarse-grained Reconfigurable Array**|Xiaobing Ni et.al.|[2412.11021](http://arxiv.org/abs/2412.11021)|null|
 |**2024-12-14**|**Vertically Integrated Dual-memtransistor Enabled Reconfigurable Heterosynaptic Sensorimotor Networks and In-memory Neuromorphic Computing**|Srilagna Sahoo et.al.|[2412.10757](http://arxiv.org/abs/2412.10757)|null|
-|**2024-12-14**|**HITgram: A Platform for Experimenting with n-gram Language Models**|Shibaranjani Dasgupta et.al.|[2412.10717](http://arxiv.org/abs/2412.10717)|null|
+|**2024-12-14**|**HITgram: A Platform for Experimenting with n-gram Language Models**|Shibaranjani Dasgupta et.al.|[2412.10717](http://arxiv.org/abs/2412.10717)|**[link](https://github.com/chandan789maity/hitgram)**|
 |**2024-12-13**|**Virtualization & Microservice Architecture for Software-Defined Vehicles: An Evaluation and Exploration**|Long Wen et.al.|[2412.09995](http://arxiv.org/abs/2412.09995)|null|
 |**2024-12-12**|**DiP: A Scalable, Energy-Efficient Systolic Array for Matrix Multiplication Acceleration**|Ahmed J. Abdelmaksoud et.al.|[2412.09709](http://arxiv.org/abs/2412.09709)|null|
 |**2024-12-12**|**Mercury: QoS-Aware Tiered Memory System**|Jiaheng Lu et.al.|[2412.08938](http://arxiv.org/abs/2412.08938)|null|
@@ -428,6 +441,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
+|**2024-12-17**|**The Temporal Vadalog System: Temporal Datalog-based Reasoning**|Luigi Bellomarini et.al.|[2412.13019](http://arxiv.org/abs/2412.13019)|null|
+|**2024-12-16**|**Demonstrating Data-to-Knowledge Pipelines for Connecting Production Sites in the World Wide Lab**|Leon Gorißen et.al.|[2412.12231](http://arxiv.org/abs/2412.12231)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
 |**2024-12-09**|**Entrywise application of non-linear functions on orthogonally invariant matrices**|Roland Speicher et.al.|[2412.06943](http://arxiv.org/abs/2412.06943)|null|
 |**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
