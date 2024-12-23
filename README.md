@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
+|**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
+|**2024-12-20**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134](http://arxiv.org/abs/2412.16134)|**[link](https://github.com/nafisa67/thesis)**|
+|**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129](http://arxiv.org/abs/2412.16129)|null|
+|**2024-12-20**|**Deciphering the Underserved: Benchmarking LLM OCR for Low-Resource Scripts**|Muhammad Abdullah Sohail et.al.|[2412.16119](http://arxiv.org/abs/2412.16119)|**[link](https://github.com/abdullahsohaill/cs6303-researchproject)**|
+|**2024-12-20**|**Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultrasound Wave Propagation in Heterogeneous Spinal Cord Anatomy**|Avisha Kumar et.al.|[2412.16118](http://arxiv.org/abs/2412.16118)|**[link](https://github.com/avishakumar21/nonlinear-fus-with-neural-operators)**|
+|**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111](http://arxiv.org/abs/2412.16111)|null|
+|**2024-12-20**|**Weighted nonlocal operators and their applications in labeled learning**|Qiang Du et.al.|[2412.16109](http://arxiv.org/abs/2412.16109)|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212](http://arxiv.org/abs/2412.15212)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
@@ -364,6 +374,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**On the Structural Memory of LLM Agents**|Ruihong Zeng et.al.|[2412.15266](http://arxiv.org/abs/2412.15266)|null|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**Quantum SWAP gate realized with CZ and iSWAP gates in a superconducting architecture**|Christian Križan et.al.|[2412.15022](http://arxiv.org/abs/2412.15022)|null|
 |**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
@@ -462,6 +473,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**ChainStream: An LLM-based Framework for Unified Synthetic Sensing**|Jiacheng Liu et.al.|[2412.15240](http://arxiv.org/abs/2412.15240)|null|
 |**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
 |**2024-12-18**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
 |**2024-12-17**|**The Temporal Vadalog System: Temporal Datalog-based Reasoning**|Luigi Bellomarini et.al.|[2412.13019](http://arxiv.org/abs/2412.13019)|null|
