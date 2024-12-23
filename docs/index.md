@@ -24,7 +24,7 @@ layout: default
 |**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167](http://arxiv.org/abs/2412.14167)|null|
 |**2024-12-18**|**On Calibration in Multi-Distribution Learning**|Rajeev Verma et.al.|[2412.14142](http://arxiv.org/abs/2412.14142)|null|
 |**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
-|**2024-12-18**|**jinns: a JAX Library for Physics-Informed Neural Networks**|Hugo Gangloff et.al.|[2412.14132](http://arxiv.org/abs/2412.14132)|null|
+|**2024-12-18**|**jinns: a JAX Library for Physics-Informed Neural Networks**|Hugo Gangloff et.al.|[2412.14132](http://arxiv.org/abs/2412.14132)|**[link](https://gitlab.com/mia_jinns/jinns)**|
 |**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119](http://arxiv.org/abs/2412.14119)|null|
 |**2024-12-18**|**Trustworthy Transfer Learning: A Survey**|Jun Wu et.al.|[2412.14116](http://arxiv.org/abs/2412.14116)|null|
 |**2024-12-18**|**Starting a Synthetic Biological Intelligence Lab from Scratch**|Md Sayed Tanveer et.al.|[2412.14112](http://arxiv.org/abs/2412.14112)|null|
@@ -45,21 +45,21 @@ layout: default
 |**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
 |**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089](http://arxiv.org/abs/2412.12089)|null|
 |**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
-|**2024-12-16**|**Extrapolating Jet Radiation with Autoregressive Transformers**|Anja Butter et.al.|[2412.12074](http://arxiv.org/abs/2412.12074)|null|
+|**2024-12-16**|**Extrapolating Jet Radiation with Autoregressive Transformers**|Anja Butter et.al.|[2412.12074](http://arxiv.org/abs/2412.12074)|**[link](https://github.com/heidelberg-hepml/jetgpt-splittings)**|
 |**2024-12-16**|**Accurate Surrogate Amplitudes with Calibrated Uncertainties**|Henning Bahl et.al.|[2412.12069](http://arxiv.org/abs/2412.12069)|null|
 |**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
 |**2024-12-16**|**Artificial Intelligence in Traffic Systems**|Ritwik Raj Saxena et.al.|[2412.12046](http://arxiv.org/abs/2412.12046)|null|
-|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|**[link](https://github.com/optimus-optimization-modeling/llm-solver-configuration)**|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-13**|**The Correlated Gaussian Sparse Histogram Mechanism**|Christian Janos Lebeda et.al.|[2412.10357](http://arxiv.org/abs/2412.10357)|null|
-|**2024-12-13**|**A Library for Learning Neural Operators**|Jean Kossaifi et.al.|[2412.10354](http://arxiv.org/abs/2412.10354)|null|
+|**2024-12-13**|**A Library for Learning Neural Operators**|Jean Kossaifi et.al.|[2412.10354](http://arxiv.org/abs/2412.10354)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
 |**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
 |**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
 |**2024-12-13**|**Generative AI in Medicine**|Divya Shanmugam et.al.|[2412.10337](http://arxiv.org/abs/2412.10337)|null|
-|**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|null|
+|**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|**[link](https://github.com/facebookresearch/jailbreak-objectives)**|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
@@ -75,10 +75,10 @@ layout: default
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
 |**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633](http://arxiv.org/abs/2412.08633)|null|
-|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|null|
+|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|**[link](https://github.com/fallenshock/FlowEdit)**|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
 |**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
-|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601](http://arxiv.org/abs/2412.08601)|null|
+|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601](http://arxiv.org/abs/2412.08601)|**[link](https://github.com/Yashvi-Sharma/CCSNscore)**|
 |**2024-12-11**|**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models**|Jaesung R. Park et.al.|[2412.08595](http://arxiv.org/abs/2412.08595)|null|
 |**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776](http://arxiv.org/abs/2412.07776)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
