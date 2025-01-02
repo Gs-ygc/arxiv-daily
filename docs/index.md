@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -422,8 +422,8 @@ layout: default
 |**2024-12-28**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
 |**2024-12-26**|**Evolution, Challenges, and Optimization in Computer Architecture: The Role of Reconfigurable Systems**|Jefferson Ederhion et.al.|[2412.19234](http://arxiv.org/abs/2412.19234)|null|
-|**2024-12-24**|**TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models**|Pooyan Rahmanzadehgrevi et.al.|[2412.18675](http://arxiv.org/abs/2412.18675)|null|
-|**2024-12-30**|**MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder**|Tomoyuki Tokuue et.al.|[2412.18629](http://arxiv.org/abs/2412.18629)|null|
+|**2024-12-24**|**TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models**|Pooyan Rahmanzadehgrevi et.al.|[2412.18675](http://arxiv.org/abs/2412.18675)|**[link](https://github.com/anguyen8/TAB)**|
+|**2024-12-30**|**MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder**|Tomoyuki Tokuue et.al.|[2412.18629](http://arxiv.org/abs/2412.18629)|**[link](https://github.com/tomoaki-ishiyama/mpi-rockstar)**|
 |**2024-12-25**|**Enhanced Quantum Circuit Cutting Framework for Sampling Overhead Reduction**|Po-Hung Chen et.al.|[2412.17704](http://arxiv.org/abs/2412.17704)|null|
 |**2024-12-23**|**Agile TLB Prefetching and Prediction Replacement Policy**|Melkamu Mersha et.al.|[2412.17203](http://arxiv.org/abs/2412.17203)|null|
 |**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|**[link](https://github.com/qiujumin/OE-GAN)**|
