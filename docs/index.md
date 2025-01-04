@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -10,7 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205](http://arxiv.org/abs/2412.21205)|null|
+|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205](http://arxiv.org/abs/2412.21205)|**[link](https://github.com/smy-nec/aapl)**|
 |**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203](http://arxiv.org/abs/2412.21203)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
