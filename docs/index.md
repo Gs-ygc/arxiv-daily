@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422](http://arxiv.org/abs/2501.01422)|null|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
+|**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407](http://arxiv.org/abs/2501.01407)|null|
+|**2025-01-02**|**Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision**|Haixu Liu et.al.|[2501.01402](http://arxiv.org/abs/2501.01402)|null|
+|**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
+|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|null|
+|**2025-01-02**|**Learning 3D Garment Animation from Trajectories of A Piece of Cloth**|Yidi Shao et.al.|[2501.01393](http://arxiv.org/abs/2501.01393)|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205](http://arxiv.org/abs/2412.21205)|**[link](https://github.com/smy-nec/aapl)**|
 |**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203](http://arxiv.org/abs/2412.21203)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
@@ -418,6 +428,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Optimising Virtual Resource Mapping in Multi-Level NUMA Disaggregated Systems**|Ewnetu Bayuh Lakew et.al.|[2501.01356](http://arxiv.org/abs/2501.01356)|null|
+|**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
+|**2025-01-02**|**iCNN-LSTM: A batch-based incremental ransomware detection system using Sysmon**|Jamil Ispahany et.al.|[2501.01083](http://arxiv.org/abs/2501.01083)|null|
+|**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
+|**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki et.al.|[2501.00331](http://arxiv.org/abs/2501.00331)|null|
 |**2024-12-29**|**LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**|Takumi Kobori et.al.|[2412.20486](http://arxiv.org/abs/2412.20486)|null|
 |**2024-12-28**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
@@ -527,6 +542,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
+|**2024-12-28**|**Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images**|Xiaoge Zhang et.al.|[2501.00053](http://arxiv.org/abs/2501.00053)|null|
 |**2024-12-30**|**NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics**|Jiawei Zhou et.al.|[2412.20635](http://arxiv.org/abs/2412.20635)|null|
 |**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212](http://arxiv.org/abs/2412.18212)|**[link](https://github.com/changfuxu/dedgeai)**|
 |**2024-12-24**|**LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment**|Binrui Zeng et.al.|[2412.18135](http://arxiv.org/abs/2412.18135)|null|
