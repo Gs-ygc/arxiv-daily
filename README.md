@@ -26,8 +26,8 @@
 |**2024-12-30**|**Unified dimensionality reduction techniques in chronic liver disease detection**|Anand Karna et.al.|[2412.21156](http://arxiv.org/abs/2412.21156)|null|
 |**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155](http://arxiv.org/abs/2412.21155)|null|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
-|**2024-12-27**|**LASER: A new method for locally adaptive nonparametric regression**|Sabyasachi Chatterjee et.al.|[2412.19802](http://arxiv.org/abs/2412.19802)|null|
-|**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|null|
+|**2024-12-27**|**LASER: A new method for locally adaptive nonparametric regression**|Sabyasachi Chatterjee et.al.|[2412.19802](http://arxiv.org/abs/2412.19802)|**[link](https://gitlab.com/soumendu041/laser)**|
+|**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|**[link](https://github.com/lscientific/gGoM)**|
 |**2024-12-27**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-27**|**Machine Learning for Sentiment Analysis of Imported Food in Trinidad and Tobago**|Cassandra Daniels et.al.|[2412.19781](http://arxiv.org/abs/2412.19781)|null|
 |**2024-12-27**|**Tensor Network Estimation of Distribution Algorithms**|John Gardiner et.al.|[2412.19780](http://arxiv.org/abs/2412.19780)|null|
@@ -39,7 +39,7 @@
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
 |**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594](http://arxiv.org/abs/2412.18594)|null|
-|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|**[link](https://github.com/ReserveJudgement/Centaur-GPT)**|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
 |**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|**[link](https://github.com/ollycassidy13/ReducedLUT)**|
@@ -174,7 +174,7 @@
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
-|**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426](http://arxiv.org/abs/2412.04426)|null|
+|**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426](http://arxiv.org/abs/2412.04426)|**[link](https://github.com/CLIVERCHEN/Marvel-O2O_Safe_RL)**|
 |**2024-12-05**|**CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing**|Yen-Ju Lu et.al.|[2412.04425](http://arxiv.org/abs/2412.04425)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
 |**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|**[link](https://github.com/jplhughes/bon-jailbreaking)**|
@@ -554,7 +554,7 @@
 |**2024-12-16**|**Demonstrating Data-to-Knowledge Pipelines for Connecting Production Sites in the World Wide Lab**|Leon Gorißen et.al.|[2412.12231](http://arxiv.org/abs/2412.12231)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
 |**2024-12-09**|**Entrywise application of non-linear functions on orthogonally invariant matrices**|Roland Speicher et.al.|[2412.06943](http://arxiv.org/abs/2412.06943)|null|
-|**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
+|**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|**[link](https://github.com/chansongoal/FCM-LM)**|
 |**2024-12-04**|**Tight Lower Bounds and Improved Convergence in Performative Prediction**|Pedram Khorsandi et.al.|[2412.03671](http://arxiv.org/abs/2412.03671)|**[link](https://github.com/pedramkho/bounds_in_performative_prediction)**|
 |**2024-12-09**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
 |**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884](http://arxiv.org/abs/2412.02884)|null|
