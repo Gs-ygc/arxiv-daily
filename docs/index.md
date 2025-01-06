@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**|Cheng Wan et.al.|[2501.01951](http://arxiv.org/abs/2501.01951)|null|
+|**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
+|**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942](http://arxiv.org/abs/2501.01942)|null|
+|**2025-01-03**|**Improving Transducer-Based Spoken Language Understanding with Self-Conditioned CTC and Knowledge Transfer**|Vishal Sunder et.al.|[2501.01936](http://arxiv.org/abs/2501.01936)|null|
+|**2025-01-03**|**On robust recovery of signals from indirect observations**|Yannis Bekri et.al.|[2501.01935](http://arxiv.org/abs/2501.01935)|null|
+|**2025-01-03**|**Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**|Ahmad Peyvan et.al.|[2501.01934](http://arxiv.org/abs/2501.01934)|null|
+|**2025-01-03**|**GoBERT: Gene Ontology Graph Informed BERT for Universal Gene Function Prediction**|Yuwei Miao et.al.|[2501.01930](http://arxiv.org/abs/2501.01930)|null|
+|**2025-01-03**|**Social Processes: Probabilistic Meta-learning for Adaptive Multiparty Interaction Forecasting**|Augustinas Jučas et.al.|[2501.01915](http://arxiv.org/abs/2501.01915)|null|
+|**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913](http://arxiv.org/abs/2501.01913)|null|
+|**2025-01-03**|**Detecting and Mitigating Adversarial Attacks on Deep Learning-Based MRI Reconstruction Without Any Retraining**|Mahdi Saberi et.al.|[2501.01908](http://arxiv.org/abs/2501.01908)|null|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
 |**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422](http://arxiv.org/abs/2501.01422)|null|
@@ -428,6 +438,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
+|**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2025-01-02**|**Optimising Virtual Resource Mapping in Multi-Level NUMA Disaggregated Systems**|Ewnetu Bayuh Lakew et.al.|[2501.01356](http://arxiv.org/abs/2501.01356)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
 |**2025-01-02**|**iCNN-LSTM: A batch-based incremental ransomware detection system using Sysmon**|Jamil Ispahany et.al.|[2501.01083](http://arxiv.org/abs/2501.01083)|null|
