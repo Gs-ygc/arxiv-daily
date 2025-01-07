@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Testing Approximate Stationarity Concepts for Piecewise Affine Functions**|Lai Tian et.al.|[2501.03224](http://arxiv.org/abs/2501.03224)|null|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
+|**2025-01-06**|**Characterizing the Accuracy-Communication-Privacy Trade-off in Distributed Stochastic Convex Optimization**|Sudeep Salgia et.al.|[2501.03222](http://arxiv.org/abs/2501.03222)|null|
+|**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212](http://arxiv.org/abs/2501.03212)|null|
+|**2025-01-06**|**Detecting AI-Generated Text in Educational Content: Leveraging Machine Learning and Explainable AI for Academic Integrity**|Ayat A. Najjar et.al.|[2501.03203](http://arxiv.org/abs/2501.03203)|null|
+|**2025-01-06**|**Multimodal Machine Learning Can Predict Videoconference Fluidity and Enjoyment**|Andrew Chang et.al.|[2501.03190](http://arxiv.org/abs/2501.03190)|null|
 |**2025-01-03**|**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**|Cheng Wan et.al.|[2501.01951](http://arxiv.org/abs/2501.01951)|null|
 |**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
 |**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942](http://arxiv.org/abs/2501.01942)|null|
@@ -434,7 +444,14 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
+|**2025-01-06**|**A feature-preserving parallel particle generation method for complex geometries**|Xingyue Yang et.al.|[2501.03056](http://arxiv.org/abs/2501.03056)|null|
+|**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
+|**2025-01-05**|**A Full-System Simulation Framework for CXL-Based SSD Memory System**|Yaohui Wang et.al.|[2501.02524](http://arxiv.org/abs/2501.02524)|null|
+|**2025-01-05**|**STRAW: A Stress-Aware WL-Based Read Reclaim Technique for High-Density NAND Flash-Based SSDs**|Myoungjun Chun et.al.|[2501.02517](http://arxiv.org/abs/2501.02517)|null|
+|**2025-01-05**|**sTiles: An Accelerated Computational Framework for Sparse Factorizations of Structured Matrices**|Esmail Abdul Fattah et.al.|[2501.02483](http://arxiv.org/abs/2501.02483)|null|
+|**2025-01-04**|**The Kratos Framework for Hetrogeneous Astrophysical Simulations: Fundamental Infrastructures and Hydrodynamics**|Lile Wang et.al.|[2501.02317](http://arxiv.org/abs/2501.02317)|null|
+|**2025-01-03**|**Ferroelectric AlScN thin films with enhanced polarization and low leakage enabled by high-power impulse magnetron sputtering**|Federica Messi et.al.|[2501.02101](http://arxiv.org/abs/2501.02101)|null|
+|**2025-01-06**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2025-01-02**|**Optimising Virtual Resource Mapping in Multi-Level NUMA Disaggregated Systems**|Ewnetu Bayuh Lakew et.al.|[2501.01356](http://arxiv.org/abs/2501.01356)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
@@ -550,7 +567,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
+|**2025-01-05**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
 |**2024-12-28**|**Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images**|Xiaoge Zhang et.al.|[2501.00053](http://arxiv.org/abs/2501.00053)|null|
 |**2024-12-30**|**NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics**|Jiawei Zhou et.al.|[2412.20635](http://arxiv.org/abs/2412.20635)|null|
 |**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212](http://arxiv.org/abs/2412.18212)|**[link](https://github.com/changfuxu/dedgeai)**|
