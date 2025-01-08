@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
+|**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
+|**2025-01-07**|**Extraction Of Cumulative Blobs From Dynamic Gestures**|Rishabh Naulakha et.al.|[2501.04002](http://arxiv.org/abs/2501.04002)|null|
+|**2025-01-07**|**A Survey on Federated Learning in Human Sensing**|Mohan Li et.al.|[2501.04000](http://arxiv.org/abs/2501.04000)|null|
+|**2025-01-07**|**WAPTS: A Weighted Allocation Probability Adjusted Thompson Sampling Algorithm for High-Dimensional and Sparse Experiment Settings**|Haochen Song et.al.|[2501.03999](http://arxiv.org/abs/2501.03999)|null|
+|**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
+|**2025-01-07**|**Synthetic Data for Portfolios: A Throw of the Dice Will Never Abolish Chance**|Adil Rengim Cetingoz et.al.|[2501.03993](http://arxiv.org/abs/2501.03993)|null|
+|**2025-01-07**|**Supervised and unsupervised learning the many-body critical phase, phase transitions and critical exponents in disordered quantum systems**|Aamna Ahmed et.al.|[2501.03981](http://arxiv.org/abs/2501.03981)|null|
+|**2025-01-07**|**MAD-BA: 3D LiDAR Bundle Adjustment -- from Uncertainty Modelling to Structure Optimization**|Krzysztof Ćwian et.al.|[2501.03972](http://arxiv.org/abs/2501.03972)|null|
+|**2025-01-07**|**Learning to Relax Nonconvex Quadratically Constrained Quadratic Programs**|Buket Ozen et.al.|[2501.03954](http://arxiv.org/abs/2501.03954)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
 |**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
@@ -448,6 +458,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Cyber Spectrum Intelligence: Security Applications, Challenges and Road Ahead**|Savio Sciancalepore et.al.|[2501.03977](http://arxiv.org/abs/2501.03977)|null|
+|**2025-01-07**|**A GPU Implementation of Multi-Guiding Spark Fireworks Algorithm for Efficient Black-Box Neural Network Optimization**|Xiangrui Meng et.al.|[2501.03944](http://arxiv.org/abs/2501.03944)|**[link](https://github.com/mxxxr/mgfwa)**|
+|**2025-01-07**|**Partitioning Strategies for Parallel Computation of Flexible Skylines**|Emilio De Lorenzis et.al.|[2501.03850](http://arxiv.org/abs/2501.03850)|null|
+|**2025-01-07**|**Design, Construction, and Testing of the APOLLO ATCA Blades for Use at the HL-LHC**|A. Akpinar et.al.|[2501.03702](http://arxiv.org/abs/2501.03702)|null|
+|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381](http://arxiv.org/abs/2501.03381)|null|
+|**2025-01-06**|**Twinkle: A GPU-based binary-lens microlensing code with contour integration method**|Suwei Wang et.al.|[2501.03322](http://arxiv.org/abs/2501.03322)|null|
+|**2025-01-06**|**Dynamic Data Defense: Unveiling the Database in motion Chaos Encryption (DaChE) Algorithm -- A Breakthrough in Chaos Theory for Enhanced Database Security**|Abraham Itzhak Weinberg et.al.|[2501.03296](http://arxiv.org/abs/2501.03296)|null|
 |**2025-01-06**|**A feature-preserving parallel particle generation method for complex geometries**|Xingyue Yang et.al.|[2501.03056](http://arxiv.org/abs/2501.03056)|null|
 |**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
 |**2025-01-05**|**A Full-System Simulation Framework for CXL-Based SSD Memory System**|Yaohui Wang et.al.|[2501.02524](http://arxiv.org/abs/2501.02524)|null|
@@ -571,6 +588,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**|Andrew Li et.al.|[2501.03675](http://arxiv.org/abs/2501.03675)|null|
 |**2025-01-05**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
 |**2024-12-28**|**Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images**|Xiaoge Zhang et.al.|[2501.00053](http://arxiv.org/abs/2501.00053)|null|
 |**2024-12-30**|**NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics**|Jiawei Zhou et.al.|[2412.20635](http://arxiv.org/abs/2412.20635)|null|
