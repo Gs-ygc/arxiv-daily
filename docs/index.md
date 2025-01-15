@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330](http://arxiv.org/abs/2501.08330)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
+|**2025-01-14**|**A Similarity Measure Between Functions with Applications to Statistical Learning and Optimization**|Chengpiao Huang et.al.|[2501.08317](http://arxiv.org/abs/2501.08317)|null|
+|**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
+|**2025-01-14**|**Path Loss Prediction Using Machine Learning with Extended Features**|Jonathan Ethier et.al.|[2501.08306](http://arxiv.org/abs/2501.08306)|null|
+|**2025-01-14**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305](http://arxiv.org/abs/2501.08305)|**[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**|
+|**2025-01-14**|**A Novel Method for Detecting Dust Accumulation in Photovoltaic Systems: Evaluating Visible Sunlight Obstruction in Different Dust Levels and AI-based Bird Droppings Detection**|Md Shahriar Kabir et.al.|[2501.08304](http://arxiv.org/abs/2501.08304)|null|
+|**2025-01-14**|**Polynomial Threshold Functions of Bounded Tree-Width: Some Explainability and Complexity Aspects**|Karine Chubarian et.al.|[2501.08297](http://arxiv.org/abs/2501.08297)|null|
+|**2025-01-14**|**Avoiding subtraction and division of stochastic signals using normalizing flows: NFdeconvolve**|Pedro Pessoa et.al.|[2501.08288](http://arxiv.org/abs/2501.08288)|**[link](https://github.com/pessoap/nfdeconvolve)**|
+|**2025-01-14**|**Can Bayesian Neural Networks Explicitly Model Input Uncertainty?**|Matias Valdenegro-Toro et.al.|[2501.08285](http://arxiv.org/abs/2501.08285)|null|
+|**2025-01-14**|**Decoding Interpretable Logic Rules from Neural Networks**|Chuqin Geng et.al.|[2501.08281](http://arxiv.org/abs/2501.08281)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564](http://arxiv.org/abs/2501.07564)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
@@ -498,6 +508,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Solving Boolean satisfiability problems with resistive content addressable memories**|Giacomo Pedretti et.al.|[2501.07733](http://arxiv.org/abs/2501.07733)|null|
+|**2025-01-13**|**Masking Countermeasures Against Side-Channel Attacks on Quantum Computers**|Jason T. LeGrow et.al.|[2501.07695](http://arxiv.org/abs/2501.07695)|null|
+|**2025-01-13**|**Operators in the mind: Jan Lukasiewicz and Polish notation**|Eduardo Mizraji et.al.|[2501.07660](http://arxiv.org/abs/2501.07660)|null|
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-11**|**Evaluation of High-Speed Universal Shift Register with 4-bit ALU**|Md Shahriar Kabir et.al.|[2501.06479](http://arxiv.org/abs/2501.06479)|null|
 |**2025-01-10**|**EXION: Exploiting Inter- and Intra-Iteration Output Sparsity for Diffusion Models**|Jaehoon Heo et.al.|[2501.05680](http://arxiv.org/abs/2501.05680)|null|
@@ -633,6 +646,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305](http://arxiv.org/abs/2501.08305)|**[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**|
 |**2025-01-10**|**rmlnomogram: An R package to construct an explainable nomogram for any machine learning algorithms**|Herdiantri Sufriyana et.al.|[2501.05772](http://arxiv.org/abs/2501.05772)|**[link](https://github.com/herdiantrisufriyana/rmlnomogram)**|
 |**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|**[link](https://github.com/wmz-opensource/JAQ)**|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
