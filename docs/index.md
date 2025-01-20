@@ -264,7 +264,7 @@ layout: default
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278](http://arxiv.org/abs/2412.05278)|null|
 |**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
 |**2024-12-06**|**Real-space chirality from crystalline topological defects in the Kitaev spin liquid**|Fay Borhani et.al.|[2412.05272](http://arxiv.org/abs/2412.05272)|null|
-|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
+|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|**[link](https://github.com/zhuhanqing/APOLLO)**|
 |**2024-12-06**|**Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**|Krzysztof Maziarz et.al.|[2412.05269](http://arxiv.org/abs/2412.05269)|null|
 |**2024-12-06**|**Reinforcement Learning: An Overview**|Kevin Murphy et.al.|[2412.05265](http://arxiv.org/abs/2412.05265)|null|
 |**2024-12-06**|**Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT**|Nicholas J. Boyer et.al.|[2412.05260](http://arxiv.org/abs/2412.05260)|null|
@@ -542,7 +542,7 @@ layout: default
 |**2025-01-07**|**Partitioning Strategies for Parallel Computation of Flexible Skylines**|Emilio De Lorenzis et.al.|[2501.03850](http://arxiv.org/abs/2501.03850)|null|
 |**2025-01-08**|**Design, Construction, and Testing of the APOLLO ATCA Blades for Use at the HL-LHC**|A. Akpinar et.al.|[2501.03702](http://arxiv.org/abs/2501.03702)|null|
 |**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381](http://arxiv.org/abs/2501.03381)|null|
-|**2025-01-06**|**Twinkle: A GPU-based binary-lens microlensing code with contour integration method**|Suwei Wang et.al.|[2501.03322](http://arxiv.org/abs/2501.03322)|null|
+|**2025-01-06**|**Twinkle: A GPU-based binary-lens microlensing code with contour integration method**|Suwei Wang et.al.|[2501.03322](http://arxiv.org/abs/2501.03322)|**[link](https://github.com/asterlight0626/twinkle)**|
 |**2025-01-06**|**Dynamic Data Defense: Unveiling the Database in motion Chaos Encryption (DaChE) Algorithm -- A Breakthrough in Chaos Theory for Enhanced Database Security**|Abraham Itzhak Weinberg et.al.|[2501.03296](http://arxiv.org/abs/2501.03296)|null|
 |**2025-01-06**|**A feature-preserving parallel particle generation method for complex geometries**|Xingyue Yang et.al.|[2501.03056](http://arxiv.org/abs/2501.03056)|null|
 |**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
