@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391](http://arxiv.org/abs/2501.12391)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
+|**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383](http://arxiv.org/abs/2501.12383)|null|
+|**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
+|**2025-01-21**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**Measured Hockey-Stick Divergence and its Applications to Quantum Pufferfish Privacy**|Theshani Nuradha et.al.|[2501.12359](http://arxiv.org/abs/2501.12359)|null|
 |**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
 |**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347](http://arxiv.org/abs/2501.10347)|null|
 |**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
@@ -534,6 +544,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Bounds and Codes for General Phased Burst Errors**|Sebastian Bitzer et.al.|[2501.12280](http://arxiv.org/abs/2501.12280)|null|
+|**2025-01-20**|**Generative AI-enabled Blockage Prediction for Robust Dual-Band mmWave Communication**|Mohammad Ghassemi et.al.|[2501.11763](http://arxiv.org/abs/2501.11763)|null|
+|**2025-01-20**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs**|Shige Liu et.al.|[2501.11216](http://arxiv.org/abs/2501.11216)|null|
+|**2025-01-20**|**Ditto: Accelerating Diffusion Model via Temporal Value Similarity**|Sungbin Kim et.al.|[2501.11211](http://arxiv.org/abs/2501.11211)|null|
+|**2025-01-18**|**Revisiting Ensemble Methods for Stock Trading and Crypto Trading Tasks at ACM ICAIF FinRL Contest 2023-2024**|Nikolaus Holzer et.al.|[2501.10709](http://arxiv.org/abs/2501.10709)|null|
+|**2025-01-17**|**Modeling Changes in Individuals' Cognitive Self-Esteem With and Without Access To Search Tools**|Mahir Akgun et.al.|[2501.10517](http://arxiv.org/abs/2501.10517)|null|
 |**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/abs/2501.10301)|null|
 |**2025-01-17**|**A scalable event-driven spatiotemporal feature extraction circuit**|Hugh Greatorex et.al.|[2501.10155](http://arxiv.org/abs/2501.10155)|null|
 |**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|null|
