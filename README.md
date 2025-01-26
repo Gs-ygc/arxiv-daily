@@ -1,4 +1,4 @@
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -13,7 +13,7 @@
 |**2025-01-23**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916](http://arxiv.org/abs/2501.13916)|null|
 |**2025-01-23**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905](http://arxiv.org/abs/2501.13905)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
-|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|null|
+|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|
 |**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
 |**2025-01-23**|**Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**|Zuyao You et.al.|[2501.13893](http://arxiv.org/abs/2501.13893)|**[link](https://github.com/geshang777/pix2cap)**|
 |**2025-01-22**|**The Machine Learning to reconstruct GRB lightcurves**|Maria Giovanna Dainotti et.al.|[2501.13102](http://arxiv.org/abs/2501.13102)|null|
