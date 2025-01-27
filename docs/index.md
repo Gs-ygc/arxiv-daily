@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**MLPs at the EOC: Concentration of the NTK**|Dávid Terjék et.al.|[2501.14724](http://arxiv.org/abs/2501.14724)|null|
+|**2025-01-24**|**CodeMonkeys: Scaling Test-Time Compute for Software Engineering**|Ryan Ehrlich et.al.|[2501.14723](http://arxiv.org/abs/2501.14723)|null|
+|**2025-01-24**|**Gland Segmentation Using SAM With Cancer Grade as a Prompt**|Yijie Zhu et.al.|[2501.14718](http://arxiv.org/abs/2501.14718)|null|
+|**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
+|**2025-01-24**|**Overcoming Fairness Trade-offs via Pre-processing: A Causal Perspective**|Charlotte Leininger et.al.|[2501.14710](http://arxiv.org/abs/2501.14710)|null|
+|**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
+|**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
+|**2025-01-24**|**The Karp Dataset**|Mason DiCicco et.al.|[2501.14705](http://arxiv.org/abs/2501.14705)|null|
+|**2025-01-24**|**Stroke classification using Virtual Hybrid Edge Detection from in silico electrical impedance tomography data**|Juan Pablo Agnelli et.al.|[2501.14704](http://arxiv.org/abs/2501.14704)|null|
+|**2025-01-24**|**NLP-based assessment of prescription appropriateness from Italian referrals**|Vittorio Torri et.al.|[2501.14701](http://arxiv.org/abs/2501.14701)|null|
 |**2025-01-23**|**Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**|Hao Dong et.al.|[2501.13924](http://arxiv.org/abs/2501.13924)|**[link](https://github.com/donghao51/aeo)**|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919](http://arxiv.org/abs/2501.13919)|null|
@@ -568,6 +578,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
+|**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
+|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|null|
+|**2025-01-24**|**Securing DRAM at Scale: ARFM-Driven Row Hammer Defense with Unveiling the Threat of Short tRC Patterns**|Nogeun Joo et.al.|[2501.14328](http://arxiv.org/abs/2501.14328)|null|
 |**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/abs/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|
 |**2025-01-22**|**Need for Speed: A Comprehensive Benchmark of JPEG Decoders in Python**|Vladimir Iglovikov et.al.|[2501.13131](http://arxiv.org/abs/2501.13131)|null|
 |**2025-01-22**|**SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators**|Jingwei Cai et.al.|[2501.12634](http://arxiv.org/abs/2501.12634)|null|
