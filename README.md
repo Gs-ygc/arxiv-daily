@@ -26,14 +26,14 @@
 |**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075](http://arxiv.org/abs/2501.13075)|null|
 |**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/abs/2501.13074)|null|
 |**2025-01-22**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
-|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391](http://arxiv.org/abs/2501.12391)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
 |**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
 |**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383](http://arxiv.org/abs/2501.12383)|null|
 |**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
 |**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
-|**2025-01-21**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|null|
+|**2025-01-21**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|**[link](https://github.com/INESCTEC/budget-constrained-collaborative-forecasting-market)**|
 |**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
 |**2025-01-21**|**Measured Hockey-Stick Divergence and its Applications to Quantum Pufferfish Privacy**|Theshani Nuradha et.al.|[2501.12359](http://arxiv.org/abs/2501.12359)|null|
 |**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
@@ -51,14 +51,14 @@
 |**2025-01-16**|**Suggesting Code Edits in Interactive Machine Learning Notebooks Using Large Language Models**|Bihui Jin et.al.|[2501.09745](http://arxiv.org/abs/2501.09745)|null|
 |**2025-01-16**|**Improvement of Data Analytics Techniques in Reflection High Energy Electron Diffraction to Enable Machine Learning**|Patrick T. Gemperline et.al.|[2501.09743](http://arxiv.org/abs/2501.09743)|**[link](https://zenodo.org/record/14649215)**|
 |**2025-01-16**|**Random Subspace Cubic-Regularization Methods, with Applications to Low-Rank Functions**|Coralia Cartis et.al.|[2501.09734](http://arxiv.org/abs/2501.09734)|null|
-|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
+|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|**[link](https://github.com/wenlong2000/reppi)**|
 |**2025-01-16**|**Generating particle physics Lagrangians with transformers**|Yong Sheng Koay et.al.|[2501.09729](http://arxiv.org/abs/2501.09729)|null|
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
 |**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719](http://arxiv.org/abs/2501.09719)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**Improving Stability Estimates in Adversarial Explainable AI through Alternate Search Methods**|Christopher Burger et.al.|[2501.09006](http://arxiv.org/abs/2501.09006)|null|
-|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|null|
+|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|**[link](https://github.com/trachote/crystalgrw)**|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference**|Joshua Villarreal et.al.|[2501.08988](http://arxiv.org/abs/2501.08988)|null|
 |**2025-01-15**|**Learning to Extract Cross-Domain Aspects and Understanding Sentiments Using Large Language Models**|Karukriti Kaushik Ghosh et.al.|[2501.08974](http://arxiv.org/abs/2501.08974)|null|
@@ -110,7 +110,7 @@
 |**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697](http://arxiv.org/abs/2501.04697)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
-|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|**[link](https://github.com/URSA-MATH/URSA-MATH)**|
 |**2025-01-08**|**A Novel Highly Parallelizable Machine-Learning Based Method for the Fast Solution of Integral Equations for Electromagnetic Scattering Problems**|Enes Koç et.al.|[2501.04684](http://arxiv.org/abs/2501.04684)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683](http://arxiv.org/abs/2501.04683)|null|
 |**2025-01-08**|**Learning by Confusion: The Phase Diagram of the Holstein Model**|George Issa et.al.|[2501.04681](http://arxiv.org/abs/2501.04681)|null|
@@ -379,7 +379,7 @@
 |**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140](http://arxiv.org/abs/2411.15140)|**[link](https://github.com/benpennell/recombination-emulator)**|
 |**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131](http://arxiv.org/abs/2411.15131)|null|
 |**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
-|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
+|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|**[link](https://github.com/nokia-bell-labs/pretrained-imu-encoders)**|
 |**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|**[link](https://github.com/METR/ai-rd-tasks)**|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
 |**2024-11-22**|**Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations**|Afrah Fareaa et.al.|[2411.15111](http://arxiv.org/abs/2411.15111)|**[link](https://github.com/afrah/pinn_learnable_activation)**|
@@ -576,9 +576,9 @@
 |**2025-01-17**|**Modeling Changes in Individuals' Cognitive Self-Esteem With and Without Access To Search Tools**|Mahir Akgun et.al.|[2501.10517](http://arxiv.org/abs/2501.10517)|null|
 |**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/abs/2501.10301)|null|
 |**2025-01-17**|**A scalable event-driven spatiotemporal feature extraction circuit**|Hugh Greatorex et.al.|[2501.10155](http://arxiv.org/abs/2501.10155)|null|
-|**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|null|
+|**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|**[link](https://github.com/arkhadem/mve)**|
 |**2025-01-16**|**Serverless Computing: Architecture, Concepts, and Applications**|Mohsen Ghorbian et.al.|[2501.09831](http://arxiv.org/abs/2501.09831)|null|
-|**2025-01-16**|**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding**|Johannes Kirmayr et.al.|[2501.09645](http://arxiv.org/abs/2501.09645)|null|
+|**2025-01-16**|**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding**|Johannes Kirmayr et.al.|[2501.09645](http://arxiv.org/abs/2501.09645)|**[link](https://github.com/johanneskirmayr/carmem)**|
 |**2025-01-13**|**Solving Boolean satisfiability problems with resistive content addressable memories**|Giacomo Pedretti et.al.|[2501.07733](http://arxiv.org/abs/2501.07733)|null|
 |**2025-01-13**|**Masking Countermeasures Against Side-Channel Attacks on Quantum Computers**|Jason T. LeGrow et.al.|[2501.07695](http://arxiv.org/abs/2501.07695)|null|
 |**2025-01-13**|**Operators in the mind: Jan Lukasiewicz and Polish notation**|Eduardo Mizraji et.al.|[2501.07660](http://arxiv.org/abs/2501.07660)|null|
