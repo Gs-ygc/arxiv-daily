@@ -1,4 +1,4 @@
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -579,10 +579,10 @@
 |**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|null|
 |**2025-01-24**|**Securing DRAM at Scale: ARFM-Driven Row Hammer Defense with Unveiling the Threat of Short tRC Patterns**|Nogeun Joo et.al.|[2501.14328](http://arxiv.org/abs/2501.14328)|null|
 |**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/abs/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|
-|**2025-01-22**|**Need for Speed: A Comprehensive Benchmark of JPEG Decoders in Python**|Vladimir Iglovikov et.al.|[2501.13131](http://arxiv.org/abs/2501.13131)|null|
+|**2025-01-22**|**Need for Speed: A Comprehensive Benchmark of JPEG Decoders in Python**|Vladimir Iglovikov et.al.|[2501.13131](http://arxiv.org/abs/2501.13131)|**[link](https://github.com/ternaus/imread_benchmark)**|
 |**2025-01-22**|**SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators**|Jingwei Cai et.al.|[2501.12634](http://arxiv.org/abs/2501.12634)|null|
 |**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
-|**2025-01-21**|**Bounds and Codes for General Phased Burst Errors**|Sebastian Bitzer et.al.|[2501.12280](http://arxiv.org/abs/2501.12280)|null|
+|**2025-01-21**|**Bounds and Codes for General Phased Burst Errors**|Sebastian Bitzer et.al.|[2501.12280](http://arxiv.org/abs/2501.12280)|**[link](https://github.com/sebastianbitzer/pbe)**|
 |**2025-01-20**|**Generative AI-enabled Blockage Prediction for Robust Dual-Band mmWave Communication**|Mohammad Ghassemi et.al.|[2501.11763](http://arxiv.org/abs/2501.11763)|null|
 |**2025-01-20**|**TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs**|Shige Liu et.al.|[2501.11216](http://arxiv.org/abs/2501.11216)|null|
 |**2025-01-20**|**Ditto: Accelerating Diffusion Model via Temporal Value Similarity**|Sungbin Kim et.al.|[2501.11211](http://arxiv.org/abs/2501.11211)|null|
