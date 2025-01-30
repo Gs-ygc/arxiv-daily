@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859](http://arxiv.org/abs/2501.17859)|null|
+|**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858](http://arxiv.org/abs/2501.17858)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
+|**2025-01-29**|**Improving Genetic Programming for Symbolic Regression with Equality Graphs**|Fabricio Olivetti de Franca et.al.|[2501.17848](http://arxiv.org/abs/2501.17848)|null|
+|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
+|**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841](http://arxiv.org/abs/2501.17841)|**[link](https://github.com/acoupi/acoupi)**|
+|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
+|**2025-01-29**|**Distinguishing Ordered Phases using Machine Learning and Classical Shadows**|Leandro Morais et.al.|[2501.17837](http://arxiv.org/abs/2501.17837)|null|
+|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836](http://arxiv.org/abs/2501.17836)|null|
+|**2025-01-29**|**Hierarchical Fallback Architecture for High Risk Online Machine Learning Inference**|Gustavo Polleti et.al.|[2501.17834](http://arxiv.org/abs/2501.17834)|null|
+|**2025-01-29**|**Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**|Haque Ishfaq et.al.|[2501.17827](http://arxiv.org/abs/2501.17827)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161](http://arxiv.org/abs/2501.17161)|null|
 |**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
@@ -598,12 +608,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Unorthodox parallelization for Bayesian quantum state estimation**|Hanson H. Nguyen et.al.|[2501.17334](http://arxiv.org/abs/2501.17334)|null|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang et.al.|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-27**|**Euclid preparation. 3-dimensional galaxy clustering in configuration space. Part I. 2-point correlation function estimation**|Euclid Collaboration et.al.|[2501.16555](http://arxiv.org/abs/2501.16555)|null|
 |**2025-01-27**|**Sensitivity Analysis of the Laser Power Control System to Measurement Noise in SLS 3D Printers**|Hamid Toshani et.al.|[2501.16473](http://arxiv.org/abs/2501.16473)|null|
 |**2025-01-27**|**Crosstalk analysis in single hole-spin qubits within highly anisotropic g-tensors**|Yaser Hajati et.al.|[2501.16464](http://arxiv.org/abs/2501.16464)|null|
-|**2025-01-27**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456](http://arxiv.org/abs/2501.16456)|**[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)**|
+|**2025-01-29**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456](http://arxiv.org/abs/2501.16456)|**[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)**|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
 |**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
@@ -762,8 +773,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-29**|**Dynamic Adaptation in Data Storage: Real-Time Machine Learning for Enhanced Prefetching**|Chiyu Cheng et.al.|[2501.14771](http://arxiv.org/abs/2501.14771)|null|
-|**2024-12-29**|**Optimizing SSD Caches for Cloud Block Storage Systems Using Machine Learning Approaches**|Chiyu Cheng et.al.|[2501.14770](http://arxiv.org/abs/2501.14770)|null|
+|**2025-01-28**|**Dynamic Adaptation in Data Storage: Real-Time Machine Learning for Enhanced Prefetching**|Chiyu Cheng et.al.|[2501.14771](http://arxiv.org/abs/2501.14771)|null|
+|**2025-01-28**|**Optimizing SSD Caches for Cloud Block Storage Systems Using Machine Learning Approaches**|Chiyu Cheng et.al.|[2501.14770](http://arxiv.org/abs/2501.14770)|null|
 |**2025-01-23**|**Advancing ATLAS DCS Data Analysis with a Modern Data Platform**|Luca Canali et.al.|[2501.13543](http://arxiv.org/abs/2501.13543)|null|
 |**2025-01-17**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305](http://arxiv.org/abs/2501.08305)|**[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**|
 |**2025-01-10**|**rmlnomogram: An R package to construct an explainable nomogram for any machine learning algorithms**|Herdiantri Sufriyana et.al.|[2501.05772](http://arxiv.org/abs/2501.05772)|**[link](https://github.com/herdiantrisufriyana/rmlnomogram)**|
