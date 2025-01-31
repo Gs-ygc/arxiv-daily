@@ -1,4 +1,4 @@
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -604,7 +604,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-28**|**Unorthodox parallelization for Bayesian quantum state estimation**|Hanson H. Nguyen et.al.|[2501.17334](http://arxiv.org/abs/2501.17334)|null|
+|**2025-01-28**|**Unorthodox parallelization for Bayesian quantum state estimation**|Hanson H. Nguyen et.al.|[2501.17334](http://arxiv.org/abs/2501.17334)|**[link](https://github.com/hansonnguy/parallelbayesqst)**|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang et.al.|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-27**|**Euclid preparation. 3-dimensional galaxy clustering in configuration space. Part I. 2-point correlation function estimation**|Euclid Collaboration et.al.|[2501.16555](http://arxiv.org/abs/2501.16555)|null|
