@@ -30,7 +30,7 @@
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161](http://arxiv.org/abs/2501.17161)|null|
 |**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
 |**2025-01-28**|**Scanning Trojaned Models Using Out-of-Distribution Samples**|Hossein Mirzaei et.al.|[2501.17151](http://arxiv.org/abs/2501.17151)|**[link](https://github.com/rohban-lab/trodo)**|
-|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
+|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|**[link](https://github.com/stanfordnlp/axbench)**|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
 |**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
 |**2025-01-28**|**Hybrid Deep Learning Model for Multiple Cache Side Channel Attacks Detection: A Comparative Analysis**|Tejal Joshi et.al.|[2501.17123](http://arxiv.org/abs/2501.17123)|null|
@@ -38,10 +38,10 @@
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-27**|**sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging**|Jingyuan Chen et.al.|[2501.16329](http://arxiv.org/abs/2501.16329)|null|
 |**2025-01-27**|**Tailored Forecasting from Short Time Series via Meta-learning**|Declan A. Norton et.al.|[2501.16325](http://arxiv.org/abs/2501.16325)|null|
-|**2025-01-27**|**Implicit Bias in Matrix Factorization and its Explicit Realization in a New Architecture**|Yikun Hou et.al.|[2501.16322](http://arxiv.org/abs/2501.16322)|null|
+|**2025-01-27**|**Implicit Bias in Matrix Factorization and its Explicit Realization in a New Architecture**|Yikun Hou et.al.|[2501.16322](http://arxiv.org/abs/2501.16322)|**[link](https://github.com/Titanium-H/UDV)**|
 |**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319](http://arxiv.org/abs/2501.16319)|null|
 |**2025-01-27**|**Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems**|Beier Li et.al.|[2501.16306](http://arxiv.org/abs/2501.16306)|null|
-|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|**[link](https://github.com/Tzoulio/Large_Models_Dialogue_for_Active_Perception)**|
 |**2025-01-27**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295](http://arxiv.org/abs/2501.16295)|**[link](https://github.com/weixin-liang/mixture-of-mamba)**|
 |**2025-01-27**|**Dissecting stellar populations with manifold learning I. Validation of the method on a synthetic Milky Way-like galaxy**|A. W. Neitzel et.al.|[2501.16294](http://arxiv.org/abs/2501.16294)|null|
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
@@ -106,7 +106,7 @@
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
 |**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719](http://arxiv.org/abs/2501.09719)|null|
-|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|**[link](https://github.com/ASK-Berkeley/MLFF-distill)**|
 |**2025-01-15**|**Improving Stability Estimates in Adversarial Explainable AI through Alternate Search Methods**|Christopher Burger et.al.|[2501.09006](http://arxiv.org/abs/2501.09006)|null|
 |**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|**[link](https://github.com/trachote/crystalgrw)**|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
@@ -436,7 +436,7 @@
 |**2024-11-22**|**Effective Littlestone Dimension**|Valentino Delle Rose et.al.|[2411.15109](http://arxiv.org/abs/2411.15109)|null|
 |**2024-11-22**|**About Time: Advances, Challenges, and Outlooks of Action Understanding**|Alexandros Stergiou et.al.|[2411.15106](http://arxiv.org/abs/2411.15106)|null|
 |**2024-11-22**|**Efficient Radar Modulation Recognition via a Noise-Aware Ensemble Neural Network**|Do-Hyun Park et.al.|[2411.15104](http://arxiv.org/abs/2411.15104)|null|
-|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|**[link](https://github.com/snap-research/stable-flow)**|
 |**2024-11-21**|**Transformer-based Heuristic for Advanced Air Mobility Planning**|Jun Xiang et.al.|[2411.14427](http://arxiv.org/abs/2411.14427)|null|
 |**2024-11-21**|**Whack-a-Chip: The Futility of Hardware-Centric Export Controls**|Ritwik Gupta et.al.|[2411.14425](http://arxiv.org/abs/2411.14425)|null|
 |**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
