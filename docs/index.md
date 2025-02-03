@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|null|
+|**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
+|**2025-01-31**|**Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits**|Argyrios Gerogiannis et.al.|[2501.19401](http://arxiv.org/abs/2501.19401)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393](http://arxiv.org/abs/2501.19393)|**[link](https://github.com/simplescaling/s1)**|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389](http://arxiv.org/abs/2501.19389)|null|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
@@ -618,6 +628,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Solid-state Synapse Based on Magnetoelectrically Coupled Memristor**|Weichuan Huang et.al.|[2501.19304](http://arxiv.org/abs/2501.19304)|null|
+|**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
+|**2025-01-30**|**Dissociated Neuronal Cultures as Model Systems for Self-Organized Prediction**|Amit Yaron et.al.|[2501.18772](http://arxiv.org/abs/2501.18772)|null|
 |**2025-01-30**|**A photonic integrated processor for multiple parallel computational tasks**|Sheng Dong et.al.|[2501.18186](http://arxiv.org/abs/2501.18186)|null|
 |**2025-01-30**|**Chip-to-chip photonic connectivity in multi-accelerator servers for ML**|Abhishek Vijaya Kumar et.al.|[2501.18169](http://arxiv.org/abs/2501.18169)|null|
 |**2025-01-28**|**Unorthodox parallelization for Bayesian quantum state estimation**|Hanson H. Nguyen et.al.|[2501.17334](http://arxiv.org/abs/2501.17334)|**[link](https://github.com/hansonnguy/parallelbayesqst)**|
