@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
+|**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
+|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
+|**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
+|**2025-02-04**|**Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes**|Thijs Overmeer et.al.|[2502.02565](http://arxiv.org/abs/2502.02565)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558](http://arxiv.org/abs/2502.02558)|null|
+|**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552](http://arxiv.org/abs/2502.02552)|null|
 |**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
 |**2025-01-31**|**Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits**|Argyrios Gerogiannis et.al.|[2501.19401](http://arxiv.org/abs/2501.19401)|null|
@@ -624,6 +634,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh et.al.|[2502.02405](http://arxiv.org/abs/2502.02405)|null|
+|**2025-02-04**|**Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb**|Fotis I. Giasemis et.al.|[2502.02304](http://arxiv.org/abs/2502.02304)|null|
+|**2025-02-04**|**Evaluating Fault Tolerance and Scalability in Distributed File Systems: A Case Study of GFS, HDFS, and MinIO**|Shubham Malhotra et.al.|[2502.01981](http://arxiv.org/abs/2502.01981)|null|
+|**2025-01-30**|**Fine-tuning LLaMA 2 interference: a comparative study of language implementations for optimal efficiency**|Sazzad Hossain et.al.|[2502.01651](http://arxiv.org/abs/2502.01651)|null|
 |**2025-01-31**|**Solid-state Synapse Based on Magnetoelectrically Coupled Memristor**|Weichuan Huang et.al.|[2501.19304](http://arxiv.org/abs/2501.19304)|null|
 |**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
 |**2025-01-30**|**Dissociated Neuronal Cultures as Model Systems for Self-Organized Prediction**|Amit Yaron et.al.|[2501.18772](http://arxiv.org/abs/2501.18772)|null|
@@ -794,6 +808,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Generative Data Mining with Longtail-Guided Diffusion**|David S. Hayden et.al.|[2502.01980](http://arxiv.org/abs/2502.01980)|null|
+|**2025-01-31**|**Efficient Beam Search for Large Language Models Using Trie-Based Decoding**|Brian J Chan et.al.|[2502.00085](http://arxiv.org/abs/2502.00085)|null|
 |**2025-02-03**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
 |**2025-01-28**|**Dynamic Adaptation in Data Storage: Real-Time Machine Learning for Enhanced Prefetching**|Chiyu Cheng et.al.|[2501.14771](http://arxiv.org/abs/2501.14771)|null|
 |**2025-01-28**|**Optimizing SSD Caches for Cloud Block Storage Systems Using Machine Learning Approaches**|Chiyu Cheng et.al.|[2501.14770](http://arxiv.org/abs/2501.14770)|null|
