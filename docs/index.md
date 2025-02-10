@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient**|Jan Ludziejewski et.al.|[2502.05172](http://arxiv.org/abs/2502.05172)|null|
+|**2025-02-07**|**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**|Jonas Geiping et.al.|[2502.05171](http://arxiv.org/abs/2502.05171)|null|
+|**2025-02-07**|**Observation of a dynamic magneto-chiral instability in photoexcited tellurium**|Yijing Huang et.al.|[2502.05170](http://arxiv.org/abs/2502.05170)|null|
+|**2025-02-07**|**Flopping for FLOPs: Leveraging equivariance for computational efficiency**|Georg Bökman et.al.|[2502.05169](http://arxiv.org/abs/2502.05169)|null|
+|**2025-02-07**|**In-context denoising with one-layer transformers: connections between attention and associative memory retrieval**|Matthew Smart et.al.|[2502.05164](http://arxiv.org/abs/2502.05164)|null|
+|**2025-02-07**|**DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails**|Yihe Deng et.al.|[2502.05163](http://arxiv.org/abs/2502.05163)|null|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161](http://arxiv.org/abs/2502.05161)|null|
+|**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
+|**2025-02-07**|**Efficient distributional regression trees learning algorithms for calibrated non-parametric probabilistic forecasts**|Duchemin Quentin et.al.|[2502.05157](http://arxiv.org/abs/2502.05157)|null|
+|**2025-02-07**|**Deep Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2502.05155](http://arxiv.org/abs/2502.05155)|null|
 |**2025-02-06**|**Value-Based Deep RL Scales Predictably**|Oleh Rybkin et.al.|[2502.04327](http://arxiv.org/abs/2502.04327)|null|
 |**2025-02-06**|**The Uniformly Rotated Mondrian Kernel**|Calvin Osborne et.al.|[2502.04323](http://arxiv.org/abs/2502.04323)|**[link](https://github.com/COsborne25/uniformly-rotated-mondrian-kernel)**|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
