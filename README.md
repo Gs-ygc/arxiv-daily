@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**Towards Quantum Tensor Decomposition in Biomedical Applications**|Myson Burch et.al.|[2502.13140](http://arxiv.org/abs/2502.13140)|null|
+|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138](http://arxiv.org/abs/2502.13138)|null|
+|**2025-02-18**|**Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions**|Taedong Yun et.al.|[2502.13135](http://arxiv.org/abs/2502.13135)|null|
+|**2025-02-18**|**RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations**|Jingxiao Chen et.al.|[2502.13134](http://arxiv.org/abs/2502.13134)|null|
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|null|
+|**2025-02-18**|**Near-Optimal Private Learning in Linear Contextual Bandits**|Fan Chen et.al.|[2502.13115](http://arxiv.org/abs/2502.13115)|null|
+|**2025-02-18**|**Constrained Online Convex Optimization with Polyak Feasibility Steps**|Spencer Hutchinson et.al.|[2502.13112](http://arxiv.org/abs/2502.13112)|null|
 |**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
 |**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147](http://arxiv.org/abs/2502.12147)|null|
@@ -724,6 +734,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Variable Read Disturbance: An Experimental Analysis of Temporal Variation in DRAM Read Disturbance**|Ataberk Olgun et.al.|[2502.13075](http://arxiv.org/abs/2502.13075)|null|
+|**2025-02-18**|**Performance Trade-offs of High Order Meshless Approximation on Distributed Memory Systems**|Jon Vehovar et.al.|[2502.12878](http://arxiv.org/abs/2502.12878)|null|
+|**2025-02-18**|**Automatically setting arbitrary magnitude and phase of Mach-Zehnder interferometers for scalable optical computing**|Alessandro di Tria et.al.|[2502.12869](http://arxiv.org/abs/2502.12869)|null|
+|**2025-02-18**|**Stabilization of magnetic bubbles in [Ni/Co] $_{n}$ multilayers on an oxygen-reconstructed Nb(110) surface via an ultra-thin Cu interlayer**|Ahmad Dibajeh et.al.|[2502.12649](http://arxiv.org/abs/2502.12649)|null|
+|**2025-02-18**|**Seamless Graph Task Scheduling over Dynamic Vehicular Clouds: A Hybrid Methodology for Integrating Pilot and Instantaneous Decisions**|Bingshuo Guo et.al.|[2502.12557](http://arxiv.org/abs/2502.12557)|null|
+|**2025-02-17**|**Roadmap to fault tolerant quantum computation using topological qubit arrays**|David Aasen et.al.|[2502.12252](http://arxiv.org/abs/2502.12252)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
 |**2025-02-17**|**Circuit Partitioning and Full Circuit Execution: A Comparative Study of GPU-Based Quantum Circuit Simulation**|Kartikey Sarode et.al.|[2502.11385](http://arxiv.org/abs/2502.11385)|null|
 |**2025-02-13**|**MetaDE: Evolving Differential Evolution by Differential Evolution**|Minyang Chen et.al.|[2502.10470](http://arxiv.org/abs/2502.10470)|null|
