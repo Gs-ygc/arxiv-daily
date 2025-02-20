@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
+|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961](http://arxiv.org/abs/2502.13961)|null|
+|**2025-02-19**|**Latent Distribution Decoupling: A Probabilistic Framework for Uncertainty-Aware Multimodal Emotion Recognition**|Jingwang Huang et.al.|[2502.13954](http://arxiv.org/abs/2502.13954)|**[link](https://github.com/201983290498/lddu_mmer)**|
+|**2025-02-19**|**GPU-Friendly Laplacian Texture Blending**|Bartlomiej Wronski et.al.|[2502.13945](http://arxiv.org/abs/2502.13945)|null|
+|**2025-02-19**|**AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence**|Yuliang Liu et.al.|[2502.13943](http://arxiv.org/abs/2502.13943)|null|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|
+|**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
 |**2025-02-18**|**Towards Quantum Tensor Decomposition in Biomedical Applications**|Myson Burch et.al.|[2502.13140](http://arxiv.org/abs/2502.13140)|null|
@@ -734,9 +744,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**GENIO: Synergizing Edge Computing with Optical Network Infrastructures**|Carmine Cesarano et.al.|[2502.13657](http://arxiv.org/abs/2502.13657)|null|
 |**2025-02-18**|**Variable Read Disturbance: An Experimental Analysis of Temporal Variation in DRAM Read Disturbance**|Ataberk Olgun et.al.|[2502.13075](http://arxiv.org/abs/2502.13075)|null|
 |**2025-02-18**|**Performance Trade-offs of High Order Meshless Approximation on Distributed Memory Systems**|Jon Vehovar et.al.|[2502.12878](http://arxiv.org/abs/2502.12878)|null|
-|**2025-02-18**|**Automatically setting arbitrary magnitude and phase of Mach-Zehnder interferometers for scalable optical computing**|Alessandro di Tria et.al.|[2502.12869](http://arxiv.org/abs/2502.12869)|null|
+|**2025-02-19**|**Automatically setting arbitrary magnitude and phase of Mach-Zehnder interferometers for scalable optical computing**|Alessandro di Tria et.al.|[2502.12869](http://arxiv.org/abs/2502.12869)|null|
 |**2025-02-18**|**Stabilization of magnetic bubbles in [Ni/Co] $_{n}$ multilayers on an oxygen-reconstructed Nb(110) surface via an ultra-thin Cu interlayer**|Ahmad Dibajeh et.al.|[2502.12649](http://arxiv.org/abs/2502.12649)|null|
 |**2025-02-18**|**Seamless Graph Task Scheduling over Dynamic Vehicular Clouds: A Hybrid Methodology for Integrating Pilot and Instantaneous Decisions**|Bingshuo Guo et.al.|[2502.12557](http://arxiv.org/abs/2502.12557)|null|
 |**2025-02-17**|**Roadmap to fault tolerant quantum computation using topological qubit arrays**|David Aasen et.al.|[2502.12252](http://arxiv.org/abs/2502.12252)|null|
