@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
+|**2025-02-24**|**Towards Hierarchical Rectified Flow**|Yichi Zhang et.al.|[2502.17436](http://arxiv.org/abs/2502.17436)|**[link](https://github.com/riccizz/HRF)**|
+|**2025-02-24**|**Dynamical phases of short-term memory mechanisms in RNNs**|Bariscan Kurtkaya et.al.|[2502.17433](http://arxiv.org/abs/2502.17433)|null|
+|**2025-02-24**|**FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**|Jason Jingzhou Liu et.al.|[2502.17432](http://arxiv.org/abs/2502.17432)|null|
+|**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|null|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|null|
+|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
 |**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
@@ -764,6 +774,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|null|
+|**2025-02-24**|**Analyzing a Two-Tier Disaggregated Memory Protection Scheme Based on Memory Replication**|Haris Volos et.al.|[2502.17138](http://arxiv.org/abs/2502.17138)|null|
+|**2025-02-24**|**Lotuses as computational architectures**|Evelia R. García Barroso et.al.|[2502.17102](http://arxiv.org/abs/2502.17102)|null|
+|**2025-02-24**|**VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering**|Junseo Lee et.al.|[2502.17078](http://arxiv.org/abs/2502.17078)|null|
+|**2025-02-22**|**Verification of Bit-Flip Attacks against Quantized Neural Networks**|Yedi Zhang et.al.|[2502.16286](http://arxiv.org/abs/2502.16286)|null|
+|**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825](http://arxiv.org/abs/2502.14825)|**[link](https://github.com/maormizrachi/madvoro)**|
 |**2025-02-20**|**Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction**|Yue Wu et.al.|[2502.14787](http://arxiv.org/abs/2502.14787)|null|
 |**2025-02-20**|**Parallelizing a modern GPU simulator**|Rodrigo Huerta et.al.|[2502.14691](http://arxiv.org/abs/2502.14691)|null|
@@ -970,6 +986,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
+|**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
+|**2025-02-22**|**Privacy-Aware Joint DNN Model Deployment and Partition Optimization for Delay-Efficient Collaborative Edge Inference**|Zhipeng Cheng et.al.|[2502.16091](http://arxiv.org/abs/2502.16091)|null|
 |**2025-02-17**|**Biases in Edge Language Models: Detection, Analysis, and Mitigation**|Vinamra Sharma et.al.|[2502.11349](http://arxiv.org/abs/2502.11349)|null|
 |**2025-02-04**|**A Hybrid Swarm Intelligence Approach for Optimizing Multimodal Large Language Models Deployment in Edge-Cloud-based Federated Learning Environments**|Gaith Rjouba et.al.|[2502.10419](http://arxiv.org/abs/2502.10419)|null|
 |**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
