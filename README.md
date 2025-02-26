@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463](http://arxiv.org/abs/2502.18463)|null|
+|**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
+|**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
+|**2025-02-25**|**Supervised Reward Inference**|Will Schwarzer et.al.|[2502.18447](http://arxiv.org/abs/2502.18447)|null|
+|**2025-02-25**|**Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks**|Yanning Yin et.al.|[2502.18442](http://arxiv.org/abs/2502.18442)|null|
+|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438](http://arxiv.org/abs/2502.18438)|null|
+|**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437](http://arxiv.org/abs/2502.18437)|null|
+|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
+|**2025-02-25**|**Global law of conjugate kernel random matrices with heavy-tailed weights**|Alice Guionnet et.al.|[2502.18428](http://arxiv.org/abs/2502.18428)|null|
+|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
 |**2025-02-24**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
 |**2025-02-24**|**Towards Hierarchical Rectified Flow**|Yichi Zhang et.al.|[2502.17436](http://arxiv.org/abs/2502.17436)|**[link](https://github.com/riccizz/HRF)**|
 |**2025-02-24**|**Dynamical phases of short-term memory mechanisms in RNNs**|Bariscan Kurtkaya et.al.|[2502.17433](http://arxiv.org/abs/2502.17433)|null|
@@ -774,6 +784,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems**|Zheming Ye et.al.|[2502.18288](http://arxiv.org/abs/2502.18288)|null|
+|**2025-02-25**|**Multimode operation of a superconducting nanowire switch in the nanosecond regime**|Zoltán Scherübl et.al.|[2502.17980](http://arxiv.org/abs/2502.17980)|null|
+|**2025-02-24**|**Optimized Memory System Architecture for VESA VDC-M Decoder with Multi-Slice Support**|Hannah Yang et.al.|[2502.17729](http://arxiv.org/abs/2502.17729)|null|
+|**2025-02-24**|**Solving the Traveling Salesman Problem via Different Quantum Computing Architectures**|Venkat Padmasola et.al.|[2502.17725](http://arxiv.org/abs/2502.17725)|null|
 |**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|null|
 |**2025-02-24**|**Analyzing a Two-Tier Disaggregated Memory Protection Scheme Based on Memory Replication**|Haris Volos et.al.|[2502.17138](http://arxiv.org/abs/2502.17138)|null|
 |**2025-02-24**|**Lotuses as computational architectures**|Evelia R. García Barroso et.al.|[2502.17102](http://arxiv.org/abs/2502.17102)|null|
@@ -986,6 +1000,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Accelerated Training on Low-Power Edge Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.18323](http://arxiv.org/abs/2502.18323)|null|
+|**2025-02-24**|**Architecting Digital Twins for Intelligent Transportation Systems**|Hiya Bhatt et.al.|[2502.17646](http://arxiv.org/abs/2502.17646)|null|
+|**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
 |**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
 |**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
 |**2025-02-22**|**Privacy-Aware Joint DNN Model Deployment and Partition Optimization for Delay-Efficient Collaborative Edge Inference**|Zhipeng Cheng et.al.|[2502.16091](http://arxiv.org/abs/2502.16091)|null|
