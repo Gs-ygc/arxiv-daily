@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
+|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
+|**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411](http://arxiv.org/abs/2502.19411)|null|
+|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/abs/2502.19409)|null|
+|**2025-02-26**|**Verde: Verification via Refereed Delegation for Machine Learning Programs**|Arasu Arun et.al.|[2502.19405](http://arxiv.org/abs/2502.19405)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/abs/2502.19402)|null|
+|**2025-02-26**|**Error estimates for viscous Burgers' equation using deep learning method**|Wasim Akram et.al.|[2502.19392](http://arxiv.org/abs/2502.19392)|null|
+|**2025-02-26**|**Residual Speech Embeddings for Tone Classification: Removing Linguistic Content to Enhance Paralinguistic Analysis**|Hamdan Al Ahbabi et.al.|[2502.19387](http://arxiv.org/abs/2502.19387)|null|
+|**2025-02-26**|**Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-based Learning Framework**|Ziqiao Weng et.al.|[2502.19386](http://arxiv.org/abs/2502.19386)|null|
 |**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463](http://arxiv.org/abs/2502.18463)|null|
 |**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
 |**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
@@ -784,6 +794,13 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Algorithms for Parallel Shared-Memory Sparse Matrix-Vector Multiplication on Unstructured Matrices**|Kobe Bergmans et.al.|[2502.19284](http://arxiv.org/abs/2502.19284)|null|
+|**2025-02-26**|**FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems**|Yiqi Chen et.al.|[2502.19233](http://arxiv.org/abs/2502.19233)|null|
+|**2025-02-26**|**3D-TrIM: A Memory-Efficient Spatial Computing Architecture for Convolution Workloads**|Cristian Sestito et.al.|[2502.18983](http://arxiv.org/abs/2502.18983)|null|
+|**2025-02-26**|**A Reliable, Time-Predictable Heterogeneous SoC for AI-Enhanced Mixed-Criticality Edge Applications**|Angelo Garofalo et.al.|[2502.18953](http://arxiv.org/abs/2502.18953)|null|
+|**2025-02-26**|**Parallel spatial photonic Ising machine using spatial multiplexing for accelerating combinatorial optimization**|Suguru Shimomura et.al.|[2502.18918](http://arxiv.org/abs/2502.18918)|null|
+|**2025-02-25**|**PacQ: A SIMT Microarchitecture for Efficient Dataflow in Hyper-asymmetric GEMMs**|Ruokai Yin et.al.|[2502.18627](http://arxiv.org/abs/2502.18627)|null|
+|**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
 |**2025-02-25**|**Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems**|Zheming Ye et.al.|[2502.18288](http://arxiv.org/abs/2502.18288)|null|
 |**2025-02-25**|**Multimode operation of a superconducting nanowire switch in the nanosecond regime**|Zoltán Scherübl et.al.|[2502.17980](http://arxiv.org/abs/2502.17980)|null|
 |**2025-02-24**|**Optimized Memory System Architecture for VESA VDC-M Decoder with Multi-Slice Support**|Hannah Yang et.al.|[2502.17729](http://arxiv.org/abs/2502.17729)|null|
@@ -1004,7 +1021,7 @@
 |**2025-02-24**|**Architecting Digital Twins for Intelligent Transportation Systems**|Hiya Bhatt et.al.|[2502.17646](http://arxiv.org/abs/2502.17646)|null|
 |**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
 |**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
-|**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
+|**2025-02-26**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
 |**2025-02-22**|**Privacy-Aware Joint DNN Model Deployment and Partition Optimization for Delay-Efficient Collaborative Edge Inference**|Zhipeng Cheng et.al.|[2502.16091](http://arxiv.org/abs/2502.16091)|null|
 |**2025-02-17**|**Biases in Edge Language Models: Detection, Analysis, and Mitigation**|Vinamra Sharma et.al.|[2502.11349](http://arxiv.org/abs/2502.11349)|null|
 |**2025-02-04**|**A Hybrid Swarm Intelligence Approach for Optimizing Multimodal Large Language Models Deployment in Edge-Cloud-based Federated Learning Environments**|Gaith Rjouba et.al.|[2502.10419](http://arxiv.org/abs/2502.10419)|null|
