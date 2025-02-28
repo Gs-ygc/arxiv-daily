@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**|Susmit Agrawal et.al.|[2502.20393](http://arxiv.org/abs/2502.20393)|null|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381](http://arxiv.org/abs/2502.20381)|null|
+|**2025-02-27**|**Multi-Turn Code Generation Through Single-Step Rewards**|Arnav Kumar Jain et.al.|[2502.20380](http://arxiv.org/abs/2502.20380)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/abs/2502.20377)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
 |**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
 |**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
@@ -794,6 +804,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|null|
+|**2025-02-27**|**Quantum LDPC codes for erasure-biased atomic quantum processors**|Laura Pecorari et.al.|[2502.20189](http://arxiv.org/abs/2502.20189)|null|
+|**2025-02-27**|**Large-Scale Simulations of Fully Resolved Complex Moving Geometries with Partially Saturated Cells**|P. Suffa et.al.|[2502.20049](http://arxiv.org/abs/2502.20049)|null|
 |**2025-02-26**|**Algorithms for Parallel Shared-Memory Sparse Matrix-Vector Multiplication on Unstructured Matrices**|Kobe Bergmans et.al.|[2502.19284](http://arxiv.org/abs/2502.19284)|null|
 |**2025-02-26**|**FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems**|Yiqi Chen et.al.|[2502.19233](http://arxiv.org/abs/2502.19233)|null|
 |**2025-02-26**|**3D-TrIM: A Memory-Efficient Spatial Computing Architecture for Convolution Workloads**|Cristian Sestito et.al.|[2502.18983](http://arxiv.org/abs/2502.18983)|null|
@@ -1017,6 +1030,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Self-rewarding correction for mathematical reasoning**|Wei Xiong et.al.|[2502.19613](http://arxiv.org/abs/2502.19613)|null|
 |**2025-02-25**|**Accelerated Training on Low-Power Edge Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.18323](http://arxiv.org/abs/2502.18323)|null|
 |**2025-02-24**|**Architecting Digital Twins for Intelligent Transportation Systems**|Hiya Bhatt et.al.|[2502.17646](http://arxiv.org/abs/2502.17646)|null|
 |**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
