@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
+|**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880](http://arxiv.org/abs/2503.02880)|null|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
+|**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877](http://arxiv.org/abs/2503.02877)|null|
+|**2025-03-04**|**Multiaccuracy and Multicalibration via Proxy Groups**|Beepul Bharti et.al.|[2503.02870](http://arxiv.org/abs/2503.02870)|null|
+|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-04**|**Unsupervised Attributed Dynamic Network Embedding with Stability Guarantees**|Emma Ceccherini et.al.|[2503.02859](http://arxiv.org/abs/2503.02859)|null|
+|**2025-03-04**|**(How) Do Language Models Track State?**|Belinda Z. Li et.al.|[2503.02854](http://arxiv.org/abs/2503.02854)|null|
 |**2025-02-28**|**TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**|Tatiana A. Bubba et.al.|[2502.21320](http://arxiv.org/abs/2502.21320)|null|
 |**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
 |**2025-02-28**|**Unsupervised Parameter Efficient Source-free Post-pretraining**|Abhishek Jha et.al.|[2502.21313](http://arxiv.org/abs/2502.21313)|null|
@@ -818,6 +828,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**A Distributed Partitioning Software and its Applications**|Aparna Sasidharan et.al.|[2503.02185](http://arxiv.org/abs/2503.02185)|null|
+|**2025-03-03**|**CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design**|Zishen Wan et.al.|[2503.01162](http://arxiv.org/abs/2503.01162)|null|
+|**2025-03-03**|**Efficient multiplexed quantum memory with high dimensional orbital angular momentum states in cold atoms**|Xin Yang et.al.|[2503.01106](http://arxiv.org/abs/2503.01106)|null|
+|**2025-03-02**|**Balanced segmentation of CNNs for multi-TPU inference**|Jorge Villarrubia et.al.|[2503.01035](http://arxiv.org/abs/2503.01035)|null|
+|**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
+|**2025-03-04**|**Conformal Lyapunov Optimization: Optimal Resource Allocation under Deterministic Reliability Constraints**|Francesco Binucci et.al.|[2503.00486](http://arxiv.org/abs/2503.00486)|null|
+|**2025-03-01**|**Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization**|Joanna Piper Morgan et.al.|[2503.00264](http://arxiv.org/abs/2503.00264)|null|
 |**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|null|
 |**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027](http://arxiv.org/abs/2502.21027)|null|
 |**2025-02-28**|**Silicon Micro-Disk Resonator Crossbar Array for High-Speed and High-Density Photonic Convolution Processing**|Long Huang et.al.|[2502.20777](http://arxiv.org/abs/2502.20777)|null|
@@ -1047,6 +1064,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Vision-Language Model IP Protection via Prompt-based Learning**|Lianyu Wang et.al.|[2503.02393](http://arxiv.org/abs/2503.02393)|null|
+|**2025-03-04**|**V2X-LLM: Enhancing V2X Integration and Understanding in Connected Vehicle Corridors**|Keshu Wu et.al.|[2503.02239](http://arxiv.org/abs/2503.02239)|null|
+|**2025-03-03**|**Aerial Infrared Health Monitoring of Solar Photovoltaic Farms at Scale**|Isaac Corley et.al.|[2503.02128](http://arxiv.org/abs/2503.02128)|null|
+|**2025-03-03**|**DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion**|Ziqian Ning et.al.|[2503.01183](http://arxiv.org/abs/2503.01183)|null|
 |**2025-02-27**|**LLMs Have Rhythm: Fingerprinting Large Language Models Using Inter-Token Times and Network Traffic Analysis**|Saeif Alhazbi et.al.|[2502.20589](http://arxiv.org/abs/2502.20589)|null|
 |**2025-02-26**|**Self-rewarding correction for mathematical reasoning**|Wei Xiong et.al.|[2502.19613](http://arxiv.org/abs/2502.19613)|**[link](https://github.com/rlhflow/self-rewarding-reasoning-llm)**|
 |**2025-02-25**|**Accelerated Training on Low-Power Edge Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.18323](http://arxiv.org/abs/2502.18323)|null|
