@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/abs/2503.03747)|null|
+|**2025-03-05**|**Constrained Gaussian Wasserstein Optimal Transport with Commutative Covariance Matrices**|Jun Chen et.al.|[2503.03744](http://arxiv.org/abs/2503.03744)|null|
+|**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736](http://arxiv.org/abs/2503.03736)|null|
+|**2025-03-05**|**Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need**|Amal Shaheena et.al.|[2503.03733](http://arxiv.org/abs/2503.03733)|null|
+|**2025-03-05**|**LuxNAS: A Coherent Photonic Neural Network Powered by Neural Architecture Search**|Amin Shafiee et.al.|[2503.03731](http://arxiv.org/abs/2503.03731)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Graph-Augmented LSTM for Forecasting Sparse Anomalies in Graph-Structured Time Series**|Sneh Pillai et.al.|[2503.03729](http://arxiv.org/abs/2503.03729)|null|
+|**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724](http://arxiv.org/abs/2503.03724)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
 |**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880](http://arxiv.org/abs/2503.02880)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
@@ -824,6 +834,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
 |**2025-03-04**|**A Distributed Partitioning Software and its Applications**|Aparna Sasidharan et.al.|[2503.02185](http://arxiv.org/abs/2503.02185)|null|
 |**2025-03-03**|**CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design**|Zishen Wan et.al.|[2503.01162](http://arxiv.org/abs/2503.01162)|null|
 |**2025-03-03**|**Efficient multiplexed quantum memory with high dimensional orbital angular momentum states in cold atoms**|Xin Yang et.al.|[2503.01106](http://arxiv.org/abs/2503.01106)|null|
