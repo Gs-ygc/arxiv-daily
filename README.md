@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -863,7 +863,7 @@
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
 |**2025-03-04**|**Conformal Lyapunov Optimization: Optimal Resource Allocation under Deterministic Reliability Constraints**|Francesco Binucci et.al.|[2503.00486](http://arxiv.org/abs/2503.00486)|null|
 |**2025-03-01**|**Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization**|Joanna Piper Morgan et.al.|[2503.00264](http://arxiv.org/abs/2503.00264)|null|
-|**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|null|
+|**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|**[link](https://github.com/dos-group/benchspark)**|
 |**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027](http://arxiv.org/abs/2502.21027)|null|
 |**2025-02-28**|**Silicon Micro-Disk Resonator Crossbar Array for High-Speed and High-Density Photonic Convolution Processing**|Long Huang et.al.|[2502.20777](http://arxiv.org/abs/2502.20777)|null|
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
