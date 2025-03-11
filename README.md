@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482](http://arxiv.org/abs/2503.07482)|null|
+|**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475](http://arxiv.org/abs/2503.07475)|null|
+|**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470](http://arxiv.org/abs/2503.07470)|null|
+|**2025-03-10**|**Influence of finite-temperature effects on CMB power spectrum**|I. Y. Park et.al.|[2503.07469](http://arxiv.org/abs/2503.07469)|null|
+|**2025-03-10**|**Magic dynamics in many-body localized systems**|Pedro R. Nicácio Falcão et.al.|[2503.07468](http://arxiv.org/abs/2503.07468)|null|
+|**2025-03-10**|**Learning to Localize Leakage of Cryptographic Sensitive Variables**|Jimmy Gammell et.al.|[2503.07464](http://arxiv.org/abs/2503.07464)|null|
+|**2025-03-10**|**Advancing our Understanding of Optoionic Effects for the Design of Solar Batteries: A Theoretical Perspective**|Matteo Rinaldi et.al.|[2503.07460](http://arxiv.org/abs/2503.07460)|null|
+|**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
+|**2025-03-10**|**Divide and Conquer Self-Supervised Learning for High-Content Imaging**|Lucas Farndale et.al.|[2503.07444](http://arxiv.org/abs/2503.07444)|null|
+|**2025-03-10**|**Volume dependence of microwave induced excess quasiparticles in superconducting resonators**|Steven A. H. de Rooij et.al.|[2503.07443](http://arxiv.org/abs/2503.07443)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696](http://arxiv.org/abs/2503.05696)|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
@@ -854,14 +864,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-05**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Mazouz Alaa Eddine et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
+|**2025-03-09**|**FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining**|Chuang Li et.al.|[2503.06532](http://arxiv.org/abs/2503.06532)|null|
+|**2025-03-09**|**Distributed quantum algorithm for the dihedral hidden subgroup problem**|Pengyu Yang et.al.|[2503.06478](http://arxiv.org/abs/2503.06478)|null|
+|**2025-03-10**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
 |**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
 |**2025-03-04**|**A Distributed Partitioning Software and its Applications**|Aparna Sasidharan et.al.|[2503.02185](http://arxiv.org/abs/2503.02185)|null|
 |**2025-03-03**|**CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design**|Zishen Wan et.al.|[2503.01162](http://arxiv.org/abs/2503.01162)|null|
 |**2025-03-03**|**Efficient multiplexed quantum memory with high dimensional orbital angular momentum states in cold atoms**|Xin Yang et.al.|[2503.01106](http://arxiv.org/abs/2503.01106)|null|
 |**2025-03-02**|**Balanced segmentation of CNNs for multi-TPU inference**|Jorge Villarrubia et.al.|[2503.01035](http://arxiv.org/abs/2503.01035)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
-|**2025-03-04**|**Conformal Lyapunov Optimization: Optimal Resource Allocation under Deterministic Reliability Constraints**|Francesco Binucci et.al.|[2503.00486](http://arxiv.org/abs/2503.00486)|null|
+|**2025-03-10**|**Conformal Lyapunov Optimization: Optimal Resource Allocation under Deterministic Reliability Constraints**|Francesco Binucci et.al.|[2503.00486](http://arxiv.org/abs/2503.00486)|null|
 |**2025-03-01**|**Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization**|Joanna Piper Morgan et.al.|[2503.00264](http://arxiv.org/abs/2503.00264)|null|
 |**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|**[link](https://github.com/dos-group/benchspark)**|
 |**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027](http://arxiv.org/abs/2502.21027)|null|
@@ -1092,6 +1104,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Continuous Online Adaptation Driven by User Interaction for Medical Image Segmentation**|Wentian Xu et.al.|[2503.06717](http://arxiv.org/abs/2503.06717)|null|
+|**2025-03-08**|**Do Fairness Interventions Come at the Cost of Privacy: Evaluations for Binary Classifiers**|Huan Tian et.al.|[2503.06150](http://arxiv.org/abs/2503.06150)|null|
 |**2025-03-06**|**CrowdHMTware: A Cross-level Co-adaptation Middleware for Context-aware Mobile DL Deployment**|Sicong Liu et.al.|[2503.04183](http://arxiv.org/abs/2503.04183)|null|
 |**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
 |**2025-03-06**|**RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models**|Wenhui Zhu et.al.|[2503.03987](http://arxiv.org/abs/2503.03987)|null|
