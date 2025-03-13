@@ -1,4 +1,4 @@
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -884,12 +884,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-11**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
+|**2025-03-12**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
 |**2025-03-10**|**H3PIMAP: A Heterogeneity-Aware Multi-Objective DNN Mapping Framework on Electronic-Photonic Processing-in-Memory Architectures**|Ziang Yin et.al.|[2503.07778](http://arxiv.org/abs/2503.07778)|null|
 |**2025-03-09**|**FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining**|Chuang Li et.al.|[2503.06532](http://arxiv.org/abs/2503.06532)|null|
 |**2025-03-09**|**Distributed quantum algorithm for the dihedral hidden subgroup problem**|Pengyu Yang et.al.|[2503.06478](http://arxiv.org/abs/2503.06478)|null|
 |**2025-03-10**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
-|**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
+|**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|**[link](https://github.com/zju-vipa/odyssey)**|
 |**2025-03-04**|**A Distributed Partitioning Software and its Applications**|Aparna Sasidharan et.al.|[2503.02185](http://arxiv.org/abs/2503.02185)|null|
 |**2025-03-03**|**CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design**|Zishen Wan et.al.|[2503.01162](http://arxiv.org/abs/2503.01162)|null|
 |**2025-03-03**|**Efficient multiplexed quantum memory with high dimensional orbital angular momentum states in cold atoms**|Xin Yang et.al.|[2503.01106](http://arxiv.org/abs/2503.01106)|null|
