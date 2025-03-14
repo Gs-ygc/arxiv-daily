@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
+|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|null|
+|**2025-03-13**|**Charting and Navigating Hugging Face's Model Atlas**|Eliahu Horwitz et.al.|[2503.10633](http://arxiv.org/abs/2503.10633)|null|
+|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/abs/2503.10632)|null|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
+|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622](http://arxiv.org/abs/2503.10622)|null|
+|**2025-03-13**|**Searching for strong lensing by late-type galaxies in UNIONS**|J. A. Acevedo Barroso et.al.|[2503.10610](http://arxiv.org/abs/2503.10610)|null|
+|**2025-03-13**|**Poly-MgNet: Polynomial Building Blocks in Multigrid-Inspired ResNets**|Antonia van Betteray et.al.|[2503.10594](http://arxiv.org/abs/2503.10594)|null|
 |**2025-03-12**|**Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors**|Sikai Huang et.al.|[2503.09592](http://arxiv.org/abs/2503.09592)|null|
 |**2025-03-12**|**Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**|Nannan Wu et.al.|[2503.09587](http://arxiv.org/abs/2503.09587)|null|
 |**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
@@ -898,6 +908,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Hardware-Compatible Single-Shot Feasible-Space Heuristics for Solving the Quadratic Assignment Problem**|Haesol Im et.al.|[2503.09676](http://arxiv.org/abs/2503.09676)|null|
 |**2025-03-12**|**Large-scale Thermo-Mechanical Simulation of Laser Beam Welding Using High-Performance Computing: A Qualitative Reproduction of Experimental Results**|Tommaso Bevilacqua et.al.|[2503.09345](http://arxiv.org/abs/2503.09345)|null|
 |**2025-03-11**|**Survey-Wide Asteroid Discovery with a High-Performance Computing Enabled Non-Linear Digital Tracking Framework**|Nathan Golovich et.al.|[2503.08854](http://arxiv.org/abs/2503.08854)|null|
 |**2025-03-12**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
@@ -1142,6 +1153,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**|Weiyun Wang et.al.|[2503.10291](http://arxiv.org/abs/2503.10291)|null|
+|**2025-03-13**|**An Expanded Massive Multilingual Dataset for High-Performance Language Technologies**|Laurie Burchell et.al.|[2503.10267](http://arxiv.org/abs/2503.10267)|null|
+|**2025-03-12**|**WIggle Corrector Kit for NIRSpEc Data: WICKED**|Antoine Dumont et.al.|[2503.09697](http://arxiv.org/abs/2503.09697)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Qiang Zhang et.al.|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 |**2025-03-11**|**A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects**|Fei Wang et.al.|[2503.08008](http://arxiv.org/abs/2503.08008)|null|
 |**2025-03-09**|**Continuous Online Adaptation Driven by User Interaction for Medical Image Segmentation**|Wentian Xu et.al.|[2503.06717](http://arxiv.org/abs/2503.06717)|null|
