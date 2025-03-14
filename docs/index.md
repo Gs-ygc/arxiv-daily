@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -18,7 +18,7 @@ layout: default
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-12**|**Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$ P Parametrization**|Zixiang Chen et.al.|[2503.09565](http://arxiv.org/abs/2503.09565)|null|
 |**2025-03-12**|**Strategyproof Reinforcement Learning from Human Feedback**|Thomas Kleine Buening et.al.|[2503.09561](http://arxiv.org/abs/2503.09561)|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
+|**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551](http://arxiv.org/abs/2503.09551)|null|
 |**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
 |**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
