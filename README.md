@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
+|**2025-03-14**|**From few to many maps: A fast map-level emulator for extreme augmentation of CMB systematics datasets**|P. Campeti et.al.|[2503.11643](http://arxiv.org/abs/2503.11643)|null|
+|**2025-03-14**|**Enhancing Deep Learning Based Structured Illumination Microscopy Reconstruction with Light Field Awareness**|Long-Kun Shan et.al.|[2503.11640](http://arxiv.org/abs/2503.11640)|null|
+|**2025-03-14**|**Self-Supervised Learning Strategies for Jet Physics**|Patrick Rieck et.al.|[2503.11632](http://arxiv.org/abs/2503.11632)|null|
+|**2025-03-14**|**Bounded Dark Energy**|Giulia Borghetto et.al.|[2503.11628](http://arxiv.org/abs/2503.11628)|null|
+|**2025-03-14**|**Are Deep Speech Denoising Models Robust to Adversarial Noise?**|Will Schwarzer et.al.|[2503.11627](http://arxiv.org/abs/2503.11627)|null|
+|**2025-03-14**|**RNN-DAS: A New Deep Learning Approach for Detection and Real-Time Monitoring of Volcano-Tectonic Events Using Distributed Acoustic Sensing**|Javier Fernandez-Carabantes et.al.|[2503.11622](http://arxiv.org/abs/2503.11622)|null|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
 |**2025-03-14**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
@@ -904,6 +914,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**A Fully Reconfigurable All-Optical Integrated Nonlinear Activator**|Bei Chen et.al.|[2503.11141](http://arxiv.org/abs/2503.11141)|null|
+|**2025-03-13**|**Monte Carlo model of distilled remote entanglement between superconducting qubits across optical channels**|Nicolas Dirnegger et.al.|[2503.10842](http://arxiv.org/abs/2503.10842)|null|
 |**2025-03-12**|**Hardware-Compatible Single-Shot Feasible-Space Heuristics for Solving the Quadratic Assignment Problem**|Haesol Im et.al.|[2503.09676](http://arxiv.org/abs/2503.09676)|null|
 |**2025-03-12**|**Large-scale Thermo-Mechanical Simulation of Laser Beam Welding Using High-Performance Computing: A Qualitative Reproduction of Experimental Results**|Tommaso Bevilacqua et.al.|[2503.09345](http://arxiv.org/abs/2503.09345)|null|
 |**2025-03-11**|**Survey-Wide Asteroid Discovery with a High-Performance Computing Enabled Non-Linear Digital Tracking Framework**|Nathan Golovich et.al.|[2503.08854](http://arxiv.org/abs/2503.08854)|null|
