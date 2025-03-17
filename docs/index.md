@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -11,8 +11,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
-|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|null|
+|**2025-03-14**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**Charting and Navigating Hugging Face's Model Atlas**|Eliahu Horwitz et.al.|[2503.10633](http://arxiv.org/abs/2503.10633)|null|
 |**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/abs/2503.10632)|null|
 |**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
@@ -915,7 +915,7 @@ layout: default
 |**2025-03-10**|**H3PIMAP: A Heterogeneity-Aware Multi-Objective DNN Mapping Framework on Electronic-Photonic Processing-in-Memory Architectures**|Ziang Yin et.al.|[2503.07778](http://arxiv.org/abs/2503.07778)|null|
 |**2025-03-09**|**FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining**|Chuang Li et.al.|[2503.06532](http://arxiv.org/abs/2503.06532)|null|
 |**2025-03-09**|**Distributed quantum algorithm for the dihedral hidden subgroup problem**|Pengyu Yang et.al.|[2503.06478](http://arxiv.org/abs/2503.06478)|null|
-|**2025-03-10**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
+|**2025-03-13**|**Lightweight Embedded FPGA Deployment of Learned Image Compression with Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
 |**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|**[link](https://github.com/zju-vipa/odyssey)**|
 |**2025-03-04**|**A Distributed Partitioning Software and its Applications**|Aparna Sasidharan et.al.|[2503.02185](http://arxiv.org/abs/2503.02185)|null|
 |**2025-03-03**|**CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design**|Zishen Wan et.al.|[2503.01162](http://arxiv.org/abs/2503.01162)|null|
@@ -1154,7 +1154,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**|Weiyun Wang et.al.|[2503.10291](http://arxiv.org/abs/2503.10291)|null|
-|**2025-03-13**|**An Expanded Massive Multilingual Dataset for High-Performance Language Technologies**|Laurie Burchell et.al.|[2503.10267](http://arxiv.org/abs/2503.10267)|null|
+|**2025-03-14**|**An Expanded Massive Multilingual Dataset for High-Performance Language Technologies**|Laurie Burchell et.al.|[2503.10267](http://arxiv.org/abs/2503.10267)|null|
 |**2025-03-12**|**WIggle Corrector Kit for NIRSpEc Data: WICKED**|Antoine Dumont et.al.|[2503.09697](http://arxiv.org/abs/2503.09697)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Qiang Zhang et.al.|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 |**2025-03-11**|**A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects**|Fei Wang et.al.|[2503.08008](http://arxiv.org/abs/2503.08008)|null|
