@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
+|**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438](http://arxiv.org/abs/2503.13438)|null|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
+|**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
+|**2025-03-17**|**Measuring In-Context Computation Complexity via Hidden State Prediction**|Vincent Herrmann et.al.|[2503.13431](http://arxiv.org/abs/2503.13431)|null|
+|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
+|**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429](http://arxiv.org/abs/2503.13429)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**Movement Sequencing: A Novel Approach to Quantifying the Building Blocks of Human Gait**|Alexandra Hammerberg et.al.|[2503.13425](http://arxiv.org/abs/2503.13425)|null|
+|**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423](http://arxiv.org/abs/2503.13423)|null|
 |**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
 |**2025-03-14**|**From few to many maps: A fast map-level emulator for extreme augmentation of CMB systematics datasets**|P. Campeti et.al.|[2503.11643](http://arxiv.org/abs/2503.11643)|null|
@@ -918,6 +928,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**LIMCA: LLM for Automating Analog In-Memory Computing Architecture Design Exploration**|Deepak Vungarala et.al.|[2503.13301](http://arxiv.org/abs/2503.13301)|null|
+|**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
+|**2025-03-17**|**Cancermorphic Computing Toward Multilevel Machine Intelligence**|Rosalia Moreddu et.al.|[2503.12743](http://arxiv.org/abs/2503.12743)|null|
+|**2025-03-17**|**Indium selenides for next-generation low-power computing devices**|Seunguk Song et.al.|[2503.12708](http://arxiv.org/abs/2503.12708)|null|
+|**2025-03-15**|**Quantum physics informed neural networks for multi-variable partial differential equations**|Giorgio Panichi et.al.|[2503.12244](http://arxiv.org/abs/2503.12244)|null|
+|**2025-03-14**|**Implementation of classical client universal blind quantum computation with 8-state RSP in current architecture**|Aman Gupta et.al.|[2503.11913](http://arxiv.org/abs/2503.11913)|null|
+|**2025-03-14**|**A tracking algorithm for finite-size particles**|Aryan Mehboudi et.al.|[2503.11887](http://arxiv.org/abs/2503.11887)|null|
 |**2025-03-14**|**A Fully Reconfigurable All-Optical Integrated Nonlinear Activator**|Bei Chen et.al.|[2503.11141](http://arxiv.org/abs/2503.11141)|null|
 |**2025-03-13**|**Monte Carlo model of distilled remote entanglement between superconducting qubits across optical channels**|Nicolas Dirnegger et.al.|[2503.10842](http://arxiv.org/abs/2503.10842)|null|
 |**2025-03-12**|**Hardware-Compatible Single-Shot Feasible-Space Heuristics for Solving the Quadratic Assignment Problem**|Haesol Im et.al.|[2503.09676](http://arxiv.org/abs/2503.09676)|null|
@@ -1165,6 +1182,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences**|Kedi Chen et.al.|[2503.13109](http://arxiv.org/abs/2503.13109)|null|
+|**2025-03-17**|**Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization**|Ruichuan An et.al.|[2503.12999](http://arxiv.org/abs/2503.12999)|null|
+|**2025-03-16**|**Automated Planning for Optimal Data Pipeline Instantiation**|Leonardo Rosa Amado et.al.|[2503.12626](http://arxiv.org/abs/2503.12626)|null|
+|**2025-03-15**|**Research on Large Language Model Cross-Cloud Privacy Protection and Collaborative Training based on Federated Learning**|Ze Yang et.al.|[2503.12226](http://arxiv.org/abs/2503.12226)|null|
+|**2025-03-15**|**ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object**|Zhe Shan et.al.|[2503.12006](http://arxiv.org/abs/2503.12006)|null|
+|**2025-03-15**|**MoDM: Efficient Serving for Image Generation via Mixture-of-Diffusion Models**|Yuchen Xia et.al.|[2503.11972](http://arxiv.org/abs/2503.11972)|null|
+|**2025-03-14**|**Performance Analysis of Decentralized Federated Learning Deployments**|Chengyan Jiang et.al.|[2503.11828](http://arxiv.org/abs/2503.11828)|null|
 |**2025-03-13**|**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**|Weiyun Wang et.al.|[2503.10291](http://arxiv.org/abs/2503.10291)|null|
 |**2025-03-14**|**An Expanded Massive Multilingual Dataset for High-Performance Language Technologies**|Laurie Burchell et.al.|[2503.10267](http://arxiv.org/abs/2503.10267)|null|
 |**2025-03-12**|**WIggle Corrector Kit for NIRSpEc Data: WICKED**|Antoine Dumont et.al.|[2503.09697](http://arxiv.org/abs/2503.09697)|null|
