@@ -1,4 +1,4 @@
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -13,7 +13,7 @@
 |**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477](http://arxiv.org/abs/2503.15477)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
