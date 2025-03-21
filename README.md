@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429](http://arxiv.org/abs/2503.16429)|null|
+|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
+|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
+|**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|null|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
+|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
+|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
+|**2025-03-20**|**Deep Feynman-Kac Methods for High-dimensional Semilinear Parabolic Equations: Revisit**|Xiaotao Zheng et.al.|[2503.16407](http://arxiv.org/abs/2503.16407)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
 |**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484](http://arxiv.org/abs/2503.15484)|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
@@ -944,6 +954,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
 |**2025-03-19**|**Two-qubit logic and teleportation with mobile spin qubits in silicon**|Yuta Matsumoto et.al.|[2503.15434](http://arxiv.org/abs/2503.15434)|null|
 |**2025-03-19**|**Genomic data processing with GenomeFlow**|Junseok Park et.al.|[2503.15377](http://arxiv.org/abs/2503.15377)|null|
 |**2025-03-18**|**Toward Large-Scale Distributed Quantum Long Short-Term Memory with Modular Quantum Computers**|Kuan-Cheng Chen et.al.|[2503.14088](http://arxiv.org/abs/2503.14088)|null|
@@ -1204,6 +1215,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Efficient Data Ingestion in Cloud-based architecture: a Data Engineering Design Pattern Proposal**|Chiara Rucco et.al.|[2503.16079](http://arxiv.org/abs/2503.16079)|null|
+|**2025-03-20**|**Digital Asset Data Lakehouse. The concept based on a blockchain research center**|Raul Cristian Bag et.al.|[2503.15968](http://arxiv.org/abs/2503.15968)|null|
+|**2025-03-19**|**Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers**|Jasper Stone et.al.|[2503.15577](http://arxiv.org/abs/2503.15577)|null|
 |**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-17**|**Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences**|Kedi Chen et.al.|[2503.13109](http://arxiv.org/abs/2503.13109)|null|
 |**2025-03-17**|**Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization**|Ruichuan An et.al.|[2503.12999](http://arxiv.org/abs/2503.12999)|null|
