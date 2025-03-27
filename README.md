@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -988,7 +988,7 @@
 |**2025-03-24**|**EVOLVE: a Value-Added Services Platform for Electric Vehicle Charging Stations**|Erick Silva et.al.|[2503.18687](http://arxiv.org/abs/2503.18687)|null|
 |**2025-03-24**|**Hardware-Software Co-design for Distributed Quantum Computing**|Ji Liu et.al.|[2503.18329](http://arxiv.org/abs/2503.18329)|null|
 |**2025-03-23**|**INDIGO: Page Migration for Hardware Memory Disaggregation Across a Network**|Archit Patke et.al.|[2503.18140](http://arxiv.org/abs/2503.18140)|null|
-|**2025-03-22**|**Architectural and System Implications of CXL-enabled Tiered Memory**|Yujie Yang et.al.|[2503.17864](http://arxiv.org/abs/2503.17864)|null|
+|**2025-03-26**|**Architectural and System Implications of CXL-enabled Tiered Memory**|Yujie Yang et.al.|[2503.17864](http://arxiv.org/abs/2503.17864)|null|
 |**2025-03-22**|**Revisiting Page Migration for Main-Memory Database Systems**|Yeasir Rayhan et.al.|[2503.17685](http://arxiv.org/abs/2503.17685)|null|
 |**2025-03-21**|**Limitations in Parallel Ising Machine Networks: Theory and Practice**|Matthew X. Burns et.al.|[2503.17548](http://arxiv.org/abs/2503.17548)|null|
 |**2025-03-21**|**Shear-based Grasp Control for Multi-fingered Underactuated Tactile Robotic Hands**|Christopher J. Ford et.al.|[2503.17501](http://arxiv.org/abs/2503.17501)|null|
