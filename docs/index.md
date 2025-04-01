@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1297,7 +1297,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
 |**2025-03-27**|**CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition**|Hanyu Liu et.al.|[2503.21843](http://arxiv.org/abs/2503.21843)|null|
-|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-20**|**Efficient Data Ingestion in Cloud-based architecture: a Data Engineering Design Pattern Proposal**|Chiara Rucco et.al.|[2503.16079](http://arxiv.org/abs/2503.16079)|null|
 |**2025-03-20**|**Digital Asset Data Lakehouse. The concept based on a blockchain research center**|Raul Cristian Bag et.al.|[2503.15968](http://arxiv.org/abs/2503.15968)|null|
 |**2025-03-19**|**Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers**|Jasper Stone et.al.|[2503.15577](http://arxiv.org/abs/2503.15577)|null|
