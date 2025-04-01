@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
+|**2025-03-31**|**The fundamental localization phases in quasiperiodic systems: A unified framework and exact results**|Xin-Chi Zhou et.al.|[2503.24380](http://arxiv.org/abs/2503.24380)|null|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367](http://arxiv.org/abs/2503.24367)|null|
+|**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365](http://arxiv.org/abs/2503.24365)|null|
+|**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363](http://arxiv.org/abs/2503.24363)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
 |**2025-03-28**|**Verifying Nonlinear Neural Feedback Systems using Polyhedral Enclosures**|Samuel I. Akinwande et.al.|[2503.22660](http://arxiv.org/abs/2503.22660)|null|
@@ -1014,6 +1024,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Distributed AC Optimal Power Flow: A Scalable Solution for Large-Scale Problems**|Xinliang Dai et.al.|[2503.24086](http://arxiv.org/abs/2503.24086)|null|
+|**2025-03-31**|**Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization**|Debin Xiang et.al.|[2503.23941](http://arxiv.org/abs/2503.23941)|**[link](https://github.com/JanusQ/Choco-Q)**|
+|**2025-03-31**|**Towards a cognitive architecture to enable natural language interaction in co-constructive task learning**|Manuel Scheibl et.al.|[2503.23760](http://arxiv.org/abs/2503.23760)|null|
+|**2025-03-31**|**Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds**|Said Ohamouddoua et.al.|[2503.23647](http://arxiv.org/abs/2503.23647)|**[link](https://github.com/said-ohamouddou/stft-kan-litedgcnn)**|
+|**2025-03-30**|**Autonomous Learning with High-Dimensional Computing Architecture Similar to von Neumann's**|Pentti Kanerva et.al.|[2503.23608](http://arxiv.org/abs/2503.23608)|null|
 |**2025-03-28**|**Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code**|Shival Dasu et.al.|[2503.22107](http://arxiv.org/abs/2503.22107)|null|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
 |**2025-03-27**|**PilotANN: Memory-Bounded GPU Acceleration for Vector Search**|Yuntao Gui et.al.|[2503.21206](http://arxiv.org/abs/2503.21206)|**[link](https://github.com/ytgui/pilotann)**|
@@ -1291,6 +1306,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**Deep Learning Model Deployment in Multiple Cloud Providers: an Exploratory Study Using Low Computing Power Environments**|Elayne Lemos et.al.|[2503.23988](http://arxiv.org/abs/2503.23988)|null|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
 |**2025-03-27**|**CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition**|Hanyu Liu et.al.|[2503.21843](http://arxiv.org/abs/2503.21843)|null|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
