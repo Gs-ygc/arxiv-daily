@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1031,7 +1031,7 @@ layout: default
 |**2025-03-31**|**Distributed AC Optimal Power Flow: A Scalable Solution for Large-Scale Problems**|Xinliang Dai et.al.|[2503.24086](http://arxiv.org/abs/2503.24086)|null|
 |**2025-03-31**|**Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization**|Debin Xiang et.al.|[2503.23941](http://arxiv.org/abs/2503.23941)|**[link](https://github.com/JanusQ/Choco-Q)**|
 |**2025-03-31**|**Towards a cognitive architecture to enable natural language interaction in co-constructive task learning**|Manuel Scheibl et.al.|[2503.23760](http://arxiv.org/abs/2503.23760)|null|
-|**2025-03-31**|**Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds**|Said Ohamouddoua et.al.|[2503.23647](http://arxiv.org/abs/2503.23647)|**[link](https://github.com/said-ohamouddou/stft-kan-litedgcnn)**|
+|**2025-04-01**|**Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds**|Said Ohamouddou et.al.|[2503.23647](http://arxiv.org/abs/2503.23647)|**[link](https://github.com/said-ohamouddou/stft-kan-litedgcnn)**|
 |**2025-03-30**|**Autonomous Learning with High-Dimensional Computing Architecture Similar to von Neumann's**|Pentti Kanerva et.al.|[2503.23608](http://arxiv.org/abs/2503.23608)|null|
 |**2025-03-28**|**Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code**|Shival Dasu et.al.|[2503.22107](http://arxiv.org/abs/2503.22107)|null|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
