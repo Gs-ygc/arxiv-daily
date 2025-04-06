@@ -1048,7 +1048,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|null|
+|**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|**[link](https://github.com/cmu-safari/pimdal)**|
 |**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936](http://arxiv.org/abs/2504.01936)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
 |**2025-04-01**|**Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias**|Kartick Ramakrishnan et.al.|[2504.00998](http://arxiv.org/abs/2504.00998)|null|
