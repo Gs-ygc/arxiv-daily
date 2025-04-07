@@ -1,4 +1,4 @@
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1051,7 +1051,7 @@
 |**2025-04-01**|**Contextualized Autonomous Drone Navigation using LLMs Deployed in Edge-Cloud Computing**|Hongqian Chen et.al.|[2504.00607](http://arxiv.org/abs/2504.00607)|null|
 |**2025-04-01**|**AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems**|Yingxuan Yang et.al.|[2504.00587](http://arxiv.org/abs/2504.00587)|null|
 |**2025-04-01**|**Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression**|Yueru Chen et.al.|[2504.00481](http://arxiv.org/abs/2504.00481)|null|
-|**2025-03-31**|**Distributed AC Optimal Power Flow: A Scalable Solution for Large-Scale Problems**|Xinliang Dai et.al.|[2503.24086](http://arxiv.org/abs/2503.24086)|null|
+|**2025-04-04**|**Distributed AC Optimal Power Flow: A Scalable Solution for Large-Scale Problems**|Xinliang Dai et.al.|[2503.24086](http://arxiv.org/abs/2503.24086)|null|
 |**2025-03-31**|**Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization**|Debin Xiang et.al.|[2503.23941](http://arxiv.org/abs/2503.23941)|**[link](https://github.com/JanusQ/Choco-Q)**|
 |**2025-03-31**|**Towards a cognitive architecture to enable natural language interaction in co-constructive task learning**|Manuel Scheibl et.al.|[2503.23760](http://arxiv.org/abs/2503.23760)|null|
 |**2025-04-01**|**Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds**|Said Ohamouddou et.al.|[2503.23647](http://arxiv.org/abs/2503.23647)|**[link](https://github.com/said-ohamouddou/stft-kan-litedgcnn)**|
