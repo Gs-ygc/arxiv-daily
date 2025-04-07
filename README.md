@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Towards data analysis with diagrammatics**|Tobias Kühn et.al.|[2504.03631](http://arxiv.org/abs/2504.03631)|null|
+|**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
+|**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
+|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**Trading off Relevance and Revenue in the Jobs Marketplace: Estimation, Optimization and Auction Design**|Farzad Pourbabaee et.al.|[2504.03618](http://arxiv.org/abs/2504.03618)|null|
+|**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610](http://arxiv.org/abs/2504.03610)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**Towards deployment-centric multimodal AI beyond vision and language**|Xianyuan Liu et.al.|[2504.03603](http://arxiv.org/abs/2504.03603)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
 |**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827](http://arxiv.org/abs/2504.02827)|null|
 |**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822](http://arxiv.org/abs/2504.02822)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
@@ -1044,6 +1054,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Performance Analysis of HPC applications on the Aurora Supercomputer: Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs**|Huda Ibeid et.al.|[2504.03632](http://arxiv.org/abs/2504.03632)|null|
 |**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|**[link](https://github.com/cmu-safari/pimdal)**|
 |**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936](http://arxiv.org/abs/2504.01936)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
@@ -1333,6 +1344,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Operator Learning: A Statistical Perspective**|Unique Subedi et.al.|[2504.03503](http://arxiv.org/abs/2504.03503)|null|
 |**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781](http://arxiv.org/abs/2504.02781)|null|
 |**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436](http://arxiv.org/abs/2504.02436)|null|
 |**2025-04-02**|**The Mini-SiTian Array: first-two-year operation**|Min He et.al.|[2504.01612](http://arxiv.org/abs/2504.01612)|null|
