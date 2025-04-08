@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
+|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
+|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295](http://arxiv.org/abs/2504.05295)|null|
+|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291](http://arxiv.org/abs/2504.05291)|null|
+|**2025-04-07**|**Estimation of Heat Transfer Coefficient in Heat Exchangers from closed-loop data using Neural Networks**|Ramachandran Anantharaman et.al.|[2504.05282](http://arxiv.org/abs/2504.05282)|null|
+|**2025-04-07**|**Covariant Gradient Descent**|Dmitry Guskov et.al.|[2504.05279](http://arxiv.org/abs/2504.05279)|null|
+|**2025-04-07**|**Aggregating time-series and image data: functors and double functors**|Joscha Diehl et.al.|[2504.05274](http://arxiv.org/abs/2504.05274)|null|
+|**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
 |**2025-04-04**|**Towards data analysis with diagrammatics**|Tobias Kühn et.al.|[2504.03631](http://arxiv.org/abs/2504.03631)|null|
 |**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
 |**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
@@ -1054,6 +1064,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**FERIVer: An FPGA-assisted Emulated Framework for RTL Verification of RISC-V Processors**|Kun Qin et.al.|[2504.05284](http://arxiv.org/abs/2504.05284)|null|
+|**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
 |**2025-04-04**|**Performance Analysis of HPC applications on the Aurora Supercomputer: Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs**|Huda Ibeid et.al.|[2504.03632](http://arxiv.org/abs/2504.03632)|null|
 |**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|**[link](https://github.com/cmu-safari/pimdal)**|
 |**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936](http://arxiv.org/abs/2504.01936)|null|
@@ -1344,6 +1356,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Entropy-Based Block Pruning for Efficient Large Language Models**|Liangwei Yang et.al.|[2504.03794](http://arxiv.org/abs/2504.03794)|null|
 |**2025-04-04**|**Operator Learning: A Statistical Perspective**|Unique Subedi et.al.|[2504.03503](http://arxiv.org/abs/2504.03503)|null|
 |**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781](http://arxiv.org/abs/2504.02781)|null|
 |**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436](http://arxiv.org/abs/2504.02436)|null|
