@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1120,8 +1120,8 @@
 |**2025-04-12**|**Parallel Seismic Data Processing Performance with Cloud-based Storage**|Sasmita Mohapatra et.al.|[2504.09075](http://arxiv.org/abs/2504.09075)|null|
 |**2025-04-11**|**Network Requirements for Distributed Quantum Computation**|Hugo Jacinto et.al.|[2504.08891](http://arxiv.org/abs/2504.08891)|null|
 |**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|null|
-|**2025-04-11**|**Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing**|Tobias Pfandzelter et.al.|[2504.08337](http://arxiv.org/abs/2504.08337)|null|
-|**2025-04-10**|**Computing gradient vector fields with Morse sequences**|Gilles Bertrand et.al.|[2504.07526](http://arxiv.org/abs/2504.07526)|null|
+|**2025-04-11**|**Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing**|Tobias Pfandzelter et.al.|[2504.08337](http://arxiv.org/abs/2504.08337)|**[link](https://github.com/project-spencer/trabant)**|
+|**2025-04-10**|**Computing gradient vector fields with Morse sequences**|Gilles Bertrand et.al.|[2504.07526](http://arxiv.org/abs/2504.07526)|**[link](https://github.com/lnajman/MorseSequences)**|
 |**2025-04-09**|**Characterising the failure mechanisms of error-corrected quantum logic gates**|Robin Harper et.al.|[2504.07258](http://arxiv.org/abs/2504.07258)|null|
 |**2025-04-09**|**Introducing the Arm-membench Throughput Benchmark**|Cyrill Burth et.al.|[2504.06813](http://arxiv.org/abs/2504.06813)|null|
 |**2025-04-09**|**Beyond Moore's Law: Harnessing the Redshift of Generative AI with Effective Hardware-Software Co-Design**|Amir Yazdanbakhsh et.al.|[2504.06531](http://arxiv.org/abs/2504.06531)|null|
@@ -1422,8 +1422,8 @@
 |**2025-04-14**|**Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables**|Daniel Sotolongo et.al.|[2504.10438](http://arxiv.org/abs/2504.10438)|null|
 |**2025-04-14**|**RealHarm: A Collection of Real-World Language Model Application Failures**|Pierre Le Jeune et.al.|[2504.10277](http://arxiv.org/abs/2504.10277)|null|
 |**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|null|
-|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|null|
-|**2025-04-10**|**The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models**|Michael J Bommarito II et.al.|[2504.07854](http://arxiv.org/abs/2504.07854)|null|
+|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
+|**2025-04-10**|**The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models**|Michael J Bommarito II et.al.|[2504.07854](http://arxiv.org/abs/2504.07854)|**[link](https://github.com/alea-institute/kl3m-data)**|
 |**2025-04-08**|**Zerrow: True Zero-Copy Arrow Pipelines in Bauplan**|Yifan Dai et.al.|[2504.06151](http://arxiv.org/abs/2504.06151)|null|
 |**2025-04-04**|**Entropy-Based Block Pruning for Efficient Large Language Models**|Liangwei Yang et.al.|[2504.03794](http://arxiv.org/abs/2504.03794)|null|
 |**2025-04-04**|**Operator Learning: A Statistical Perspective**|Unique Subedi et.al.|[2504.03503](http://arxiv.org/abs/2504.03503)|null|
