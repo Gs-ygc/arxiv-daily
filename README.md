@@ -1,4 +1,4 @@
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -6,7 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
+|**2025-04-16**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
 |**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453](http://arxiv.org/abs/2504.11453)|null|
 |**2025-04-15**|**Early Impacts of M365 Copilot**|Eleanor Wiske Dillon et.al.|[2504.11443](http://arxiv.org/abs/2504.11443)|null|
 |**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
