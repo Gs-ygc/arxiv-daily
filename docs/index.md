@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1144,7 +1144,7 @@ layout: default
 |**2025-04-12**|**Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs (Technical Report)**|Jiaxin Jiang et.al.|[2504.09311](http://arxiv.org/abs/2504.09311)|null|
 |**2025-04-12**|**Parallel Seismic Data Processing Performance with Cloud-based Storage**|Sasmita Mohapatra et.al.|[2504.09075](http://arxiv.org/abs/2504.09075)|null|
 |**2025-04-11**|**Network Requirements for Distributed Quantum Computation**|Hugo Jacinto et.al.|[2504.08891](http://arxiv.org/abs/2504.08891)|null|
-|**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|null|
+|**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|**[link](https://github.com/comet-cc/cca-evaluation)**|
 |**2025-04-11**|**Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing**|Tobias Pfandzelter et.al.|[2504.08337](http://arxiv.org/abs/2504.08337)|**[link](https://github.com/project-spencer/trabant)**|
 |**2025-04-10**|**Computing gradient vector fields with Morse sequences**|Gilles Bertrand et.al.|[2504.07526](http://arxiv.org/abs/2504.07526)|**[link](https://github.com/lnajman/MorseSequences)**|
 |**2025-04-09**|**Characterising the failure mechanisms of error-corrected quantum logic gates**|Robin Harper et.al.|[2504.07258](http://arxiv.org/abs/2504.07258)|null|
@@ -1450,7 +1450,7 @@ layout: default
 |**2025-04-14**|**Smooth sailing or ragged climb? -- Increasing the robustness of power spectrum de-wiggling and ShapeFit parameter compression**|Katayoon Ghaemi et.al.|[2504.10578](http://arxiv.org/abs/2504.10578)|null|
 |**2025-04-14**|**Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables**|Daniel Sotolongo et.al.|[2504.10438](http://arxiv.org/abs/2504.10438)|null|
 |**2025-04-14**|**RealHarm: A Collection of Real-World Language Model Application Failures**|Pierre Le Jeune et.al.|[2504.10277](http://arxiv.org/abs/2504.10277)|null|
-|**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|null|
+|**2025-04-11**|**An Early Experience with Confidential Computing Architecture for On-Device Model Protection**|Sina Abdollahi et.al.|[2504.08508](http://arxiv.org/abs/2504.08508)|**[link](https://github.com/comet-cc/cca-evaluation)**|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
 |**2025-04-10**|**The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models**|Michael J Bommarito II et.al.|[2504.07854](http://arxiv.org/abs/2504.07854)|**[link](https://github.com/alea-institute/kl3m-data)**|
 |**2025-04-08**|**Zerrow: True Zero-Copy Arrow Pipelines in Bauplan**|Yifan Dai et.al.|[2504.06151](http://arxiv.org/abs/2504.06151)|null|
