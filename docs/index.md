@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1178,7 +1178,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965](http://arxiv.org/abs/2504.15965)|null|
+|**2025-04-23**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965](http://arxiv.org/abs/2504.15965)|null|
 |**2025-04-22**|**Non-demolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering**|Shu Watanabe et.al.|[2504.15901](http://arxiv.org/abs/2504.15901)|null|
 |**2025-04-15**|**High-Efficiency Split Computing for Cooperative Edge Systems: A Novel Compressed Sensing Bottleneck**|Hailin Zhong et.al.|[2504.15295](http://arxiv.org/abs/2504.15295)|null|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
