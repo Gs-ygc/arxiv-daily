@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Emergent fractals in dirty topological crystals**|Daniel J. Salib et.al.|[2504.17786](http://arxiv.org/abs/2504.17786)|null|
+|**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782](http://arxiv.org/abs/2504.17782)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752](http://arxiv.org/abs/2504.17752)|null|
+|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
+|**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749](http://arxiv.org/abs/2504.17749)|null|
+|**2025-04-24**|**Embedding Empirical Distributions for Computing Optimal Transport Maps**|Mingchen Jiang et.al.|[2504.17740](http://arxiv.org/abs/2504.17740)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
 |**2025-04-23**|**I-Con: A Unifying Framework for Representation Learning**|Shaden Alshammari et.al.|[2504.16929](http://arxiv.org/abs/2504.16929)|null|
 |**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924](http://arxiv.org/abs/2504.16924)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
@@ -1188,6 +1198,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752](http://arxiv.org/abs/2504.17752)|null|
 |**2025-04-23**|**HEMA : A Hippocampus-Inspired Extended Memory Architecture for Long-Context AI Conversations**|Kwangseob Ahn et.al.|[2504.16754](http://arxiv.org/abs/2504.16754)|null|
 |**2025-04-23**|**Cognitive Silicon: An Architectural Blueprint for Post-Industrial Computing Systems**|Christoforus Yoga Haryanto et.al.|[2504.16622](http://arxiv.org/abs/2504.16622)|null|
 |**2025-04-23**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965](http://arxiv.org/abs/2504.15965)|null|
@@ -1503,6 +1514,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
 |**2025-04-23**|**MLOps Monitoring at Scale for Digital Platforms**|Yu Jeffrey Hu et.al.|[2504.16789](http://arxiv.org/abs/2504.16789)|null|
 |**2025-04-22**|**Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis**|Xiao Zhang et.al.|[2504.16214](http://arxiv.org/abs/2504.16214)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
