@@ -53,10 +53,10 @@
 |**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Zhengtong Xu et.al.|[2504.13807](http://arxiv.org/abs/2504.13807)|null|
 |**2025-04-18**|**Near-optimal algorithms for private estimation and sequential testing of collision probability**|Robert Busa-Fekete et.al.|[2504.13804](http://arxiv.org/abs/2504.13804)|null|
 |**2025-04-18**|**Transformer Encoder and Multi-features Time2Vec for Financial Prediction**|Nguyen Kim Hai Bui et.al.|[2504.13801](http://arxiv.org/abs/2504.13801)|null|
-|**2025-04-18**|**Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction**|Yu Wang et.al.|[2504.13797](http://arxiv.org/abs/2504.13797)|null|
+|**2025-04-18**|**Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction**|Yu Wang et.al.|[2504.13797](http://arxiv.org/abs/2504.13797)|**[link](https://github.com/Sephiroth66616/MKDPINN)**|
 |**2025-04-18**|**The Binary and Ternary Quantization Can Improve Feature Discrimination**|Weizhi Lu et.al.|[2504.13792](http://arxiv.org/abs/2504.13792)|null|
 |**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|**[link](https://github.com/facebookresearch/perception_models)**|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
@@ -100,7 +100,7 @@
 |**2025-04-11**|**Dimension reduction for derivative-informed operator learning: An analysis of approximation errors**|Dingcheng Luo et.al.|[2504.08730](http://arxiv.org/abs/2504.08730)|null|
 |**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729](http://arxiv.org/abs/2504.08729)|null|
 |**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
-|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|**[link](https://github.com/facebookresearch/docagent)**|
 |**2025-04-11**|**Surrogate-based optimization of system architectures subject to hidden constraints**|Jasper Bussemaker et.al.|[2504.08721](http://arxiv.org/abs/2504.08721)|**[link](https://github.com/jbussemaker/architectureoptimizationexperiments)**|
 |**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
 |**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|**[link](https://github.com/bbj-lab/protoecgnet)**|
@@ -117,7 +117,7 @@
 |**2025-04-10**|**Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**|Wen Ge et.al.|[2504.07916](http://arxiv.org/abs/2504.07916)|**[link](https://github.com/gmouyes/seal)**|
 |**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
 |**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
-|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|null|
+|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|**[link](https://github.com/OamIcs/MoSim)**|
 |**2025-04-09**|**Are We Done with Object-Centric Learning?**|Alexander Rubinstein et.al.|[2504.07092](http://arxiv.org/abs/2504.07092)|**[link](https://github.com/alexanderrubinstein/occam)**|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091](http://arxiv.org/abs/2504.07091)|**[link](https://github.com/cassidylaidlaw/minecraft-building-assistance-game)**|
 |**2025-04-09**|**A Differentiable, End-to-End Forward Model for 21 cm Cosmology: Estimating the Foreground, Instrument, and Signal Joint Posterior**|Nicholas Kern et.al.|[2504.07090](http://arxiv.org/abs/2504.07090)|**[link](https://github.com/BayesLIM/BayesLIM)**|
@@ -376,7 +376,7 @@
 |**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
 |**2025-03-05**|**Graph-Augmented LSTM for Forecasting Sparse Anomalies in Graph-Structured Time Series**|Sneh Pillai et.al.|[2503.03729](http://arxiv.org/abs/2503.03729)|null|
 |**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724](http://arxiv.org/abs/2503.03724)|null|
-|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
+|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|**[link](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)**|
 |**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880](http://arxiv.org/abs/2503.02880)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|**[link](https://github.com/hsm316/llm_wikipedia)**|
 |**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|**[link](https://github.com/ethanm88/self-taught-lookahead)**|
