@@ -1,4 +1,4 @@
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1510,7 +1510,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-24**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
+|**2025-04-25**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
 |**2025-04-23**|**MLOps Monitoring at Scale for Digital Platforms**|Yu Jeffrey Hu et.al.|[2504.16789](http://arxiv.org/abs/2504.16789)|null|
 |**2025-04-22**|**Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis**|Xiao Zhang et.al.|[2504.16214](http://arxiv.org/abs/2504.16214)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
