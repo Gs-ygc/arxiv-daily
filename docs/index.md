@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**GDP-GFCF Dynamics Across Global Economies: A Comparative Study of Panel Regressions and Random Forest**|Alina Landowska et.al.|[2504.20993](http://arxiv.org/abs/2504.20993)|null|
+|**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
+|**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988](http://arxiv.org/abs/2504.20988)|null|
+|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
+|**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
+|**2025-04-29**|**Equivariant non-linear maps for neural networks on homogeneous spaces**|Elias Nyholm et.al.|[2504.20974](http://arxiv.org/abs/2504.20974)|null|
+|**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970](http://arxiv.org/abs/2504.20970)|null|
+|**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
+|**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966](http://arxiv.org/abs/2504.20966)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
@@ -1218,9 +1228,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|
+|**2025-04-29**|**A foundry-fabricated spin qubit unit cell with in-situ dispersive readout**|Pierre Hamonic et.al.|[2504.20572](http://arxiv.org/abs/2504.20572)|null|
+|**2025-04-29**|**Photonic logic tensor computing beyond TOPS per core**|Wenkai Zhang et.al.|[2504.20331](http://arxiv.org/abs/2504.20331)|null|
+|**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984](http://arxiv.org/abs/2504.19984)|null|
 |**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|null|
-|**2025-04-26**|**Electron Wave-Spin Qubit**|Ju Gao et.al.|[2504.18824](http://arxiv.org/abs/2504.18824)|null|
+|**2025-04-29**|**Electron Wave-Spin Qubit**|Ju Gao et.al.|[2504.18824](http://arxiv.org/abs/2504.18824)|null|
 |**2025-04-25**|**Classical Interfaces for Controlling Cryogenic Quantum Computing Technologies**|Jack C. Brennan et.al.|[2504.18527](http://arxiv.org/abs/2504.18527)|null|
 |**2025-04-25**|**Efficiency, Expressivity, and Extensibility in a Close-to-Metal NPU Programming Interface**|Erika Hunhoff et.al.|[2504.18430](http://arxiv.org/abs/2504.18430)|null|
 |**2025-04-25**|**Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU**|Takumi Nakao et.al.|[2504.18056](http://arxiv.org/abs/2504.18056)|null|
@@ -1540,6 +1554,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
+|**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
+|**2025-04-28**|**The Dark Side of Digital Twins: Adversarial Attacks on AI-Driven Water Forecasting**|Mohammadhossein Homaei et.al.|[2504.20295](http://arxiv.org/abs/2504.20295)|null|
+|**2025-04-28**|**Performance Smells in ML and Non-ML Python Projects: A Comparative Study**|François Belias et.al.|[2504.20224](http://arxiv.org/abs/2504.20224)|null|
+|**2025-04-28**|**Enhancing Cell Counting through MLOps: A Structured Approach for Automated Cell Analysis**|Matteo Testi et.al.|[2504.20126](http://arxiv.org/abs/2504.20126)|null|
 |**2025-04-28**|**LODAP: On-Device Incremental Learning Via Lightweight Operations and Data Pruning**|Biqing Duan et.al.|[2504.19638](http://arxiv.org/abs/2504.19638)|null|
 |**2025-04-27**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142](http://arxiv.org/abs/2504.19142)|null|
 |**2025-04-26**|**Building Scalable AI-Powered Applications with Cloud Databases: Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793](http://arxiv.org/abs/2504.18793)|null|
