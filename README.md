@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844](http://arxiv.org/abs/2504.21844)|null|
+|**2025-04-30**|**Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic**|Mikihisa Yuasa et.al.|[2504.21841](http://arxiv.org/abs/2504.21841)|null|
+|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
+|**2025-04-30**|**A simple and effective approach for body part recognition on CT scans based on projection estimation**|Franko Hrzic et.al.|[2504.21810](http://arxiv.org/abs/2504.21810)|null|
+|**2025-04-30**|**Stable Trajectory Clustering: An Efficient Split and Merge Algorithm**|Atieh Rahmani et.al.|[2504.21808](http://arxiv.org/abs/2504.21808)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**Balancing Interpretability and Flexibility in Modeling Diagnostic Trajectories with an Embedded Neural Hawkes Process Model**|Yuankang Zhao et.al.|[2504.21795](http://arxiv.org/abs/2504.21795)|null|
+|**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789](http://arxiv.org/abs/2504.21789)|null|
+|**2025-04-30**|**Estimation of discrete distributions in relative entropy, and the deviations of the missing mass**|Jaouad Mourtada et.al.|[2504.21787](http://arxiv.org/abs/2504.21787)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**GDP-GFCF Dynamics Across Global Economies: A Comparative Study of Panel Regressions and Random Forest**|Alina Landowska et.al.|[2504.20993](http://arxiv.org/abs/2504.20993)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
@@ -1224,6 +1234,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**A Path to Quantum Simulations of Topological Phases: (2+1)D Wilson Fermions Coupled To U(1) Background Gauge Fields**|Sriram Bharadwaj et.al.|[2504.21828](http://arxiv.org/abs/2504.21828)|null|
+|**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
+|**2025-04-30**|**Memorization and Knowledge Injection in Gated LLMs**|Xu Pan et.al.|[2504.21239](http://arxiv.org/abs/2504.21239)|null|
 |**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|
 |**2025-04-29**|**A foundry-fabricated spin qubit unit cell with in-situ dispersive readout**|Pierre Hamonic et.al.|[2504.20572](http://arxiv.org/abs/2504.20572)|null|
 |**2025-04-29**|**Photonic logic tensor computing beyond TOPS per core**|Wenkai Zhang et.al.|[2504.20331](http://arxiv.org/abs/2504.20331)|null|
@@ -1550,6 +1563,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Mcity Data Engine: Iterative Model Improvement Through Open-Vocabulary Data Selection**|Daniel Bogdoll et.al.|[2504.21614](http://arxiv.org/abs/2504.21614)|null|
+|**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
 |**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
 |**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
 |**2025-04-28**|**The Dark Side of Digital Twins: Adversarial Attacks on AI-Driven Water Forecasting**|Mohammadhossein Homaei et.al.|[2504.20295](http://arxiv.org/abs/2504.20295)|null|
