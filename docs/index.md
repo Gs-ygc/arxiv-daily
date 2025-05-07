@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724](http://arxiv.org/abs/2505.03724)|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
+|**2025-05-06**|**Nonnegative Low-rank Matrix Recovery Can Have Spurious Local Minima**|Richard Y. Zhang et.al.|[2505.03717](http://arxiv.org/abs/2505.03717)|null|
+|**2025-05-06**|**Incremental universality of Wigner random matrices**|Giovanni M. Cicuta et.al.|[2505.03714](http://arxiv.org/abs/2505.03714)|null|
+|**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712](http://arxiv.org/abs/2505.03712)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710](http://arxiv.org/abs/2505.03710)|null|
+|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-06**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825](http://arxiv.org/abs/2505.02825)|null|
 |**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/abs/2505.02820)|null|
@@ -1268,6 +1278,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**GPU Implementation of the Wavelet Tree**|Marco Franzreb et.al.|[2505.03372](http://arxiv.org/abs/2505.03372)|null|
+|**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
+|**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
+|**2025-05-05**|**Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions**|Imane Cheikh et.al.|[2505.03036](http://arxiv.org/abs/2505.03036)|null|
 |**2025-05-04**|**Quantum-Enhanced Classification of Brain Tumors Using DNA Microarray Gene Expression Profiles**|Emine Akpinar et.al.|[2505.02033](http://arxiv.org/abs/2505.02033)|null|
 |**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735](http://arxiv.org/abs/2505.01735)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
@@ -1601,6 +1615,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**|Xinyuan Yan et.al.|[2505.03132](http://arxiv.org/abs/2505.03132)|null|
 |**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821](http://arxiv.org/abs/2505.01821)|null|
 |**2025-05-06**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420](http://arxiv.org/abs/2505.01420)|null|
 |**2025-04-30**|**Mcity Data Engine: Iterative Model Improvement Through Open-Vocabulary Data Selection**|Daniel Bogdoll et.al.|[2504.21614](http://arxiv.org/abs/2504.21614)|null|
