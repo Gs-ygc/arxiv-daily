@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627](http://arxiv.org/abs/2505.04627)|null|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
+|**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Abdulaziz Almuzairee et.al.|[2505.04619](http://arxiv.org/abs/2505.04619)|null|
+|**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613](http://arxiv.org/abs/2505.04613)|null|
+|**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|null|
+|**2025-05-07**|**Testing Juntas Optimally with Samples**|Lorenzo Beretta et.al.|[2505.04604](http://arxiv.org/abs/2505.04604)|null|
+|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603](http://arxiv.org/abs/2505.04603)|null|
+|**2025-05-07**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599](http://arxiv.org/abs/2505.04599)|null|
+|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586](http://arxiv.org/abs/2505.04586)|**[link](https://github.com/vios-s/mri_sequential_active_sampling)**|
+|**2025-05-07**|**Modeling Personalized Difficulty of Rehabilitation Exercises Using Causal Trees**|Nathaniel Dennler et.al.|[2505.04583](http://arxiv.org/abs/2505.04583)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724](http://arxiv.org/abs/2505.03724)|null|
 |**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
@@ -1274,6 +1284,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Accelerating Triangle Counting with Real Processing-in-Memory Systems**|Lorenzo Asquini et.al.|[2505.04269](http://arxiv.org/abs/2505.04269)|null|
+|**2025-05-07**|**Spatial-Wavelength Multiplexing Reliable Photonic Integrated General-Purpose Analog Computing System**|Tao Zhu et.al.|[2505.04197](http://arxiv.org/abs/2505.04197)|null|
 |**2025-05-06**|**GPU Implementation of the Wavelet Tree**|Marco Franzreb et.al.|[2505.03372](http://arxiv.org/abs/2505.03372)|null|
 |**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
 |**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
