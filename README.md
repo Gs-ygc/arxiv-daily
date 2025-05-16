@@ -1,4 +1,4 @@
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -12,7 +12,7 @@
 |**2025-05-14**|**Design of Experiments for Emulations: A Selective Review from a Modeling Perspective**|Xinwei Deng et.al.|[2505.09596](http://arxiv.org/abs/2505.09596)|null|
 |**2025-05-14**|**Online Isolation Forest**|Filippo Leveni et.al.|[2505.09593](http://arxiv.org/abs/2505.09593)|**[link](https://github.com/ineveloppilif/online-isolation-forest)**|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
-|**2025-05-14**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583](http://arxiv.org/abs/2505.09583)|null|
+|**2025-05-15**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583](http://arxiv.org/abs/2505.09583)|null|
 |**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576](http://arxiv.org/abs/2505.09576)|null|
 |**2025-05-14**|**SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures**|Julian Kranz et.al.|[2505.09572](http://arxiv.org/abs/2505.09572)|**[link](https://github.com/deeplearningmethods/sad)**|
 |**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564](http://arxiv.org/abs/2505.09564)|null|
@@ -1337,9 +1337,9 @@
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
 |**2025-05-14**|**Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures**|Chenggang Zhao et.al.|[2505.09343](http://arxiv.org/abs/2505.09343)|null|
 |**2025-05-14**|**Adaptive Migration Decision for Multi-Tenant Memory Systems**|Hyungjun Cho et.al.|[2505.09164](http://arxiv.org/abs/2505.09164)|null|
-|**2025-05-14**|**Architecture of Tianyu Software: Relative Photometry as a Case Study**|Yicheng Rui et.al.|[2505.09107](http://arxiv.org/abs/2505.09107)|null|
+|**2025-05-15**|**Architecture of Tianyu Software: Relative Photometry as a Case Study**|Yicheng Rui et.al.|[2505.09107](http://arxiv.org/abs/2505.09107)|null|
 |**2025-05-14**|**SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**|Gaurav Koley et.al.|[2505.09081](http://arxiv.org/abs/2505.09081)|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-13**|**e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications**|Simone Machetti et.al.|[2505.08421](http://arxiv.org/abs/2505.08421)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
