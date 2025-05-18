@@ -1,4 +1,4 @@
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -14,7 +14,7 @@
 |**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518](http://arxiv.org/abs/2505.10518)|**[link](https://github.com/nasosger/mutor)**|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515](http://arxiv.org/abs/2505.10515)|null|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515](http://arxiv.org/abs/2505.10515)|**[link](https://github.com/openxaiproject/pnpxai)**|
 |**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511](http://arxiv.org/abs/2505.10511)|**[link](https://github.com/victorzheleznov/dafx25)**|
 |**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
 |**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603](http://arxiv.org/abs/2505.09603)|null|
@@ -1348,7 +1348,7 @@
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
 |**2025-05-14**|**Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures**|Chenggang Zhao et.al.|[2505.09343](http://arxiv.org/abs/2505.09343)|null|
 |**2025-05-14**|**Adaptive Migration Decision for Multi-Tenant Memory Systems**|Hyungjun Cho et.al.|[2505.09164](http://arxiv.org/abs/2505.09164)|null|
-|**2025-05-15**|**Architecture of Tianyu Software: Relative Photometry as a Case Study**|Yicheng Rui et.al.|[2505.09107](http://arxiv.org/abs/2505.09107)|null|
+|**2025-05-15**|**Architecture of Tianyu Software: Relative Photometry as a Case Study**|Yicheng Rui et.al.|[2505.09107](http://arxiv.org/abs/2505.09107)|**[link](https://github.com/ruiyicheng/tianyu_pipeline)**|
 |**2025-05-14**|**SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**|Gaurav Koley et.al.|[2505.09081](http://arxiv.org/abs/2505.09081)|null|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-13**|**e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications**|Simone Machetti et.al.|[2505.08421](http://arxiv.org/abs/2505.08421)|null|
