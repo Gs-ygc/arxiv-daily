@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681](http://arxiv.org/abs/2505.14681)|null|
+|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
+|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664](http://arxiv.org/abs/2505.14664)|null|
+|**2025-05-20**|**Developing RPC-Net: Leveraging High-Density Electromyography and Machine Learning for Improved Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14663](http://arxiv.org/abs/2505.14663)|null|
+|**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659](http://arxiv.org/abs/2505.14659)|null|
+|**2025-05-20**|**HDE-Array: Development and Validation of a New Dry Electrode Array Design to Acquire HD-sEMG for Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14658](http://arxiv.org/abs/2505.14658)|null|
+|**2025-05-20**|**Sequential QCQP for Bilevel Optimization with Line Search**|Sina Sharifi et.al.|[2505.14647](http://arxiv.org/abs/2505.14647)|null|
+|**2025-05-20**|**Early Diagnosis of Atrial Fibrillation Recurrence: A Large Tabular Model Approach with Structured and Unstructured Clinical Data**|Ane G. Domingo-Aldama et.al.|[2505.14643](http://arxiv.org/abs/2505.14643)|null|
+|**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638](http://arxiv.org/abs/2505.14638)|null|
 |**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
 |**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446](http://arxiv.org/abs/2505.13446)|null|
 |**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439](http://arxiv.org/abs/2505.13439)|**[link](https://github.com/huawei-lin/VTBench)**|
@@ -1368,6 +1378,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Task-parallelism in SWIFT for heterogeneous compute architectures**|Abouzied M. A. Nasar et.al.|[2505.14538](http://arxiv.org/abs/2505.14538)|null|
+|**2025-05-20**|**The nature of quantum parallel processing and its implications for coding in brain neural networks: a novel computational mechanism**|Andrew S Johnson et.al.|[2505.14503](http://arxiv.org/abs/2505.14503)|null|
+|**2025-05-20**|**Prox-PINNs: A Deep Learning Algorithmic Framework for Elliptic Variational Inequalities**|Yu Gao et.al.|[2505.14430](http://arxiv.org/abs/2505.14430)|null|
+|**2025-05-20**|**Demonstrating Coherent Quantum Routers for Bucket-Brigade Quantum Random Access Memory on a Superconducting Processor**|Sheng Zhang et.al.|[2505.13958](http://arxiv.org/abs/2505.13958)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960](http://arxiv.org/abs/2505.12960)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
 |**2025-05-17**|**Synapse: Virtualizing Match Tables in Programmable Hardware**|Seyyidahmed Lahmer et.al.|[2505.12036](http://arxiv.org/abs/2505.12036)|null|
 |**2025-05-17**|**Efficient Vector Search on Disaggregated Memory with d-HNSW**|Yi Liu et.al.|[2505.11783](http://arxiv.org/abs/2505.11783)|null|
@@ -1731,6 +1745,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders**|Agam Goyal et.al.|[2505.14536](http://arxiv.org/abs/2505.14536)|null|
+|**2025-05-19**|**HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps**|Hiya Bhatt et.al.|[2505.13693](http://arxiv.org/abs/2505.13693)|null|
+|**2025-05-19**|**A*-Decoding: Token-Efficient Inference Scaling**|Giannis Chatziveroglou et.al.|[2505.13672](http://arxiv.org/abs/2505.13672)|null|
 |**2025-05-19**|**Deep Unfolding with Kernel-based Quantization in MIMO Detection**|Zeyi Ren et.al.|[2505.12736](http://arxiv.org/abs/2505.12736)|null|
 |**2025-05-19**|**R1dacted: Investigating Local Censorship in DeepSeek's R1 Language Model**|Ali Naseh et.al.|[2505.12625](http://arxiv.org/abs/2505.12625)|null|
 |**2025-05-17**|**XiSort: Deterministic Sorting via IEEE-754 Total Ordering and Entropy Minimization**|Faruk Alpay et.al.|[2505.11927](http://arxiv.org/abs/2505.11927)|null|
