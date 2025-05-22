@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813](http://arxiv.org/abs/2505.15813)|null|
+|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|null|
+|**2025-05-21**|**Neural Conditional Transport Maps**|Carlos Rodriguez-Pardo et.al.|[2505.15808](http://arxiv.org/abs/2505.15808)|null|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803](http://arxiv.org/abs/2505.15803)|null|
+|**2025-05-21**|**A Deep Learning Framework for Two-Dimensional, Multi-Frequency Propagation Factor Estimation**|Sarah E. Wessinger et.al.|[2505.15802](http://arxiv.org/abs/2505.15802)|null|
+|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
+|**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791](http://arxiv.org/abs/2505.15791)|null|
 |**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681](http://arxiv.org/abs/2505.14681)|null|
 |**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
 |**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|null|
@@ -1378,9 +1388,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**New Understandings and Computation on Augmented Lagrangian Methods for Low-Rank Semidefinite Programming**|Lijun Ding et.al.|[2505.15775](http://arxiv.org/abs/2505.15775)|null|
+|**2025-05-21**|**Owicki--Gries Logic for Timestamp Semantics**|Tatsuya Abe et.al.|[2505.15053](http://arxiv.org/abs/2505.15053)|null|
+|**2025-05-20**|**Modulation of switching dynamics in magnetic tunnel junctions for low-error-rate computational random-access memory**|Yang Lv et.al.|[2505.14829](http://arxiv.org/abs/2505.14829)|null|
 |**2025-05-20**|**Task-parallelism in SWIFT for heterogeneous compute architectures**|Abouzied M. A. Nasar et.al.|[2505.14538](http://arxiv.org/abs/2505.14538)|null|
 |**2025-05-20**|**The nature of quantum parallel processing and its implications for coding in brain neural networks: a novel computational mechanism**|Andrew S Johnson et.al.|[2505.14503](http://arxiv.org/abs/2505.14503)|null|
-|**2025-05-20**|**Prox-PINNs: A Deep Learning Algorithmic Framework for Elliptic Variational Inequalities**|Yu Gao et.al.|[2505.14430](http://arxiv.org/abs/2505.14430)|null|
+|**2025-05-20**|**Prox-PINNs: A Deep Learning Algorithmic Framework for Elliptic Variational Inequalities**|Yu Gao et.al.|[2505.14430](http://arxiv.org/abs/2505.14430)|**[link](https://github.com/yugaomath/prox-pinns)**|
 |**2025-05-20**|**Demonstrating Coherent Quantum Routers for Bucket-Brigade Quantum Random Access Memory on a Superconducting Processor**|Sheng Zhang et.al.|[2505.13958](http://arxiv.org/abs/2505.13958)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960](http://arxiv.org/abs/2505.12960)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
 |**2025-05-17**|**Synapse: Virtualizing Match Tables in Programmable Hardware**|Seyyidahmed Lahmer et.al.|[2505.12036](http://arxiv.org/abs/2505.12036)|null|
@@ -1745,12 +1758,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
+|**2025-05-21**|**KernelOracle: Predicting the Linux Scheduler's Next Move with Deep Learning**|Sampanna Yashwant Kahu et.al.|[2505.15213](http://arxiv.org/abs/2505.15213)|null|
+|**2025-05-21**|**StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization**|Ziliang Wang et.al.|[2505.15107](http://arxiv.org/abs/2505.15107)|null|
+|**2025-05-20**|**Text embedding models can be great data engineers**|Iman Kazemian et.al.|[2505.14802](http://arxiv.org/abs/2505.14802)|null|
 |**2025-05-20**|**Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders**|Agam Goyal et.al.|[2505.14536](http://arxiv.org/abs/2505.14536)|null|
 |**2025-05-19**|**HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps**|Hiya Bhatt et.al.|[2505.13693](http://arxiv.org/abs/2505.13693)|null|
 |**2025-05-19**|**A*-Decoding: Token-Efficient Inference Scaling**|Giannis Chatziveroglou et.al.|[2505.13672](http://arxiv.org/abs/2505.13672)|null|
 |**2025-05-19**|**Deep Unfolding with Kernel-based Quantization in MIMO Detection**|Zeyi Ren et.al.|[2505.12736](http://arxiv.org/abs/2505.12736)|null|
 |**2025-05-19**|**R1dacted: Investigating Local Censorship in DeepSeek's R1 Language Model**|Ali Naseh et.al.|[2505.12625](http://arxiv.org/abs/2505.12625)|null|
-|**2025-05-17**|**XiSort: Deterministic Sorting via IEEE-754 Total Ordering and Entropy Minimization**|Faruk Alpay et.al.|[2505.11927](http://arxiv.org/abs/2505.11927)|null|
+|**2025-05-17**|**XiSort: Deterministic Sorting via IEEE-754 Total Ordering and Entropy Minimization**|Faruk Alpay et.al.|[2505.11927](http://arxiv.org/abs/2505.11927)|**[link](https://github.com/farukalpay/xisort)**|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
 |**2025-05-16**|**Ready2Unlearn: A Learning-Time Approach for Preparing Models with Future Unlearning Readiness**|Hanyu Duan et.al.|[2505.10845](http://arxiv.org/abs/2505.10845)|null|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
