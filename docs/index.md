@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150](http://arxiv.org/abs/2505.18150)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Nonadiabatic reactive scattering of hydrogen on different surface facets of copper**|Wojciech G. Stark et.al.|[2505.18147](http://arxiv.org/abs/2505.18147)|null|
+|**2025-05-23**|**INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics**|Taskin Mehereen et.al.|[2505.18141](http://arxiv.org/abs/2505.18141)|null|
+|**2025-05-23**|**Boosting Open Set Recognition Performance through Modulated Representation Learning**|Amit Kumar Kundu et.al.|[2505.18137](http://arxiv.org/abs/2505.18137)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131](http://arxiv.org/abs/2505.18131)|null|
+|**2025-05-23**|**Tuning Thermal Conductivity and Electron-Phonon Interactions in Carbon and Boron Nitride Moiré Diamanes via Twist Angle Manipulation**|Rustam Arabov et.al.|[2505.18127](http://arxiv.org/abs/2505.18127)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125](http://arxiv.org/abs/2505.18125)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
@@ -1398,6 +1408,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
+|**2025-05-23**|**Towards General Continuous Memory for Vision-Language Models**|Wenyi Wu et.al.|[2505.17670](http://arxiv.org/abs/2505.17670)|null|
 |**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
 |**2025-05-21**|**How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior**|Zidi Xiong et.al.|[2505.16067](http://arxiv.org/abs/2505.16067)|null|
 |**2025-05-21**|**Mitigating cosmic ray-like correlated events with a modular quantum processor**|Xuntao Wu et.al.|[2505.15919](http://arxiv.org/abs/2505.15919)|null|
@@ -1771,6 +1783,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|null|
+|**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
+|**2025-05-22**|**Backdoors in DRL: Four Environments Focusing on In-distribution Triggers**|Chace Ashcraft et.al.|[2505.17248](http://arxiv.org/abs/2505.17248)|null|
 |**2025-05-22**|**Can a domain-specific language improve program structure comprehension of data pipelines? A mixed-methods study**|Philip Heltweg et.al.|[2505.16764](http://arxiv.org/abs/2505.16764)|null|
 |**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592](http://arxiv.org/abs/2505.15592)|null|
 |**2025-05-21**|**KernelOracle: Predicting the Linux Scheduler's Next Move with Deep Learning**|Sampanna Yashwant Kahu et.al.|[2505.15213](http://arxiv.org/abs/2505.15213)|**[link](https://github.com/sampannakahu/kerneloracle)**|
