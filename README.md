@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-28**|**A multimode cavity QED Ising spin glass**|Brendan P. Marsh et.al.|[2505.22658](http://arxiv.org/abs/2505.22658)|null|
+|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651](http://arxiv.org/abs/2505.22651)|null|
+|**2025-05-28**|**On Learning Verifiers for Chain-of-Thought Reasoning**|Maria-Florina Balcan et.al.|[2505.22650](http://arxiv.org/abs/2505.22650)|null|
+|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
+|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-05-28**|**Spectral Survival Analysis**|Chengzhi Shi et.al.|[2505.22641](http://arxiv.org/abs/2505.22641)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496](http://arxiv.org/abs/2505.21496)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
@@ -1424,6 +1434,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2505.22631](http://arxiv.org/abs/2505.22631)|null|
 |**2025-05-22**|**$Δ$-Nets: Interaction-Based System for Optimal Parallel $λ$ -Reduction**|Daniel Augusto Rizzi Salvadori et.al.|[2505.20314](http://arxiv.org/abs/2505.20314)|null|
 |**2025-05-26**|**Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents**|Derong Xu et.al.|[2505.19549](http://arxiv.org/abs/2505.19549)|null|
 |**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
@@ -1801,6 +1812,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Empowering Intelligent Low-altitude Economy with Large AI Model Deployment**|Zhonghao Lyu et.al.|[2505.22343](http://arxiv.org/abs/2505.22343)|null|
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
