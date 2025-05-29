@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1805,15 +1805,15 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains**|Jiawen Zhang et.al.|[2505.19397](http://arxiv.org/abs/2505.19397)|null|
 |**2025-05-25**|**MGD $^3$ : Mode-Guided Dataset Distillation using Diffusion Models**|Jeffrey A. Chan-Santiago et.al.|[2505.18963](http://arxiv.org/abs/2505.18963)|null|
 |**2025-05-23**|**RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification**|Praphul Singh et.al.|[2505.18380](http://arxiv.org/abs/2505.18380)|null|
-|**2025-05-23**|**Operator Learning for Schrödinger Equation: Unitarity, Error Bounds, and Time Generalization**|Yash Patel et.al.|[2505.18288](http://arxiv.org/abs/2505.18288)|null|
+|**2025-05-23**|**Operator Learning for Schrödinger Equation: Unitarity, Error Bounds, and Time Generalization**|Yash Patel et.al.|[2505.18288](http://arxiv.org/abs/2505.18288)|**[link](https://github.com/yashpatel5400/schrodinger_op)**|
 |**2025-05-23**|**Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**|Xixian Yong et.al.|[2505.18237](http://arxiv.org/abs/2505.18237)|null|
-|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|null|
+|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|**[link](https://github.com/modelscope/trinity-rft)**|
 |**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
 |**2025-05-22**|**Backdoors in DRL: Four Environments Focusing on In-distribution Triggers**|Chace Ashcraft et.al.|[2505.17248](http://arxiv.org/abs/2505.17248)|null|
 |**2025-05-22**|**Can a domain-specific language improve program structure comprehension of data pipelines? A mixed-methods study**|Philip Heltweg et.al.|[2505.16764](http://arxiv.org/abs/2505.16764)|null|
