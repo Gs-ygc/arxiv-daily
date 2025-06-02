@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -9,11 +9,11 @@
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761](http://arxiv.org/abs/2505.23761)|null|
 |**2025-05-29**|**Model Immunization from a Condition Number Perspective**|Amber Yijia Zheng et.al.|[2505.23760](http://arxiv.org/abs/2505.23760)|null|
-|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
 |**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751](http://arxiv.org/abs/2505.23751)|null|
 |**2025-05-29**|**Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?**|Paul Gölz et.al.|[2505.23749](http://arxiv.org/abs/2505.23749)|null|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
-|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**On the Convergence Analysis of Muon**|Wei Shen et.al.|[2505.23737](http://arxiv.org/abs/2505.23737)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
@@ -1447,8 +1447,8 @@
 |**2025-05-29**|**An additive two-level parallel variant of the DMRG algorithm with coarse-space correction**|Laura Grigori et.al.|[2505.23429](http://arxiv.org/abs/2505.23429)|null|
 |**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073](http://arxiv.org/abs/2505.23073)|**[link](https://github.com/arkhadem/dx100)**|
 |**2025-05-28**|**GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2505.22631](http://arxiv.org/abs/2505.22631)|null|
-|**2025-05-28**|**$Δ$-Nets: Interaction-Based System for Optimal Parallel $λ$ -Reduction**|Daniel Augusto Rizzi Salvadori et.al.|[2505.20314](http://arxiv.org/abs/2505.20314)|null|
-|**2025-05-26**|**Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents**|Derong Xu et.al.|[2505.19549](http://arxiv.org/abs/2505.19549)|null|
+|**2025-05-28**|**$Δ$-Nets: Interaction-Based System for Optimal Parallel $λ$ -Reduction**|Daniel Augusto Rizzi Salvadori et.al.|[2505.20314](http://arxiv.org/abs/2505.20314)|**[link](https://github.com/danaugrs/deltanets)**|
+|**2025-05-26**|**Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents**|Derong Xu et.al.|[2505.19549](http://arxiv.org/abs/2505.19549)|**[link](https://github.com/quqxui/memgas)**|
 |**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
 |**2025-05-23**|**Towards General Continuous Memory for Vision-Language Models**|Wenyi Wu et.al.|[2505.17670](http://arxiv.org/abs/2505.17670)|null|
 |**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
@@ -1832,7 +1832,7 @@
 |**2025-05-25**|**MGD $^3$ : Mode-Guided Dataset Distillation using Diffusion Models**|Jeffrey A. Chan-Santiago et.al.|[2505.18963](http://arxiv.org/abs/2505.18963)|null|
 |**2025-05-23**|**RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification**|Praphul Singh et.al.|[2505.18380](http://arxiv.org/abs/2505.18380)|null|
 |**2025-05-23**|**Operator Learning for Schrödinger Equation: Unitarity, Error Bounds, and Time Generalization**|Yash Patel et.al.|[2505.18288](http://arxiv.org/abs/2505.18288)|**[link](https://github.com/yashpatel5400/schrodinger_op)**|
-|**2025-05-23**|**Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**|Xixian Yong et.al.|[2505.18237](http://arxiv.org/abs/2505.18237)|null|
+|**2025-05-23**|**Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens**|Xixian Yong et.al.|[2505.18237](http://arxiv.org/abs/2505.18237)|**[link](https://github.com/chicosirius/think-or-not)**|
 |**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|**[link](https://github.com/modelscope/trinity-rft)**|
 |**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
 |**2025-05-22**|**Backdoors in DRL: Four Environments Focusing on In-distribution Triggers**|Chace Ashcraft et.al.|[2505.17248](http://arxiv.org/abs/2505.17248)|null|
