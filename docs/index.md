@@ -1461,7 +1461,7 @@ layout: default
 |**2025-05-30**|**Jacobian-free Multigrid Preconditioner for Discontinuous Galerkin Methods applied to Numerical Weather Prediction**|Philipp Birken et.al.|[2505.24504](http://arxiv.org/abs/2505.24504)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-29**|**An additive two-level parallel variant of the DMRG algorithm with coarse-space correction**|Laura Grigori et.al.|[2505.23429](http://arxiv.org/abs/2505.23429)|null|
-|**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073](http://arxiv.org/abs/2505.23073)|**[link](https://github.com/arkhadem/dx100)**|
+|**2025-06-02**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073](http://arxiv.org/abs/2505.23073)|**[link](https://github.com/arkhadem/dx100)**|
 |**2025-05-28**|**GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2505.22631](http://arxiv.org/abs/2505.22631)|null|
 |**2025-05-28**|**$Δ$-Nets: Interaction-Based System for Optimal Parallel $λ$ -Reduction**|Daniel Augusto Rizzi Salvadori et.al.|[2505.20314](http://arxiv.org/abs/2505.20314)|**[link](https://github.com/danaugrs/deltanets)**|
 |**2025-05-26**|**Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents**|Derong Xu et.al.|[2505.19549](http://arxiv.org/abs/2505.19549)|**[link](https://github.com/quqxui/memgas)**|
