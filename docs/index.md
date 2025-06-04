@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
+|**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149](http://arxiv.org/abs/2506.03149)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
+|**2025-06-03**|**PoLAR: Polar-Decomposed Low-Rank Adapter Representation**|Kai Lion et.al.|[2506.03133](http://arxiv.org/abs/2506.03133)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AGNBoost: A Machine Learning Approach to AGN Identification with JWST/NIRCam+MIRI Colors and Photometry**|Kurt Hamblin et.al.|[2506.03130](http://arxiv.org/abs/2506.03130)|null|
+|**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128](http://arxiv.org/abs/2506.03128)|null|
+|**2025-06-03**|**Validating remotely sensed biomass estimates with forest inventory data in the western US**|Xiuyu Cao et.al.|[2506.03120](http://arxiv.org/abs/2506.03120)|null|
+|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114](http://arxiv.org/abs/2506.03114)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
 |**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874](http://arxiv.org/abs/2505.24874)|null|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
@@ -1458,6 +1468,14 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929](http://arxiv.org/abs/2506.02929)|null|
+|**2025-06-03**|**On the Inversion Modulo a Power of an Integer**|Guangwu Xu et.al.|[2506.02491](http://arxiv.org/abs/2506.02491)|null|
+|**2025-06-03**|**Memory Access Vectors: Improving Sampling Fidelity for CPU Performance Simulations**|Sriyash Caculo et.al.|[2506.02344](http://arxiv.org/abs/2506.02344)|null|
+|**2025-06-02**|**Distinguishing Autonomous AI Agents from Collaborative Agentic Systems: A Comprehensive Framework for Understanding Modern Intelligent Architectures**|Prashik Buddhaghosh Bansod et.al.|[2506.01438](http://arxiv.org/abs/2506.01438)|null|
+|**2025-06-02**|**CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction**|Yudong Lu et.al.|[2506.01268](http://arxiv.org/abs/2506.01268)|null|
+|**2025-05-31**|**Scalable Analysis and Design Using Automatic Differentiation**|Julian Andrej et.al.|[2506.00746](http://arxiv.org/abs/2506.00746)|null|
+|**2025-05-31**|**Blending Complementary Memory Systems in Hybrid Quadratic-Linear Transformers**|Kazuki Irie et.al.|[2506.00744](http://arxiv.org/abs/2506.00744)|null|
+|**2025-05-31**|**Deep-Learning-Driven Prefetching for Far Memory**|Yutong Huang et.al.|[2506.00384](http://arxiv.org/abs/2506.00384)|null|
 |**2025-05-30**|**Jacobian-free Multigrid Preconditioner for Discontinuous Galerkin Methods applied to Numerical Weather Prediction**|Philipp Birken et.al.|[2505.24504](http://arxiv.org/abs/2505.24504)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-29**|**An additive two-level parallel variant of the DMRG algorithm with coarse-space correction**|Laura Grigori et.al.|[2505.23429](http://arxiv.org/abs/2505.23429)|null|
@@ -1840,6 +1858,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Towards Secure MLOps: Surveying Attacks, Mitigation Strategies, and Research Challenges**|Raj Patel et.al.|[2506.02032](http://arxiv.org/abs/2506.02032)|null|
+|**2025-06-02**|**K12Vista: Exploring the Boundaries of MLLMs in K-12 Education**|Chong Li et.al.|[2506.01676](http://arxiv.org/abs/2506.01676)|null|
+|**2025-06-01**|**Conformal Arbitrage: Risk-Controlled Balancing of Competing Objectives in Language Models**|William Overman et.al.|[2506.00911](http://arxiv.org/abs/2506.00911)|null|
+|**2025-06-01**|**SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2506.00830](http://arxiv.org/abs/2506.00830)|null|
 |**2025-05-30**|**Mind the Quote: Enabling Quotation-Aware Dialogue in LLMs via Plug-and-Play Modules**|Yueqi Zhang et.al.|[2505.24292](http://arxiv.org/abs/2505.24292)|null|
 |**2025-05-28**|**Empowering Intelligent Low-altitude Economy with Large AI Model Deployment**|Zhonghao Lyu et.al.|[2505.22343](http://arxiv.org/abs/2505.22343)|null|
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
