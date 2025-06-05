@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1465,7 +1465,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929](http://arxiv.org/abs/2506.02929)|null|
-|**2025-06-03**|**On the Inversion Modulo a Power of an Integer**|Guangwu Xu et.al.|[2506.02491](http://arxiv.org/abs/2506.02491)|null|
+|**2025-06-04**|**On the Inversion Modulo a Power of an Integer**|Guangwu Xu et.al.|[2506.02491](http://arxiv.org/abs/2506.02491)|null|
 |**2025-06-03**|**Memory Access Vectors: Improving Sampling Fidelity for CPU Performance Simulations**|Sriyash Caculo et.al.|[2506.02344](http://arxiv.org/abs/2506.02344)|null|
 |**2025-06-02**|**Distinguishing Autonomous AI Agents from Collaborative Agentic Systems: A Comprehensive Framework for Understanding Modern Intelligent Architectures**|Prashik Buddhaghosh Bansod et.al.|[2506.01438](http://arxiv.org/abs/2506.01438)|null|
 |**2025-06-02**|**CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction**|Yudong Lu et.al.|[2506.01268](http://arxiv.org/abs/2506.01268)|null|
