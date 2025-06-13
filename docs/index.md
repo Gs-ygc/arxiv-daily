@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1936,7 +1936,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**Gradual Metaprogramming**|Tianyu Chen et.al.|[2506.09043](http://arxiv.org/abs/2506.09043)|null|
-|**2025-06-11**|**PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production**|Yu Guan et.al.|[2506.08528](http://arxiv.org/abs/2506.08528)|null|
+|**2025-06-12**|**PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production**|Yu Guan et.al.|[2506.08528](http://arxiv.org/abs/2506.08528)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
