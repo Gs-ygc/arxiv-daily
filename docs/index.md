@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
+|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
+|**2025-06-16**|**AI reconstruction of European weather from the Euro-Atlantic regimes**|A. Camilletti et.al.|[2506.13758](http://arxiv.org/abs/2506.13758)|null|
+|**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
+|**2025-06-16**|**PB $^2$ : Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741](http://arxiv.org/abs/2506.13741)|null|
+|**2025-06-16**|**Bias Delayed is Bias Denied? Assessing the Effect of Reporting Delays on Disparity Assessments**|Jennah Gosciak et.al.|[2506.13735](http://arxiv.org/abs/2506.13735)|null|
+|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
+|**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
@@ -1548,6 +1558,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Efficient algorithms for quantum chemistry on modular quantum processors**|Tian Xue et.al.|[2506.13332](http://arxiv.org/abs/2506.13332)|null|
+|**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
+|**2025-06-16**|**Scalable Simulation of Quantum Many-Body Dynamics with Or-Represented Quantum Algebra**|Lukas Broers et.al.|[2506.13241](http://arxiv.org/abs/2506.13241)|null|
+|**2025-06-15**|**FPGA & VPU Co-Processing in Space Applications: Development and Testing with DSP/AI Benchmarks**|Vasileios Leon et.al.|[2506.12968](http://arxiv.org/abs/2506.12968)|null|
+|**2025-06-15**|**PuDHammer: Experimental Analysis of Read Disturbance Effects of Processing-using-DRAM in Real DRAM Chips**|Ismail Emir Yuksel et.al.|[2506.12947](http://arxiv.org/abs/2506.12947)|null|
+|**2025-06-14**|**A Transfer Learning Framework for Multilayer Networks via Model Averaging**|Yongqin Qiu et.al.|[2506.12455](http://arxiv.org/abs/2506.12455)|null|
 |**2025-06-13**|**Enabling Next-Generation Cloud-Connected Bionic Limbs Through 5G Connectivity**|Ozan Karaali et.al.|[2506.11744](http://arxiv.org/abs/2506.11744)|null|
 |**2025-06-12**|**A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models**|Yu Zhang et.al.|[2506.10853](http://arxiv.org/abs/2506.10853)|**[link](https://github.com/zyy799/spatiotemporal-activity-generation-mcp-cot)**|
 |**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484](http://arxiv.org/abs/2506.10484)|null|
@@ -1960,8 +1976,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving**|Heyang Huang et.al.|[2506.13497](http://arxiv.org/abs/2506.13497)|null|
+|**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
+|**2025-06-14**|**InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning**|Mengyuan Sun et.al.|[2506.12411](http://arxiv.org/abs/2506.12411)|null|
 |**2025-06-12**|**MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices**|Zhaode Wang et.al.|[2506.10443](http://arxiv.org/abs/2506.10443)|null|
-|**2025-06-10**|**Gradual Metaprogramming**|Tianyu Chen et.al.|[2506.09043](http://arxiv.org/abs/2506.09043)|null|
+|**2025-06-16**|**Gradual Metaprogramming**|Tianyu Chen et.al.|[2506.09043](http://arxiv.org/abs/2506.09043)|null|
 |**2025-06-12**|**PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production**|Yu Guan et.al.|[2506.08528](http://arxiv.org/abs/2506.08528)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|**[link](https://github.com/yangjie-cv/wethink)**|
