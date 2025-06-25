@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1599,11 +1599,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
-|**2025-06-23**|**Temporal pattern generation with tunable repetition rate using semiconductor laser periodic dynamics**|Apostolos Argyris et.al.|[2506.18570](http://arxiv.org/abs/2506.18570)|null|
+|**2025-06-24**|**Temporal pattern generation with tunable repetition rate using semiconductor laser periodic dynamics**|Apostolos Argyris et.al.|[2506.18570](http://arxiv.org/abs/2506.18570)|null|
 |**2025-06-22**|**CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation**|Thien Tran et.al.|[2506.17991](http://arxiv.org/abs/2506.17991)|null|
 |**2025-06-22**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
 |**2025-06-18**|**Context manipulation attacks : Web agents are susceptible to corrupted memory**|Atharv Singh Patlan et.al.|[2506.17318](http://arxiv.org/abs/2506.17318)|null|
-|**2025-06-19**|**SAFER-D: A Self-Adaptive Security Framework for Distributed Computing Architectures**|Marco Stadler et.al.|[2506.16545](http://arxiv.org/abs/2506.16545)|null|
+|**2025-06-19**|**SAFER-D: A Self-Adaptive Security Framework for Distributed Computing Architectures**|Marco Stadler et.al.|[2506.16545](http://arxiv.org/abs/2506.16545)|**[link](https://github.com/jku-lit-scsl/ecsa25_safer-d_uc-1)**|
 |**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
 |**2025-06-19**|**Profile-Guided Temporal Prefetching**|Mengming Li et.al.|[2506.15985](http://arxiv.org/abs/2506.15985)|null|
 |**2025-06-18**|**Automatic Metadata Capture and Processing for High-Performance Workflows**|Polina Shpilker et.al.|[2506.15537](http://arxiv.org/abs/2506.15537)|null|
@@ -2030,7 +2030,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-23**|**A New Pathway to Integrated Learning and Communication (ILAC): Large AI Model and Hyperdimensional Computing for Communication**|Wei Xu et.al.|[2506.18432](http://arxiv.org/abs/2506.18432)|null|
+|**2025-06-24**|**A New Pathway to Integrated Learning and Communication (ILAC): Large AI Model and Hyperdimensional Computing for Communication**|Wei Xu et.al.|[2506.18432](http://arxiv.org/abs/2506.18432)|null|
 |**2025-06-21**|**ConsumerBench: Benchmarking Generative AI Applications on End-User Devices**|Yile Gu et.al.|[2506.17538](http://arxiv.org/abs/2506.17538)|null|
 |**2025-06-23**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
 |**2025-06-19**|**Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models**|Daniel Fidel Harvey et.al.|[2506.16419](http://arxiv.org/abs/2506.16419)|null|
@@ -2038,7 +2038,7 @@ layout: default
 |**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562](http://arxiv.org/abs/2506.15562)|null|
 |**2025-06-18**|**Efficient space reduction techniques by optimized majority rules for the Kemeny aggregation problem**|Xuan Kien Phung et.al.|[2506.15097](http://arxiv.org/abs/2506.15097)|null|
 |**2025-06-19**|**Cosmological Remapping for Efficient Generation of 21 cm Intensity Mapping Mocks**|Rahima Mokeddem et.al.|[2506.14588](http://arxiv.org/abs/2506.14588)|null|
-|**2025-06-19**|**Essential-Web v1.0: 24T tokens of organized web data**|Essential AI et.al.|[2506.14111](http://arxiv.org/abs/2506.14111)|null|
+|**2025-06-19**|**Essential-Web v1.0: 24T tokens of organized web data**|Essential AI et.al.|[2506.14111](http://arxiv.org/abs/2506.14111)|**[link](https://github.com/essential-ai/eai-taxonomy)**|
 |**2025-06-16**|**DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving**|Heyang Huang et.al.|[2506.13497](http://arxiv.org/abs/2506.13497)|null|
 |**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
 |**2025-06-14**|**InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning**|Mengyuan Sun et.al.|[2506.12411](http://arxiv.org/abs/2506.12411)|null|
