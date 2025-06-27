@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1621,7 +1621,7 @@ layout: default
 |**2025-06-25**|**Collaborative Batch Size Optimization for Federated Learning**|Arno Geimer et.al.|[2506.20511](http://arxiv.org/abs/2506.20511)|null|
 |**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
 |**2025-06-24**|**Fast readout of quantum dot spin qubits via Andreev spins**|Michèle Jakob et.al.|[2506.19762](http://arxiv.org/abs/2506.19762)|null|
-|**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
+|**2025-06-26**|**From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 |**2025-06-24**|**Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System**|Lixuan He et.al.|[2506.19433](http://arxiv.org/abs/2506.19433)|null|
 |**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
 |**2025-06-24**|**Temporal pattern generation with tunable repetition rate using semiconductor laser periodic dynamics**|Apostolos Argyris et.al.|[2506.18570](http://arxiv.org/abs/2506.18570)|null|
