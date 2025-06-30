@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1637,7 +1637,7 @@ layout: default
 |**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
 |**2025-06-24**|**Temporal pattern generation with tunable repetition rate using semiconductor laser periodic dynamics**|Apostolos Argyris et.al.|[2506.18570](http://arxiv.org/abs/2506.18570)|null|
 |**2025-06-22**|**CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation**|Thien Tran et.al.|[2506.17991](http://arxiv.org/abs/2506.17991)|null|
-|**2025-06-22**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
+|**2025-06-27**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
 |**2025-06-18**|**Context manipulation attacks : Web agents are susceptible to corrupted memory**|Atharv Singh Patlan et.al.|[2506.17318](http://arxiv.org/abs/2506.17318)|null|
 |**2025-06-19**|**SAFER-D: A Self-Adaptive Security Framework for Distributed Computing Architectures**|Marco Stadler et.al.|[2506.16545](http://arxiv.org/abs/2506.16545)|**[link](https://github.com/jku-lit-scsl/ecsa25_safer-d_uc-1)**|
 |**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
@@ -2066,7 +2066,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
 |**2025-06-24**|**MegaFold: System-Level Optimizations for Accelerating Protein Structure Prediction Models**|Hoa La et.al.|[2506.20686](http://arxiv.org/abs/2506.20686)|null|
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
 |**2025-06-24**|**Operator Forces For Coarse-Grained Molecular Dynamics**|Leon Klein et.al.|[2506.19628](http://arxiv.org/abs/2506.19628)|null|
