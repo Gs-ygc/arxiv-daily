@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
+|**2025-07-07**|**Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals**|Maria Barsukova et.al.|[2507.05253](http://arxiv.org/abs/2507.05253)|null|
+|**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
+|**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
+|**2025-07-07**|**An Investigation into Maintenance Support for Neural Networks**|Fatema Tuz Zohra et.al.|[2507.05245](http://arxiv.org/abs/2507.05245)|null|
+|**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235](http://arxiv.org/abs/2507.05235)|null|
+|**2025-07-07**|**Cascade: Token-Sharded Private LLM Inference**|Rahul Thomas et.al.|[2507.05228](http://arxiv.org/abs/2507.05228)|null|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
 |**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
 |**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain et.al.|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
@@ -1668,6 +1678,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection**|Xu-Yang Gu et.al.|[2507.04676](http://arxiv.org/abs/2507.04676)|null|
+|**2025-07-06**|**Skipper: Maximal Matching with a Single Pass over Edges**|Mohsen Koohi Esfahani et.al.|[2507.04420](http://arxiv.org/abs/2507.04420)|null|
+|**2025-07-04**|**Coil Geometry Learning for Short-Range Magnetic Actuation**|Yuta Takahashi et.al.|[2507.03806](http://arxiv.org/abs/2507.03806)|null|
+|**2025-07-04**|**A Vision-Based Closed-Form Solution for Measuring the Rotation Rate of an Object by Tracking One Point**|Daniel Raviv et.al.|[2507.03237](http://arxiv.org/abs/2507.03237)|null|
 |**2025-07-03**|**Deep Reinforcement Learning-Based DRAM Equalizer Parameter Optimization Using Latent Representations**|Muhammad Usama et.al.|[2507.02365](http://arxiv.org/abs/2507.02365)|null|
 |**2025-07-04**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-02**|**AIRES: Accelerating Out-of-Core GCNs via Algorithm-System Co-Design**|Shakya Jayakody et.al.|[2507.02006](http://arxiv.org/abs/2507.02006)|null|
@@ -2124,6 +2138,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Operator-based machine learning framework for generalizable prediction of unsteady treatment dynamics in stormwater infrastructure**|Mohamed Shatarah et.al.|[2507.04682](http://arxiv.org/abs/2507.04682)|null|
+|**2025-07-03**|**Rethinking Data Protection in the (Generative) Artificial Intelligence Era**|Yiming Li et.al.|[2507.03034](http://arxiv.org/abs/2507.03034)|null|
+|**2025-06-25**|**PlaceFM: A Training-free Geospatial Foundation Model of Places**|Mohammad Hashemi et.al.|[2507.02921](http://arxiv.org/abs/2507.02921)|null|
 |**2025-07-02**|**Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks**|Hanlin Cai et.al.|[2507.01694](http://arxiv.org/abs/2507.01694)|null|
 |**2025-07-01**|**Toward a Data Processing Pipeline for Mobile-Phone Tracking Data**|Marcin Jurek et.al.|[2507.00952](http://arxiv.org/abs/2507.00952)|null|
 |**2025-06-30**|**Interactive Interface For Semantic Segmentation Dataset Synthesis**|Ngoc-Do Tran et.al.|[2506.23470](http://arxiv.org/abs/2506.23470)|null|
