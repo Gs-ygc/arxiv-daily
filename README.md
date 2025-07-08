@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -1665,7 +1665,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-03**|**Deep Reinforcement Learning-Based DRAM Equalizer Parameter Optimization Using Latent Representations**|Muhammad Usama et.al.|[2507.02365](http://arxiv.org/abs/2507.02365)|null|
-|**2025-07-03**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
+|**2025-07-04**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-02**|**AIRES: Accelerating Out-of-Core GCNs via Algorithm-System Co-Design**|Shakya Jayakody et.al.|[2507.02006](http://arxiv.org/abs/2507.02006)|null|
 |**2025-07-02**|**mGRADE: Minimal Recurrent Gating Meets Delay Convolutions for Lightweight Sequence Modeling**|Tristan Torchet et.al.|[2507.01829](http://arxiv.org/abs/2507.01829)|null|
 |**2025-07-02**|**Robust Brain Tumor Segmentation with Incomplete MRI Modalities Using Hölder Divergence and Mutual Information-Enhanced Knowledge Transfer**|Runze Cheng et.al.|[2507.01254](http://arxiv.org/abs/2507.01254)|null|
