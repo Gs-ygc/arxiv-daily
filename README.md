@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227](http://arxiv.org/abs/2507.06227)|null|
+|**2025-07-08**|**Consistency and Inconsistency in $K$ -Means Clustering**|Moïse Blanchard et.al.|[2507.06226](http://arxiv.org/abs/2507.06226)|null|
+|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
+|**2025-07-08**|**Deep Learning Optimization of Two-State Pinching Antennas Systems**|Odysseas G. Karagiannidis et.al.|[2507.06222](http://arxiv.org/abs/2507.06222)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
+|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217](http://arxiv.org/abs/2507.06217)|null|
+|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
+|**2025-07-08**|**Ontological differentiation as a measure of semantic accuracy**|Pablo Garcia-Cuadrillero et.al.|[2507.06208](http://arxiv.org/abs/2507.06208)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
@@ -1674,6 +1684,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**RTGPU: Real-Time Computing with Graphics Processing Units**|Atiyeh Gheibi-Fetrat et.al.|[2507.06069](http://arxiv.org/abs/2507.06069)|null|
+|**2025-07-08**|**Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks**|Oleksii Oleksenko et.al.|[2507.06039](http://arxiv.org/abs/2507.06039)|null|
+|**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
+|**2025-07-08**|**Per-Row Activation Counting on Real Hardware: Demystifying Performance Overheads**|Jumin Kim et.al.|[2507.05556](http://arxiv.org/abs/2507.05556)|null|
+|**2025-07-07**|**Dynamical Archetype Analysis: Autonomous Computation**|Abel Sagodi et.al.|[2507.05505](http://arxiv.org/abs/2507.05505)|null|
 |**2025-07-07**|**Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection**|Xu-Yang Gu et.al.|[2507.04676](http://arxiv.org/abs/2507.04676)|null|
 |**2025-07-08**|**Skipper: Maximal Matching with a Single Pass over Edges**|Mohsen Koohi Esfahani et.al.|[2507.04420](http://arxiv.org/abs/2507.04420)|null|
 |**2025-07-04**|**Coil Geometry Learning for Short-Range Magnetic Actuation**|Yuta Takahashi et.al.|[2507.03806](http://arxiv.org/abs/2507.03806)|null|
