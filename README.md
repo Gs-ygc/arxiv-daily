@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
+|**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
+|**2025-07-11**|**Filter Equivariant Functions: A symmetric account of length-general extrapolation on lists**|Owen Lewis et.al.|[2507.08796](http://arxiv.org/abs/2507.08796)|null|
+|**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
+|**2025-07-11**|**Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning**|James McCarthy et.al.|[2507.08793](http://arxiv.org/abs/2507.08793)|null|
+|**2025-07-11**|**Microwave-optical double-resonance vector magnetometry with warm Rb atoms**|Bahar Babaei et.al.|[2507.08791](http://arxiv.org/abs/2507.08791)|null|
+|**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784](http://arxiv.org/abs/2507.08784)|null|
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
+|**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
+|**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766](http://arxiv.org/abs/2507.08766)|null|
 |**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000](http://arxiv.org/abs/2507.08000)|null|
 |**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
 |**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
@@ -1704,6 +1714,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Advances in Machine Learning: Where Can Quantum Techniques Help?**|Samarth Kashyap et.al.|[2507.08379](http://arxiv.org/abs/2507.08379)|null|
+|**2025-07-11**|**On the Impact of Classical and Quantum Communication Networks Upon Modular Quantum Computing Architecture System Performance**|Pau Escofet et.al.|[2507.08378](http://arxiv.org/abs/2507.08378)|null|
 |**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
 |**2025-07-10**|**One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**|Jiale Zhao et.al.|[2507.07709](http://arxiv.org/abs/2507.07709)|null|
 |**2025-07-09**|**ViDove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning**|Yichen Lu et.al.|[2507.07306](http://arxiv.org/abs/2507.07306)|null|
@@ -2173,6 +2185,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Inclusion AI et.al.|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-10**|**Best Practices for Machine Learning-Assisted Protein Engineering**|Fabio Herrera-Rocha et.al.|[2507.07547](http://arxiv.org/abs/2507.07547)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
