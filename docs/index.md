@@ -10,6 +10,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
+|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[2507.11531](http://arxiv.org/abs/2507.11531)|null|
+|**2025-07-15**|**FlexCAST: Enabling Flexible Scientific Data Analyses**|Benjamin Nachman et.al.|[2507.11528](http://arxiv.org/abs/2507.11528)|null|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**Optimizing loading of cold cesium atoms into a hollow-core fiber using machine learning**|Paul Anderson et.al.|[2507.11519](http://arxiv.org/abs/2507.11519)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513](http://arxiv.org/abs/2507.11513)|null|
 |**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552](http://arxiv.org/abs/2507.10552)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
@@ -1728,6 +1738,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-14**|**TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**|Jiajun Yu et.al.|[2507.10290](http://arxiv.org/abs/2507.10290)|null|
 |**2025-07-13**|**Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive**|You Huang et.al.|[2507.09612](http://arxiv.org/abs/2507.09612)|null|
@@ -2205,6 +2216,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
 |**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797](http://arxiv.org/abs/2507.09797)|null|
 |**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Inclusion AI et.al.|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
