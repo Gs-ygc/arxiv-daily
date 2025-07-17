@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466](http://arxiv.org/abs/2507.12466)|null|
+|**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
+|**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
+|**2025-07-16**|**Cost-aware Stopping for Bayesian Optimization**|Qian Xie et.al.|[2507.12453](http://arxiv.org/abs/2507.12453)|null|
+|**2025-07-16**|**S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling**|Suman Adhya et.al.|[2507.12451](http://arxiv.org/abs/2507.12451)|null|
+|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439](http://arxiv.org/abs/2507.12439)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
@@ -1734,6 +1744,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
+|**2025-07-16**|**Channel capacity of small modular quantum networks in the ultrastrongly coupled regime**|Salvatore Alex Cordovana et.al.|[2507.12020](http://arxiv.org/abs/2507.12020)|null|
+|**2025-07-16**|**A Parallel CPU-GPU Framework for Cost-Bounded DFS with Applications to IDA* and BTS**|Ehsan Futuhi et.al.|[2507.11916](http://arxiv.org/abs/2507.11916)|null|
+|**2025-07-15**|**Real-Time Cloth Simulation Using WebGPU: Evaluating Limits of High-Resolution**|Nak-Jun Sung et.al.|[2507.11794](http://arxiv.org/abs/2507.11794)|null|
 |**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-14**|**TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**|Jiajun Yu et.al.|[2507.10290](http://arxiv.org/abs/2507.10290)|null|
@@ -2212,6 +2226,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Posture-Driven Action Intent Inference for Playing style and Fatigue Assessment**|Abhishek Jaiswal et.al.|[2507.11642](http://arxiv.org/abs/2507.11642)|null|
 |**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
 |**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797](http://arxiv.org/abs/2507.09797)|null|
 |**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Inclusion AI et.al.|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
