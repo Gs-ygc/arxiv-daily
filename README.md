@@ -1,4 +1,4 @@
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Machine Learning
@@ -14,7 +14,7 @@
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439](http://arxiv.org/abs/2507.12439)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
@@ -1750,7 +1750,7 @@
 |**2025-07-15**|**Real-Time Cloth Simulation Using WebGPU: Evaluating Limits of High-Resolution**|Nak-Jun Sung et.al.|[2507.11794](http://arxiv.org/abs/2507.11794)|null|
 |**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
-|**2025-07-14**|**TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**|Jiajun Yu et.al.|[2507.10290](http://arxiv.org/abs/2507.10290)|null|
+|**2025-07-16**|**TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**|Jiajun Yu et.al.|[2507.10290](http://arxiv.org/abs/2507.10290)|null|
 |**2025-07-13**|**Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive**|You Huang et.al.|[2507.09612](http://arxiv.org/abs/2507.09612)|null|
 |**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Siyi Wu et.al.|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-11**|**PTM-Psi on the Cloud**|Suman Samantray et.al.|[2507.09014](http://arxiv.org/abs/2507.09014)|null|
