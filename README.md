@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845](http://arxiv.org/abs/2507.15845)|null|
+|**2025-07-21**|**Identifying Conditional Causal Effects in MPDAGs**|Sara LaPlante et.al.|[2507.15842](http://arxiv.org/abs/2507.15842)|null|
+|**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839](http://arxiv.org/abs/2507.15839)|null|
+|**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
+|**2025-07-21**|**Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction**|Shiyang Li et.al.|[2507.15832](http://arxiv.org/abs/2507.15832)|null|
+|**2025-07-21**|**Observing Fine-Grained Changes in Jupyter Notebooks During Development Time**|Sergey Titov et.al.|[2507.15831](http://arxiv.org/abs/2507.15831)|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-18**|**Do mixed states exhibit deep thermalisation?**|Alan Sherry et.al.|[2507.14135](http://arxiv.org/abs/2507.14135)|null|
 |**2025-07-18**|**Learning the non-Markovian features of subsystem dynamics**|Michele Coppola et.al.|[2507.14133](http://arxiv.org/abs/2507.14133)|null|
 |**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126](http://arxiv.org/abs/2507.14126)|null|
@@ -1764,8 +1774,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Quantum logic operations and algorithms in a single 25-level atomic qudit**|Pei Jiang Low et.al.|[2507.15799](http://arxiv.org/abs/2507.15799)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-20**|**Resonant-Tunnelling Diode Reservoir Computing System for Image Recognition**|A. H. Abbas et.al.|[2507.15158](http://arxiv.org/abs/2507.15158)|null|
+|**2025-07-20**|**Bayesian Inversion via Probabilistic Cellular Automata: an application to image denoising**|Danilo Costarelli et.al.|[2507.14869](http://arxiv.org/abs/2507.14869)|null|
 |**2025-07-18**|**Weighted Matching in a Poly-Streaming Model**|Ahammed Ullah et.al.|[2507.14114](http://arxiv.org/abs/2507.14114)|null|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Muhammad Fadhil Ginting et.al.|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
 |**2025-07-17**|**DPNO: A Dual Path Architecture For Neural Operator**|Yichen Wang et.al.|[2507.12719](http://arxiv.org/abs/2507.12719)|null|
 |**2025-07-16**|**MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification**|Said Ohamouddou et.al.|[2507.12602](http://arxiv.org/abs/2507.12602)|null|
@@ -2251,6 +2265,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Collaborative Distillation Strategies for Parameter-Efficient Language Model Deployment**|Xiandong Meng et.al.|[2507.15198](http://arxiv.org/abs/2507.15198)|null|
 |**2025-07-18**|**Towards Next Generation Data Engineering Pipelines**|Kevin M. Kramer et.al.|[2507.13892](http://arxiv.org/abs/2507.13892)|null|
 |**2025-07-15**|**Posture-Driven Action Intent Inference for Playing style and Fatigue Assessment**|Abhishek Jaiswal et.al.|[2507.11642](http://arxiv.org/abs/2507.11642)|null|
 |**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
