@@ -6,6 +6,16 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748](http://arxiv.org/abs/2507.17748)|null|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731](http://arxiv.org/abs/2507.17731)|null|
+|**2025-07-23**|**CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**|Robel Mamo et.al.|[2507.17727](http://arxiv.org/abs/2507.17727)|null|
+|**2025-07-23**|**Deep Generative Learning of Magnetic Frustration in Artificial Spin Ice from Magnetic Force Microscopy Images**|Arnab Neogi et.al.|[2507.17726](http://arxiv.org/abs/2507.17726)|null|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725](http://arxiv.org/abs/2507.17725)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows**|Hongji Wang et.al.|[2507.17713](http://arxiv.org/abs/2507.17713)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**From Atoms to Dynamics: Learning the Committor Without Collective Variables**|Sergio Contreras Arredondo et.al.|[2507.17700](http://arxiv.org/abs/2507.17700)|null|
 |**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817](http://arxiv.org/abs/2507.16817)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
@@ -1784,6 +1794,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Multiprocessor Scheduling with Memory Constraints: Fundamental Properties and Finding Optimal Solutions**|Pál András Papp et.al.|[2507.17411](http://arxiv.org/abs/2507.17411)|null|
+|**2025-07-23**|**All Optical Classification Surpasses Cascaded Diffractive Networks through Dual Wavelength Differential Modulation within a Single Layer Architecture**|Haoyu Wang et.al.|[2507.17374](http://arxiv.org/abs/2507.17374)|null|
 |**2025-07-22**|**Augmenting Von Neumann's Architecture for an Intelligent Future**|Rajpreet Singh et.al.|[2507.16628](http://arxiv.org/abs/2507.16628)|null|
 |**2025-07-21**|**Quantum logic operations and algorithms in a single 25-level atomic qudit**|Pei Jiang Low et.al.|[2507.15799](http://arxiv.org/abs/2507.15799)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
@@ -2276,6 +2288,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Data Virtualization for Machine Learning**|Saiful Khan et.al.|[2507.17293](http://arxiv.org/abs/2507.17293)|null|
 |**2025-07-21**|**Collaborative Distillation Strategies for Parameter-Efficient Language Model Deployment**|Xiandong Meng et.al.|[2507.15198](http://arxiv.org/abs/2507.15198)|null|
 |**2025-07-18**|**Towards Next Generation Data Engineering Pipelines**|Kevin M. Kramer et.al.|[2507.13892](http://arxiv.org/abs/2507.13892)|null|
 |**2025-07-15**|**Posture-Driven Action Intent Inference for Playing style and Fatigue Assessment**|Abhishek Jaiswal et.al.|[2507.11642](http://arxiv.org/abs/2507.11642)|null|
